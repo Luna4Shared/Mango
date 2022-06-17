@@ -6,5 +6,6 @@
       key="Description"
       value="DH2"/>
   <properties
-      key="Remark"/>
+      key="Remark"
+      value="Test2"/>
 </archimate:BusinessActor>
