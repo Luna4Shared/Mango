@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Department Head 1"
-    id="id-01b9564c9014429b848c28f02d0c706c"/>
+    id="id-01b9564c9014429b848c28f02d0c706c">
+  <properties
+      key="Description"
+      value="DH1"/>
+</archimate:BusinessActor>
