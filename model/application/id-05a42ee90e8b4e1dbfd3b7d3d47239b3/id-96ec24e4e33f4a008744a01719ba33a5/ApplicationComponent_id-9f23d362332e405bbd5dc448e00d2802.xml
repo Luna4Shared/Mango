@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กล่องรับความคิดเห็น/ข้อร้องเรียน/ข้อเสนอแนะ(Main)"
+    id="id-9f23d362332e405bbd5dc448e00d2802">
+  <properties
+      key="Description"
+      value="กล่องรับความคิดเห็น/ข้อร้องเรียน/ข้อเสนอแนะ"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

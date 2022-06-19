@@ -1,0 +1,15 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ยุทธศาสตร์5"
+    id="id-4bcc9d4c5bf24a88a463593740719fb9"
+    documentation="เป้าประสงค์เชิงยุทธศาสตร์&#xD;&#xA;• เป็นองค์กรที่มีประสิทธิภาพสูง (HPO) ด้วยนวัตกรรม และมีธรรมาภิบาลที่ดี&#xD;&#xA;กลยุทธ์ &#xD;&#xA;5.1 สร้างบุคลากรให้มีความเป็นมืออาชีพ ปฏิบัติงานตามหลักธรรมาภิบาล และสร้างวัฒนธรรม&#xD;&#xA;แห่งการเรียนรู้*&#xD;&#xA;5.2 พัฒนา และปรับปรุงกระบวนการทำงานโดยการนำเทคโนโลยี และนวัตกรรมมาใช้">
+  <properties
+      key="Description"
+      value="พัฒนาสู่การเป็นองค์กรที่มีประสิทธิภาพสูงและยั่งยืน"/>
+  <properties
+      key="Group"
+      value="ยุทธศาสตร์"/>
+  <properties
+      key="Short Code"
+      value="ย.5"/>
+</archimate:CourseOfAction>

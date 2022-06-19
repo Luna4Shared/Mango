@@ -1,0 +1,10 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit"
+    id="id-3f81a602c0a34cdfac0fb5af497be27e">
+  <properties
+      key="Description"
+      value="การตรวจสอบ"/>
+  <properties
+      key="Description-Eng"/>
+</archimate:Assessment>

@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบประเมินผลการปฏิบัติงานของพนักงาน (COACH)"
+    id="id-c4b41c47f9d24dc78c55887b6fa10b0d">
+  <properties
+      key="Description"
+      value="ระบบประเมินผลการปฏิบัติงานของพนักงาน (COACH)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลการประเมินผลการปฏิบัติงานของพนักงาน ตัวชี้วัด KPI และ Competency"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="25"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="บริการอาคารจอดรถสายเฉลิมรัช"
+    id="id-defc1bcda0834cbfa83db37017c4f5a7">
+  <properties
+      key="Description"
+      value="สายเฉลิมรัช"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"/>
+</archimate:BusinessService>

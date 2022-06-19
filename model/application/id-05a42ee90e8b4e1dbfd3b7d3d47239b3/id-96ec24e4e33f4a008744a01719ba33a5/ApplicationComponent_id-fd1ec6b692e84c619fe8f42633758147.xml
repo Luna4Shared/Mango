@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบห้องพยาบาล (Firstaid)(Main)"
+    id="id-fd1ec6b692e84c619fe8f42633758147">
+  <properties
+      key="Description"
+      value="ระบบห้องพยาบาล (Firstaid)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Piwik Stat Analytic"
+    id="id-8b498633650a4fb4a353d493e5f1d89b">
+  <properties
+      key="Description"
+      value="Piwik Stat Analytic"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="เก็บสถิติการใช้งานระบบภายใน รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="42"/>
+</archimate:ApplicationComponent>

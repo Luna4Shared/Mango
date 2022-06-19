@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP2"
+    id="id-9bb9dcfe45c346818c8948f1162fa26b">
+  <properties
+      key="Description"
+      value="กระบวนการจัดการกรรมสิทธิ์ที่ดิน"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="CP2"/>
+</archimate:Capability>

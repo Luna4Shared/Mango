@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงานประชาสัมพันธ์ และเผยแพร่ข้อมูลข่าวสาร"
+    id="id-7c5a4779557f4163a5aee1274dd8cbed">
+  <properties
+      key="Description"
+      value="ระบบงานประชาสัมพันธ์ และเผยแพร่ข้อมูลข่าวสาร"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการงานประชาสัมพันธ์ และเผยแพร่ข้อมูลข่าวสาร"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="17"/>
+</archimate:ApplicationComponent>

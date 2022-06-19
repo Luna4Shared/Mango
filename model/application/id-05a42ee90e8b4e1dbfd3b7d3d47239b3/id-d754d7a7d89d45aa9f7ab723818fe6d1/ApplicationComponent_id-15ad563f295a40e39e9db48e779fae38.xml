@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์เงินกองทุนช่วยเหลือพนักงานและลูกจ้าง รฟม."
+    id="id-15ad563f295a40e39e9db48e779fae38">
+  <properties
+      key="Description"
+      value="เว็บไซต์เงินกองทุนช่วยเหลือพนักงานและลูกจ้าง รฟม."/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการเผยแพร่ข่าวสารเงินกองทุนช่วยเหลือพนักงานและลูกจ้าง รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="68"/>
+</archimate:ApplicationComponent>

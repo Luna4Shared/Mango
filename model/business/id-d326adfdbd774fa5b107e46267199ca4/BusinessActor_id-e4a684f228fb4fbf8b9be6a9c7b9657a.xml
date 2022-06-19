@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ผู้ช่วยผู้ว่าการ(กลยุทธ์และแผน)"
+    id="id-e4a684f228fb4fbf8b9be6a9c7b9657a">
+  <properties
+      key="Position"
+      value="ผู้ช่วยผู้ว่าการ"/>
+  <properties
+      key="Short Name"
+      value="ผยก."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessActor>

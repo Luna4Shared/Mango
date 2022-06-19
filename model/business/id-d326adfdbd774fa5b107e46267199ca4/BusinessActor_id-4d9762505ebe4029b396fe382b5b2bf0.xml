@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="สำนักงานความปลอดภัยอาชีวอนามัยและสภาพแวดล้อมในการทำงาน"
+    id="id-4d9762505ebe4029b396fe382b5b2bf0">
+  <properties
+      key="Position"
+      value="สำนักงานความปลอดภัยอาชีวอนามัยและสภาพแวดล้อมในการทำงาน"/>
+  <properties
+      key="Short Name"
+      value="สปอ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="รองผู้ว่าการฯ (วิศวกรรมและก่อสร้าง)"
+    id="id-2cd7527505d744388f1d1a28b6bf000c"
+    documentation="รองผู้ว่าการฯ (วิศวกรรมและก่อสร้าง)">
+  <properties
+      key="Position"
+      value="รองผู้ว่าการฯ (วิศวกรรมและก่อสร้าง)"/>
+  <properties
+      key="Short Name"
+      value="รผว."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessActor>

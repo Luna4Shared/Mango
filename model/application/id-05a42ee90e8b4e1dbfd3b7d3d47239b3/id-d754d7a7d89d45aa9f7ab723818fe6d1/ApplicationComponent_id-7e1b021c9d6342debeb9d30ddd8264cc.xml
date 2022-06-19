@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mantis"
+    id="id-7e1b021c9d6342debeb9d30ddd8264cc">
+  <properties
+      key="Description"
+      value="Mantis"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลรับแจ้งปัญหาระบบสารสนเทศที่พัฒนาในปีงบประมาณ 2546 และ 2547"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="73"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI-12.3"
+    id="id-c63ccd9d349d44df9a86ad2332df108e"
+    documentation="12.3 ร้อยละความสำเร็จของการดำเนินการตามแผนดิจิทัลของ รฟม. (100%)">
+  <properties
+      key="Description"
+      value="12.3 ร้อยละความสำเร็จของการดำเนินการตามแผนดิจิทัลของ รฟม. (100%)"/>
+  <properties
+      key="Group"/>
+</archimate:Goal>

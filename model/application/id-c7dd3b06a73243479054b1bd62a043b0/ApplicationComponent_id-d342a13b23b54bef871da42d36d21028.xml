@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Park2Go"
+    id="id-d342a13b23b54bef871da42d36d21028">
+  <properties
+      key="Description"
+      value="Park2Go"/>
+  <properties
+      key="Group"
+      value="แอปพลิเคชันภายนอก"/>
+  <properties
+      key="Remark"
+      value="บริษัท ปาร์ค 2 โก"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายนโยบายและยุทธศาสตร์"
+    id="id-cc4f461e1b4c4d5a82b573277d931c4b"
+    documentation="ฝ่ายนโยบายและยุทธศาสตร์">
+  <properties
+      key="Position"
+      value="ฝ่ายนโยบายและยุทธศาสตร์"/>
+  <properties
+      key="Short Name"
+      value="ฝนย."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessActor>

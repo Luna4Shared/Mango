@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="รผง."
+    id="id-ba542457c2384d9dbbd158b265a08ffa"
+    documentation="หัวหน้าเจ้าหน้าที่การเงิน (รองผู้ว่าการ (การเงิน) ปฎิบัติหน้าที่)">
+  <properties
+      key="Position"
+      value="หัวหน้าเจ้าหน้าที่การเงิน (รองผู้ว่าการ (การเงิน) ปฎิบัติหน้าที่)"/>
+  <properties
+      key="Short Name"
+      value="รผง."/>
+  <properties
+      key="Type"
+      value="Organization"/>
+</archimate:BusinessActor>

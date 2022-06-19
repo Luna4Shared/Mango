@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบการตลาดและลูกค้าสัมพันธ์ (CRM System &amp; Social Listening)(Main)"
+    id="id-60d9342dcc514d19ae2f18f2bdb97bc2">
+  <properties
+      key="Description"
+      value="ระบบการตลาดและลูกค้าสัมพันธ์ (CRM System &amp; Social Listening)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

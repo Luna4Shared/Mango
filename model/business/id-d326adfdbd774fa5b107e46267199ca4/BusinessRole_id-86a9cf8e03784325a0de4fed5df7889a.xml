@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองปฎิบัติการคอมพิวเตอร์และเครือข่าย"
+    id="id-86a9cf8e03784325a0de4fed5df7889a">
+  <properties
+      key="Position"
+      value="กองปฎิบัติการคอมพิวเตอร์และเครือข่าย"/>
+  <properties
+      key="Short Name"
+      value="กปค"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

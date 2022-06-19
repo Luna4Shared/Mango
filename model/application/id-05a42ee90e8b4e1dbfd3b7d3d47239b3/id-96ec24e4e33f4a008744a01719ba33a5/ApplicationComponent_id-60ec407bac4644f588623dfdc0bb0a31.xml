@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบสหกรณ์(Main)"
+    id="id-60ec407bac4644f588623dfdc0bb0a31">
+  <properties
+      key="Description"
+      value="ระบบสหกรณ์"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

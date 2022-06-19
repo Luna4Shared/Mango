@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองพัฒนาบุคลากร"
+    id="id-90ae66be70e6482eb44c78ea07476aeb">
+  <properties
+      key="Position"
+      value="กองพัฒนาบุคลากร"/>
+  <properties
+      key="Short Name"
+      value="กพบ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบจัดซื้อจัดจ้าง (Asset)(Main)"
+    id="id-bb1bd0a1a0674610b18656ea0c652f07">
+  <properties
+      key="Description"
+      value="ระบบจัดซื้อจัดจ้าง (Asset)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

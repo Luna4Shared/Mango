@@ -1,0 +1,13 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows 10"
+    id="id-a5be97692a67491499881bdb18328551">
+  <properties
+      key="Description"
+      value="Windows 10"/>
+  <properties
+      key="Group"
+      value="Operation System"/>
+  <properties
+      key="Remark"/>
+</archimate:SystemSoftware>

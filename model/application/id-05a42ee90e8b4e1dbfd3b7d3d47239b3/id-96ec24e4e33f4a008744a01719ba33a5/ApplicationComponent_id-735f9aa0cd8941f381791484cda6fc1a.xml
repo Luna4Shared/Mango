@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบพัสดุ (Asset Management System: ASM)(Main)"
+    id="id-735f9aa0cd8941f381791484cda6fc1a">
+  <properties
+      key="Description"
+      value="ระบบพัสดุ (Asset Management System: ASM)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

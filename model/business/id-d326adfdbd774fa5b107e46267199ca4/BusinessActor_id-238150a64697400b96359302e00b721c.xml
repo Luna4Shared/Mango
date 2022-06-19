@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายบริหารงานก่อสร้าง 1"
+    id="id-238150a64697400b96359302e00b721c">
+  <properties
+      key="Position"
+      value="ฝ่ายบริหารงานก่อสร้าง 1"/>
+  <properties
+      key="Short Name"
+      value="ฝบก.1"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="งบประมาณ การเงิน บัญชี"
+    id="ID-010"
+    documentation="อ้างอิง ตารางที่ 4.2 แสดงความสัมพันธ์ของข้อมูลและแอปพลิเคชัน">
+  <properties
+      key="Group"
+      value="ข้อมูล"/>
+  <properties
+      key="Description"
+      value="งบประมาณ การเงิน บัญชี"/>
+  <properties
+      key="Type"/>
+</archimate:DataObject>

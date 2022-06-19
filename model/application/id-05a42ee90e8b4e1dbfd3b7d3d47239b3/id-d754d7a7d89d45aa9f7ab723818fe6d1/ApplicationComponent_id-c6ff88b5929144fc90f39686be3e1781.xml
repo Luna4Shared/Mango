@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="โครงการจัดทำ Application ให้ข้อมูลบริการรถไฟฟ้า MRT"
+    id="id-c6ff88b5929144fc90f39686be3e1781">
+  <properties
+      key="Description"
+      value="โครงการจัดทำ Application ให้ข้อมูลบริการรถไฟฟ้า MRT"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="เผยแพร่ข้อมูลเกี่ยวกับการให้บริการรถไฟฟ้า (Front-end) Mobile Application เพื่อใช้เป็นข้อมูลในการเดินทาง การใช้บริการรถไฟฟ้า MRT ข้อมูลแนะนำสถานที่สำคัญ บริเวณสถานีรถไฟฟ้าที่อยู่ในความรับผิดชอบของ รฟม."/>
+  <properties
+      key="Status"
+      value="ยังไม่ได้ใช้งาน"/>
+  <properties
+      key="Remark"
+      value="วางแผนขึ้นใช้งาน เม.ษ. 65"/>
+  <properties
+      key="Seq"
+      value="80"/>
+</archimate:ApplicationComponent>

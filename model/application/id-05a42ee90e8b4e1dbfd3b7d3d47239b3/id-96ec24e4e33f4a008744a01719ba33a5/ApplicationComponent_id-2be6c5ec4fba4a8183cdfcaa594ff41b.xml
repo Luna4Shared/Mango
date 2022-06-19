@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Live Chat(Main)"
+    id="id-2be6c5ec4fba4a8183cdfcaa594ff41b">
+  <properties
+      key="Description"
+      value="Live Chat"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

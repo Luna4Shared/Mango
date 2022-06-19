@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="โครงสร้างและอัตรากำลัง"
+    id="ID-013"
+    documentation="อ้างอิง ตารางที่ 4.2 แสดงความสัมพันธ์ของข้อมูลและแอปพลิเคชัน">
+  <properties
+      key="Description"
+      value="โครงสร้างและอัตรากำลัง"/>
+  <properties
+      key="Group"
+      value="ข้อมูล"/>
+  <properties
+      key="Type"/>
+</archimate:DataObject>

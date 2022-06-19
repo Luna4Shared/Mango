@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบเงินเดือน (PayRoll)"
+    id="id-a2ce51d9b2814024a4b94e29adc9f6bd">
+  <properties
+      key="Description"
+      value="ระบบเงินเดือน (PayRoll)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลเงินเดือน ภาษี เงินได้ เงินหัก"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="26"/>
+</archimate:ApplicationComponent>

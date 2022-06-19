@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เจ้าของข้อมูล"
+    id="id-6f12d0d9b0bf424cafc80ac7beddce63">
+  <properties
+      key="Description"
+      value="เจ้าของข้อมูล"/>
+  <properties
+      key="Group"/>
+</archimate:BusinessActor>

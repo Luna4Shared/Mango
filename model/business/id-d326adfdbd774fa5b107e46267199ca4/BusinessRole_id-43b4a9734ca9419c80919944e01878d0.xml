@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="คด.2"
+    id="id-43b4a9734ca9419c80919944e01878d0"
+    documentation="กองคดี 2">
+  <properties
+      key="Position"
+      value="กองคดี 2"/>
+  <properties
+      key="Short Name"
+      value="คด.2"/>
+  <properties
+      key="Type"
+      value="Organization"/>
+</archimate:BusinessRole>

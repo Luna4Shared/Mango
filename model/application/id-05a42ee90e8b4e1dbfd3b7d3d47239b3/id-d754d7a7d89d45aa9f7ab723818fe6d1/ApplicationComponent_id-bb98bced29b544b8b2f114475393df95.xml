@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArcGIS Desktop"
+    id="id-bb98bced29b544b8b2f114475393df95">
+  <properties
+      key="Description"
+      value="ArcGIS Desktop"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลด้านสารสนเทศเชิงภูมิศาสตร์ของโครงการรถไฟฟ้า"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="35"/>
+</archimate:ApplicationComponent>

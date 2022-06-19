@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="สำนักผู้ว่าการ"
+    id="id-95913855b52a455593601aae1eecb1e1">
+  <properties
+      key="Position"
+      value="สำนักผู้ว่าการ"/>
+  <properties
+      key="Short Name"
+      value="สผว."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

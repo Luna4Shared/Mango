@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบสารสนเทศเชิงภูมิศาสตร์ (Geographic Information System: GIS)(Main)"
+    id="id-c461f944406746939a17dd4827d19411">
+  <properties
+      key="Description"
+      value="ระบบสารสนเทศเชิงภูมิศาสตร์ (Geographic Information System: GIS)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

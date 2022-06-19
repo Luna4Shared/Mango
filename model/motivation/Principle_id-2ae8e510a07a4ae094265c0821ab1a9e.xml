@@ -1,0 +1,10 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BCP"
+    id="id-2ae8e510a07a4ae094265c0821ab1a9e">
+  <properties
+      key="Description"
+      value="แผนเตรียมพร้อมในกรณีฉุกเฉิน"/>
+  <properties
+      key="Description-Eng"/>
+</archimate:Principle>

@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP14"
+    id="id-43739b495eca4d3baa8dd7cf64da7ded">
+  <properties
+      key="Description"
+      value="กระบวนการบริหารคุณภาพ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP14"/>
+</archimate:Capability>

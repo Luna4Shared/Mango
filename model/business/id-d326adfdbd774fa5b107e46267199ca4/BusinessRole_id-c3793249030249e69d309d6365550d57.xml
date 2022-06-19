@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองสวัสดิการและบริหารผลตอบแทน"
+    id="id-c3793249030249e69d309d6365550d57">
+  <properties
+      key="Position"
+      value="กองสวัสดิการและบริหารผลตอบแทน"/>
+  <properties
+      key="Short Name"
+      value="กสผ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

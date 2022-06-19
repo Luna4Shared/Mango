@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบรายงานจำนวนที่จอดรถว่าง(Main)"
+    id="id-833c8e06b65f495a82354ba53132d1f2">
+  <properties
+      key="Description"
+      value="ระบบรายงานจำนวนที่จอดรถว่าง"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

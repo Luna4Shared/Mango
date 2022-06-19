@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กนก.2"
+    id="id-4b972df77d2746f79fe6b9f95894e1df"
+    documentation="กองนิติกรรม 2">
+  <properties
+      key="Position"
+      value="กองนิติกรรม 2"/>
+  <properties
+      key="Short Name"
+      value="กนก.2"/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessRole>

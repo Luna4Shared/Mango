@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI-12.1"
+    id="id-8e318cd040e4474181f2cfac3c5901e2"
+    documentation="12.1 จำนวนกระบวนการหลักที่พัฒนาและปรับปรุงแล้ว (3 กระบวนการ)">
+  <properties
+      key="Description"
+      value="12.1 จำนวนกระบวนการหลักที่พัฒนาและปรับปรุงแล้ว (3 กระบวนการ)"/>
+  <properties
+      key="Group"/>
+</archimate:Goal>

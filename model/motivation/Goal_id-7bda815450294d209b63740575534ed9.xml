@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI-1"
+    id="id-7bda815450294d209b63740575534ed9"
+    documentation="1. ระดับความคืบหน้าโครงการรถไฟฟ้าฯ (100%เทียบกับแผน)">
+  <properties
+      key="Description"
+      value="1. ระดับความคืบหน้าโครงการรถไฟฟ้าฯ (100%เทียบกับแผน)"/>
+  <properties
+      key="Group"/>
+</archimate:Goal>

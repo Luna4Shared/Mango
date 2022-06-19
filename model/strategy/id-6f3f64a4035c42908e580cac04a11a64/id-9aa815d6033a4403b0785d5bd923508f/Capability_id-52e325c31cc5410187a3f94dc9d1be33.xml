@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP4"
+    id="id-52e325c31cc5410187a3f94dc9d1be33">
+  <properties
+      key="Description"
+      value="กระบวนการก่อสร้างงานโยธาและงานระบบไฟฟ้า"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="CP4"/>
+</archimate:Capability>

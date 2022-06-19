@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบสารสนเทศเชิงภูมิศาสตร์ : GIS"
+    id="id-2f64139a21c14738953ceeae3c21e477">
+  <properties
+      key="Description"
+      value="ระบบสารสนเทศเชิงภูมิศาสตร์ : GIS"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารข้อมูลแผนที่ตามแนวทางรถไฟฟ้า"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="33"/>
+</archimate:ApplicationComponent>

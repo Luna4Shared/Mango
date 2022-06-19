@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP18"
+    id="id-6a31562edb2641d799dd11a4ae02cd6d">
+  <properties
+      key="Description"
+      value="กระบวนการพัฒนาและจัดการระบบเทคโนโลยีสารสนเทศ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP18"/>
+</archimate:Capability>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="คณะกรรมการ รฟม."
+    id="id-6e72696acb3e4cfaa55fa65f7277d7b0">
+  <properties
+      key="Position"
+      value="คณะกรรมการ รฟม."/>
+  <properties
+      key="Short Name"
+      value="organization"/>
+  <properties
+      key="Type"
+      value="คณะกรรมการ รฟม."/>
+</archimate:BusinessActor>

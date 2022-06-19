@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองบัญชี"
+    id="id-08204fb809ce471bb25afb0c4e588d9e">
+  <properties
+      key="Position"
+      value="กองบัญชี"/>
+  <properties
+      key="Short Name"
+      value="กบช."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

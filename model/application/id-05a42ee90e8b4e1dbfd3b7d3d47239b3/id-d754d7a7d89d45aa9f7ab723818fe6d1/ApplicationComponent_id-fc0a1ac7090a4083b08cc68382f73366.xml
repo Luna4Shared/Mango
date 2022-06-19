@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Survey Monkey"
+    id="id-fc0a1ac7090a4083b08cc68382f73366">
+  <properties
+      key="Description"
+      value="Survey Monkey"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="ระบบ Survey รวมถึงการ ทำ Poll / Survey "/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="77"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="แผนกพัฒนาระบบงานคอมพิวเตอร์"
+    id="id-a756376ba64e4882979757d7714f76fd">
+  <properties
+      key="Position"
+      value="แผนกพัฒนาระบบงานคอมพิวเตอร์"/>
+  <properties
+      key="Short Name"
+      value="พค."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

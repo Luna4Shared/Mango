@@ -1,0 +1,13 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="สำนักงานตรวจเงินแผ่นดิน(สตง.)"
+    id="id-98ae29c97d6b4a13aa94215678adf6a2">
+  <properties
+      key="Description"
+      value="สำนักงานตรวจเงินแผ่นดิน(สตง.)"/>
+  <properties
+      key="Group"
+      value="แอปพลิเคชันภายนอก"/>
+  <properties
+      key="Remark"/>
+</archimate:ApplicationComponent>

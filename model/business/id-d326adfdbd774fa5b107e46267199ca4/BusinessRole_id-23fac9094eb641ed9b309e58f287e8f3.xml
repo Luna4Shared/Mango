@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองจัดหาพัสดุโครงการ"
+    id="id-23fac9094eb641ed9b309e58f287e8f3">
+  <properties
+      key="Position"
+      value="กองจัดหาพัสดุโครงการ"/>
+  <properties
+      key="Short Name"
+      value="กพค."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

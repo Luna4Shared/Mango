@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP5"
+    id="id-2b5781c9adf746308be60f14890f71da">
+  <properties
+      key="Description"
+      value="กระบวนการพัฒนาระบบเชื่อมต่อการเดินทาง"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="CP5"/>
+</archimate:Capability>

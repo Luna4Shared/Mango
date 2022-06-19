@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP1"
+    id="id-383b8f30247149d8a2645c7c126ca0b1">
+  <properties
+      key="Description"
+      value="กระบวนการศึกษา/วางแผน/ออกแบบโครงการ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="CP1"/>
+</archimate:Capability>

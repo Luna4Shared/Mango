@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายจัดซื้อและบริการ (User)"
+    id="id-8590eab3e852446ea298877685d94af1">
+  <properties
+      key="Position"
+      value="ฝ่ายจัดซื้อและบริการ"/>
+  <properties
+      key="Short Name"
+      value="ฝจบ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

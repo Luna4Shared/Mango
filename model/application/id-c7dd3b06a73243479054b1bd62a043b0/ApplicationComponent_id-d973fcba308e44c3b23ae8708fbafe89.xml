@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ION GO"
+    id="id-d973fcba308e44c3b23ae8708fbafe89">
+  <properties
+      key="Description"
+      value="ION GO"/>
+  <properties
+      key="Group"
+      value="แอปพลิเคชันภายนอก"/>
+  <properties
+      key="Remark"
+      value="บริษัท G-Able"/>
+</archimate:ApplicationComponent>

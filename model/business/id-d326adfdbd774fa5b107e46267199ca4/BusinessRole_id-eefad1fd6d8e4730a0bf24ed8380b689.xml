@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองบริหารค่าโดยสาร"
+    id="id-eefad1fd6d8e4730a0bf24ed8380b689">
+  <properties
+      key="Position"
+      value="กองบริหารค่าโดยสาร"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

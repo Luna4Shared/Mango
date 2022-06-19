@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP17"
+    id="id-90184cb086da45d2a93fa11f43568d3c">
+  <properties
+      key="Description"
+      value="กระบวนการบริหารและพัฒนาทรัพยากรบุคคล"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP17"/>
+</archimate:Capability>

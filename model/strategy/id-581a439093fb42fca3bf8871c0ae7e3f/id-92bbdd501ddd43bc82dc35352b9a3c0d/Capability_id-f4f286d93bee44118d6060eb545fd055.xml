@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP19"
+    id="id-f4f286d93bee44118d6060eb545fd055">
+  <properties
+      key="Description"
+      value="กระบวนการพัฒนาองค์ความรู้และเทคโนโลยีด้านรถไฟฟ้า"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP19"/>
+</archimate:Capability>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายธุรกิจบัตรโดยสาร"
+    id="id-b716152bcc0a4aebabf559d5e5aeee82">
+  <properties
+      key="Position"
+      value="ฝ่ายธุรกิจบัตรโดยสาร"/>
+  <properties
+      key="Short Name"
+      value="ฝธด."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessActor>

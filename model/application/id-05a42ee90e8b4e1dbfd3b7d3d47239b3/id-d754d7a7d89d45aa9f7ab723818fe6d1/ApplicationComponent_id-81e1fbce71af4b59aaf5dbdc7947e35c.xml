@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบติดตามความก้าวหน้าโครงการ  (Project Progress Monitoring System: PPMS)"
+    id="id-81e1fbce71af4b59aaf5dbdc7947e35c">
+  <properties
+      key="Description"
+      value="ระบบติดตามความก้าวหน้าโครงการ  (Project Progress Monitoring System: PPMS)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลความก้าวหน้าของโครงการรถไฟฟ้าสายต่าง ๆ "/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="31"/>
+</archimate:ApplicationComponent>

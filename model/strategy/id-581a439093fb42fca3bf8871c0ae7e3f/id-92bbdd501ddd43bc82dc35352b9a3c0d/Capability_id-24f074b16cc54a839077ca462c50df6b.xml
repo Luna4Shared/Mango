@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP15"
+    id="id-24f074b16cc54a839077ca462c50df6b">
+  <properties
+      key="Description"
+      value="กระบวนการสื่อสารองค์กร"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP15"/>
+</archimate:Capability>

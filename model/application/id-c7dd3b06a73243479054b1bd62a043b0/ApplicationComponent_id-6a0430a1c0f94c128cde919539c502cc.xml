@@ -1,0 +1,13 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กรมการปกครอง(ปค.)"
+    id="id-6a0430a1c0f94c128cde919539c502cc">
+  <properties
+      key="Description"
+      value="กรมการปกครอง(ปค.)"/>
+  <properties
+      key="Group"
+      value="แอปพลิเคชันภายนอก"/>
+  <properties
+      key="Remark"/>
+</archimate:ApplicationComponent>

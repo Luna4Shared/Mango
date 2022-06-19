@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="แจ้งปัญหา IT"
+    id="ID-046"
+    documentation="อ้างอิง ตารางที่ 4.2 แสดงความสัมพันธ์ของข้อมูลและแอปพลิเคชัน">
+  <properties
+      key="Group"
+      value="ข้อมูล"/>
+  <properties
+      key="Description"
+      value="แจ้งปัญหา IT"/>
+  <properties
+      key="Type"/>
+</archimate:DataObject>

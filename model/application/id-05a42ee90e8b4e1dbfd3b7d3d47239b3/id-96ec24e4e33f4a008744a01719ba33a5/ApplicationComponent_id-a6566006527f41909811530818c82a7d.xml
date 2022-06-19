@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงานกำกับการเดินรถ(Main)"
+    id="id-a6566006527f41909811530818c82a7d">
+  <properties
+      key="Description"
+      value="ระบบงานกำกับการเดินรถ"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

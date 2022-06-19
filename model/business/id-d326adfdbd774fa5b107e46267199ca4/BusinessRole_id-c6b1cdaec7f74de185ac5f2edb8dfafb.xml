@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="แผนกวางแผนอัตรากำลังและสรรหาบุคลากร"
+    id="id-c6b1cdaec7f74de185ac5f2edb8dfafb">
+  <properties
+      key="Position"
+      value="แผนกวางแผนอัตรากำลังและสรรหาบุคลากร"/>
+  <properties
+      key="Short Name"
+      value="วบ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

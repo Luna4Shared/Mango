@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operating System Access Control"
+    id="id-f8b49af5b76c4769869e9870593cc575">
+  <properties
+      key="Description"
+      value="การเข้าถึงระบบปฎิบัติการ"/>
+  <properties
+      key="Description-Eng"
+      value="Operating System Access Control"/>
+</archimate:Principle>

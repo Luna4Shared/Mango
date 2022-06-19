@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ทุกหน่วย"
+    id="id-83e9d1b932ba44e68dec67c02bdf1250">
+  <properties
+      key="Description"
+      value="ทุกหน่วย"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Remark"/>
+</archimate:BusinessActor>

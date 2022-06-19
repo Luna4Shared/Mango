@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองมาตราฐานบัตรโดยสาร"
+    id="id-68b4aef5a9ad4009bf5b973b4dcdf05c">
+  <properties
+      key="Position"
+      value="กองมาตราฐานบัตรโดยสาร"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

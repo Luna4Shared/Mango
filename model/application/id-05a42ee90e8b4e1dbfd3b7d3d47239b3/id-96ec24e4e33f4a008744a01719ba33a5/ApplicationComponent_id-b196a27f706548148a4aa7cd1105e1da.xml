@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบเผยแพร่เอกสารสำหรับคณะอนุกรรมการบริหาร(Main)"
+    id="id-b196a27f706548148a4aa7cd1105e1da">
+  <properties
+      key="Description"
+      value="ระบบเผยแพร่เอกสารสำหรับคณะอนุกรรมการบริหาร"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

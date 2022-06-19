@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบจัดการข้อมูลเอกสารและสื่อ Digital โครงการรถไฟฟ้า (Document and Digital Media Management System: DMS)"
+    id="id-12ccce0298344c5a92ff6870340190dc">
+  <properties
+      key="Description"
+      value="ระบบจัดการข้อมูลเอกสารและสื่อ Digital โครงการรถไฟฟ้า (Document and Digital Media Management System: DMS)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลที่เกี่ยวข้องกับโครงการรถไฟฟ้า"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="40"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบสมุดโทรศัพท์"
+    id="id-a00d0faff65e49db8e4ead726345a520">
+  <properties
+      key="Description"
+      value="ระบบสมุดโทรศัพท์"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บันทึกเบอร์โทรศัพท์"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="11"/>
+</archimate:ApplicationComponent>

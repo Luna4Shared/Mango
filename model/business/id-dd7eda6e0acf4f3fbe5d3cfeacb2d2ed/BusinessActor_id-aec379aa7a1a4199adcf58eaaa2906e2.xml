@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ที่ปรึกษาโครงการรถไฟฟ้าสายสีต่างๆ"
+    id="id-aec379aa7a1a4199adcf58eaaa2906e2">
+  <properties
+      key="Description"
+      value="ที่ปรึกษาโครงการรถไฟฟ้าสายสีต่างๆ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Remark"/>
+</archimate:BusinessActor>

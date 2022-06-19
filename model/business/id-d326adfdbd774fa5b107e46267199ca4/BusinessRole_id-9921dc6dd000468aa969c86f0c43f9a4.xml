@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองระบบงานคอมพิวเตอร์"
+    id="id-9921dc6dd000468aa969c86f0c43f9a4">
+  <properties
+      key="Position"
+      value="กองระบบงานคอมพิวเตอร์"/>
+  <properties
+      key="Short Name"
+      value="กรค."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

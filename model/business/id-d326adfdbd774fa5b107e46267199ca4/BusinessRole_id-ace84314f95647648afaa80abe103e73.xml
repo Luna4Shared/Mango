@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองแผนงานและพัฒนาระบบสารสนเทศ"
+    id="id-ace84314f95647648afaa80abe103e73">
+  <properties
+      key="Position"
+      value="กองแผนงานและพัฒนาระบบสารสนเทศ"/>
+  <properties
+      key="Short Name"
+      value="กผส"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

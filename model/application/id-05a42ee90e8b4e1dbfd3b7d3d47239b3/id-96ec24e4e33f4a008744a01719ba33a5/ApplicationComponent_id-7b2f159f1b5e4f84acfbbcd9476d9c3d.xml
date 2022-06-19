@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Piwik Stat Analytic(Main)"
+    id="id-7b2f159f1b5e4f84acfbbcd9476d9c3d">
+  <properties
+      key="Description"
+      value="Piwik Stat Analytic"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

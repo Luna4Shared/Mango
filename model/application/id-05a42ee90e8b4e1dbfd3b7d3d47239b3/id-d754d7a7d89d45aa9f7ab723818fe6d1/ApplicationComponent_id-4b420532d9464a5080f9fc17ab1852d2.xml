@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์สหกรณ์ออมทรัพย์ รฟม."
+    id="id-4b420532d9464a5080f9fc17ab1852d2">
+  <properties
+      key="Description"
+      value="เว็บไซต์สหกรณ์ออมทรัพย์ รฟม."/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการเผยแพร่ข่าวสารเกี่ยวกับสหกรณ์"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="57"/>
+</archimate:ApplicationComponent>

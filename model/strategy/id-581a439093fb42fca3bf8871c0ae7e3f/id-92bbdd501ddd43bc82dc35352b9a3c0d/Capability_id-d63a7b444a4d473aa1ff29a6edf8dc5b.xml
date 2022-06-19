@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP9"
+    id="id-d63a7b444a4d473aa1ff29a6edf8dc5b">
+  <properties
+      key="Description"
+      value="กระบวนการวางกลยุทธ์"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP9"/>
+</archimate:Capability>

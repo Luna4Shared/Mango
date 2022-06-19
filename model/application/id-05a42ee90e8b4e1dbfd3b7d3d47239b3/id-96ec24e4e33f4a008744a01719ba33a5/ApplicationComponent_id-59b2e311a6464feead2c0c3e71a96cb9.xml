@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารงานรักษา ความปลอดภัย(Main)"
+    id="id-59b2e311a6464feead2c0c3e71a96cb9">
+  <properties
+      key="Description"
+      value="ระบบบริหารงานรักษา ความปลอดภัย"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

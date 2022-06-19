@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบศูนย์ปฏิบัติการสารสนเทศของ รฟม. (Department Operation Center: DOC) และระบบสารสนเทศสำหรับผู้บริหาร (Executive Information System: EIS)(Main)"
+    id="id-52e62763a6e54b6a914a1d332613db43">
+  <properties
+      key="Description"
+      value="ระบบศูนย์ปฏิบัติการสารสนเทศของ รฟม. (Department Operation Center: DOC) และระบบสารสนเทศสำหรับผู้บริหาร (Executive Information System: EIS)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

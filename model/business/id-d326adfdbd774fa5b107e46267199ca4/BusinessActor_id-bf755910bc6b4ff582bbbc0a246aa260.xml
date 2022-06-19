@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="คณะกรรมการตรวจสอบ"
+    id="id-bf755910bc6b4ff582bbbc0a246aa260">
+  <properties
+      key="Position"
+      value="คณะกรรมการตรวจสอบ"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"
+      value="Organization"/>
+</archimate:BusinessActor>

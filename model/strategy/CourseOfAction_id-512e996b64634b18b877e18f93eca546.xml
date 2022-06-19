@@ -1,0 +1,15 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ยุทธศาสตร์1"
+    id="id-512e996b64634b18b877e18f93eca546"
+    documentation="เป้าประสงค์เชิงยุทธศาสตร์&#xD;&#xA;• มีโครงข่ายรถไฟฟ้าครอบคลุมพื้นที่กรุงเทพมหานคร และเมืองหลักของประเทศ&#xD;&#xA;• มีโครงข่ายการเชื่อมต่อกับระบบขนส่งมวลชนอื่นๆ (Inter-transfer, ตั๋วร่วม)&#xD;&#xA;• มีผู้ใช้บริการเพิ่มขึ้น&#xD;&#xA;กลยุทธ์ &#xD;&#xA;1.1 เร่งรัดการพัฒนาโครงข่ายรถไฟฟ้า และขยายโครงข่ายรถไฟฟ้าไปยังเมืองหลักอื่น&#xD;&#xA;1.2 พัฒนาระบบเชื่อมต่อระหว่างโครงข่ายรถไฟฟ้ากับระบบขนส่งอื่นๆ&#xD;&#xA;">
+  <properties
+      key="Description"
+      value="พัฒนา และบูรณาการระบบขนส่งมวลชน&#x9;"/>
+  <properties
+      key="Group"
+      value="ยุทธศาสตร์"/>
+  <properties
+      key="Short Code"
+      value="ย.1"/>
+</archimate:CourseOfAction>

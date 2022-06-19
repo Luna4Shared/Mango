@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-beeda3f0885b463abfef9781b0b0bfc2">
+  <properties
+      key="Data Type"
+      value="Process Data"/>
+  <properties
+      key="Short Code"
+      value="P"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_ID-036.xml#ID-036"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41b8a4a5e7fc403b940eb0d24ef3767e.xml#id-41b8a4a5e7fc403b940eb0d24ef3767e"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="แผนกตรวจจ่าย 2"
+    id="id-ad3952a59d214c58bb6bb39c045d562d">
+  <properties
+      key="Position"
+      value="แผนกตรวจจ่าย 2"/>
+  <properties
+      key="Short Name"
+      value="ตจ.2"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

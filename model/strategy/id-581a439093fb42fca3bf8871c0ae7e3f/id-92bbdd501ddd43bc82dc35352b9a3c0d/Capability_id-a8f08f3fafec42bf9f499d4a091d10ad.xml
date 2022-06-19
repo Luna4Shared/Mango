@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP13"
+    id="id-a8f08f3fafec42bf9f499d4a091d10ad">
+  <properties
+      key="Description"
+      value="กระบวนการบริหารความเสี่ยง"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP13"/>
+</archimate:Capability>

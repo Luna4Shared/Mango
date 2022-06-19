@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบการเงิน"
+    id="id-de3539063c664da5afca33405a9b1665">
+  <properties
+      key="Description"
+      value="ระบบการเงิน"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการงานการเงิน"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ ERP"/>
+  <properties
+      key="Seq"
+      value="22"/>
+</archimate:ApplicationComponent>

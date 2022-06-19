@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบตรวจจ่าย"
+    id="id-1714a56e83f04bc1b0c49784f7abeaad">
+  <properties
+      key="Description"
+      value="ระบบตรวจจ่าย"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการงานตรวจจ่าย"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ ERP"/>
+  <properties
+      key="Seq"
+      value="21"/>
+</archimate:ApplicationComponent>

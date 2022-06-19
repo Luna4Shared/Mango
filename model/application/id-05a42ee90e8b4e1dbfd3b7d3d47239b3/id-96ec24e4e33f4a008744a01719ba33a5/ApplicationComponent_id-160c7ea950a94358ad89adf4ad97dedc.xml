@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบตรวจสอบเงินค่าสวัสดิการ(Main)"
+    id="id-160c7ea950a94358ad89adf4ad97dedc">
+  <properties
+      key="Description"
+      value="ระบบตรวจสอบเงินค่าสวัสดิการ"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

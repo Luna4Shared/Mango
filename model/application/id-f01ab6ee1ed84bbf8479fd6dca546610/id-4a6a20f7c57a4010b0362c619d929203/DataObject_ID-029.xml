@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="อบรม (HRD)"
+    id="ID-029"
+    documentation="อ้างอิง ตารางที่ 4.2 แสดงความสัมพันธ์ของข้อมูลและแอปพลิเคชัน">
+  <properties
+      key="Type"/>
+  <properties
+      key="Description"
+      value="อบรม (HRD)"/>
+  <properties
+      key="Group"
+      value="ข้อมูล"/>
+</archimate:DataObject>

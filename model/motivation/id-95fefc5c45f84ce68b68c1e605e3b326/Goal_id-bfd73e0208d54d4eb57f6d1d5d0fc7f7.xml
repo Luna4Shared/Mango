@@ -1,0 +1,12 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เป้าประสงค์1"
+    id="id-bfd73e0208d54d4eb57f6d1d5d0fc7f7"
+    documentation="มีโครงข่ายรถไฟฟ้าครอบคลุมพื้นที่กรุงเทพมหานครและเมืองหลักของประเทศ">
+  <properties
+      key="Description"
+      value="1. มีโครงข่ายรถไฟฟ้าครอบคลุมพื้นที่กรุงเทพมหานครและเมืองหลักของประเทศ"/>
+  <properties
+      key="Group"
+      value="เป้าประสงค์"/>
+</archimate:Goal>

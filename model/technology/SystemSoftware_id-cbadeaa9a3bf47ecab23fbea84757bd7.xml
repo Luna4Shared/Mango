@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows Server 2008"
+    id="id-cbadeaa9a3bf47ecab23fbea84757bd7">
+  <properties
+      key="Description"
+      value="Windows Server 2008"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายบัญชีและการเงิน"
+    id="id-e40c28fce13c41629f041119d8feaef1">
+  <properties
+      key="Position"
+      value="ฝ่ายบัญชีและการเงิน"/>
+  <properties
+      key="Short Name"
+      value="ฝชง."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessActor>

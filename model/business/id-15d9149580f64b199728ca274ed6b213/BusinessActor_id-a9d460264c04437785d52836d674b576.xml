@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="หน่วยงานภายนอก"
+    id="id-a9d460264c04437785d52836d674b576">
+  <properties
+      key="Description"
+      value="หน่วยงานภายนอก"/>
+  <properties
+      key="Group"/>
+</archimate:BusinessActor>

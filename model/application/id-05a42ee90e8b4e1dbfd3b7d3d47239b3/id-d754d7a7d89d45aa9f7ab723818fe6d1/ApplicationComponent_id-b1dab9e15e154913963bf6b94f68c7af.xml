@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารทรัพยากรองค์กร (Enterprise resource planning: ERP)"
+    id="id-b1dab9e15e154913963bf6b94f68c7af">
+  <properties
+      key="Description"
+      value="ระบบบริหารทรัพยากรองค์กร (Enterprise resource planning: ERP)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="สนับสนุนการปฏิบัติงานด้านงบประมาณ บัญชี การเงิน ภาษี เงินกู้ ตรวจจ่าย จัดซื้อจัดจ้างและงานด้านอื่น ๆ ที่เกี่ยวข้อง"/>
+  <properties
+      key="Status"
+      value="ยังไม่ได้ใช้งาน"/>
+  <properties
+      key="Remark"
+      value="อยุ่ระหว่างขั้นตอน UAT"/>
+  <properties
+      key="Seq"
+      value="81"/>
+</archimate:ApplicationComponent>

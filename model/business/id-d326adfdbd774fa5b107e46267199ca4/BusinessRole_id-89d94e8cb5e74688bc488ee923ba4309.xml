@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กบ."
+    id="id-89d94e8cb5e74688bc488ee923ba4309"
+    documentation="กองสารบรรณ">
+  <properties
+      key="Position"
+      value="กองสารบรรณ"/>
+  <properties
+      key="Short Name"
+      value="กบ."/>
+  <properties
+      key="Type"
+      value="Organization"/>
+</archimate:BusinessRole>

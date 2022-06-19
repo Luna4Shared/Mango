@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BKK Rail"
+    id="id-e63d3796df9c41f7867d45fe0a0a349a">
+  <properties
+      key="Description"
+      value="BKK Rail"/>
+  <properties
+      key="Group"
+      value="แอปพลิเคชันภายนอก"/>
+  <properties
+      key="Remark"
+      value="ส่วนนโยบายและแผนการขนส่งและจราจร(สนข.) ร่วมกับ มหาลับฯ มหิดล"/>
+</archimate:ApplicationComponent>

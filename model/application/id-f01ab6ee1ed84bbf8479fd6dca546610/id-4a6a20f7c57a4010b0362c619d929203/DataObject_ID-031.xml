@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="จำนวนที่จอดรถว่าง (BDS)"
+    id="ID-031"
+    documentation="อ้างอิง ตารางที่ 4.2 แสดงความสัมพันธ์ของข้อมูลและแอปพลิเคชัน">
+  <properties
+      key="Group"
+      value="ข้อมูล"/>
+  <properties
+      key="Description"
+      value="จำนวนที่จอดรถว่าง (BDS)"/>
+  <properties
+      key="Type"/>
+</archimate:DataObject>

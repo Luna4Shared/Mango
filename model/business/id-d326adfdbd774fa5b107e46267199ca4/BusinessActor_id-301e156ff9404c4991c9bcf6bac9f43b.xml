@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายวิศวกรรมและสถาปัตยกรรม"
+    id="id-301e156ff9404c4991c9bcf6bac9f43b">
+  <properties
+      key="Position"
+      value="ฝ่ายวิศวกรรมและสถาปัตยกรรม"/>
+  <properties
+      key="Short Name"
+      value="ฝวส."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

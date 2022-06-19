@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารจัดการเครื่องมือ อุปกรณ์ และยานพาหนะ ฝ่ายรักษาความปลอดภัยและกู้ภัย (Security Asset Management: SAM)"
+    id="id-af50e0a4e21b4df48c2820b05554b436">
+  <properties
+      key="Description"
+      value="ระบบบริหารจัดการเครื่องมือ อุปกรณ์ และยานพาหนะ ฝ่ายรักษาความปลอดภัยและกู้ภัย (Security Asset Management: SAM)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการเครื่องมือ อุปกรณ์ และยานพาหนะ ฝ่ายรักษาความปลอดภัยและกู้ภัย"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="63"/>
+</archimate:ApplicationComponent>

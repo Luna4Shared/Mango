@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP16"
+    id="id-5ea560f6f68045949ad4ad7b4b6340e5">
+  <properties
+      key="Description"
+      value="กระบวนการบริหารงานทั่วไป "/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP16"/>
+</archimate:Capability>

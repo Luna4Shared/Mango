@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองบริหารสินทรัพย์"
+    id="id-7f8f9b362cd84f3aadb9740f8c3b73ec">
+  <properties
+      key="Position"
+      value="กองบริหารสินทรัพย์"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

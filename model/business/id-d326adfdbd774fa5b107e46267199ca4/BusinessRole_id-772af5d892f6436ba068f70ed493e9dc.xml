@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองบริหารอาคารจอดรถ"
+    id="id-772af5d892f6436ba068f70ed493e9dc">
+  <properties
+      key="Position"
+      value="กองบริหารอาคารจอดรถ"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

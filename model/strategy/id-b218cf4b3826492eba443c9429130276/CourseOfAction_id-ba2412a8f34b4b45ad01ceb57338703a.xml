@@ -1,0 +1,13 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="นโยบายการบริหารจัดการความมั่นคงปลอดภัยสำหรับผู้บริหาร"
+    id="id-ba2412a8f34b4b45ad01ceb57338703a"
+    documentation="การบริการจัดการความมั่นคงปลอดภัยสารสนเทศขององค์กรมีความสอดคล้องกับมาตรฐานสากลและกฎหมายด้านความมั่นคงปลอดภัยที่เกี่ยวข้อง">
+  <properties
+      key="Description"
+      value="นโยบายการบริหารจัดการความมั่นคงปลอดภัยสำหรับผู้บริหาร"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Remark"/>
+</archimate:CourseOfAction>

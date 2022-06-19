@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบการเรียนรู้ออนไลน์ (e - learning)"
+    id="id-be12c027c34a4105b6bc7b7ba7632d3c">
+  <properties
+      key="Description"
+      value="ระบบการเรียนรู้ออนไลน์ (e - learning)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลหลักสูตรฝึกอบรมออนไลน์"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="44"/>
+</archimate:ApplicationComponent>

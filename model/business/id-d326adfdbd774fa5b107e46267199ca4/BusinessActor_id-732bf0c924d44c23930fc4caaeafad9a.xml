@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="รองผู้ว่าการฯ (ปฏิบัติการ)"
+    id="id-732bf0c924d44c23930fc4caaeafad9a"
+    documentation="รองผู้ว่าการฯ (ปฏิบัติการ)">
+  <properties
+      key="Position"
+      value="รองผู้ว่าการฯ (ปฏิบัติการ)"/>
+  <properties
+      key="Short Name"
+      value="รผป."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessActor>

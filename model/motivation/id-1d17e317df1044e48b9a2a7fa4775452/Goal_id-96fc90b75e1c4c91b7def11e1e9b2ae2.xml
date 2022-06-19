@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ภารกิจ5"
+    id="id-96fc90b75e1c4c91b7def11e1e9b2ae2">
+  <properties
+      key="Group"
+      value="ภารกิจ"/>
+  <properties
+      key="Description"
+      value="5.สร้างศูนย์การเรียนรู้ด้านรถไฟฟ้าขนส่งมวลชน"/>
+</archimate:Goal>

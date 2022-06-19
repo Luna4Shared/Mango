@@ -1,0 +1,12 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="การควบคุมหน่วยงานภายนอกและผู้ใช้งาน (บุคคลภายนอก) เข้าถึงระบบเทคโนโลยีสารสนเทศ"
+    id="id-eabe9769ddc34755926ad1223bd0ed0c">
+  <properties
+      key="Description"
+      value="การควบคุมหน่วยงานภายนอกและผู้ใช้งาน (บุคคลภายนอก) เข้าถึงระบบเทคโนโลยีสารสนเทศ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Remark"/>
+</archimate:CourseOfAction>

@@ -1,0 +1,13 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กระบวนการสนับสนุน"
+    id="id-27cc5d85a9844140961e4fdfc5960105">
+  <properties
+      key="Description"
+      value="กระบวนการสนับสนุน"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP"/>
+</archimate:Grouping>

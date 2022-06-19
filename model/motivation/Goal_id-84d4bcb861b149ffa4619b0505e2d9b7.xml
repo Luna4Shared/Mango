@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI-3"
+    id="id-84d4bcb861b149ffa4619b0505e2d9b7"
+    documentation="3. ร้อยละที่เพิ่มขึ้นของผู้โดยสารรถไฟฟ้า (เฉลิมฯ 5% ฉลองฯ 7%)">
+  <properties
+      key="Description"
+      value="3. ร้อยละที่เพิ่มขึ้นของผู้โดยสารรถไฟฟ้า (เฉลิมฯ 5% ฉลองฯ 7%)"/>
+  <properties
+      key="Group"/>
+</archimate:Goal>

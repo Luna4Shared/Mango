@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงบประมาณ การเงิน และบัญชี(Main)"
+    id="id-a8ff6def41524440af938b5ebc2ccddc">
+  <properties
+      key="Description"
+      value="ระบบงบประมาณ การเงิน และบัญชี"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

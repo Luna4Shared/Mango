@@ -1,0 +1,14 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="หมวดที่ 6"
+    id="id-6de888ff3b1249089888003313fceb2b">
+  <properties
+      key="Domain Name"
+      value="หมวดที่ 6"/>
+  <properties
+      key="Description"
+      value="การเข้ารหัสข้อมูล"/>
+  <properties
+      key="Description-Eng"
+      value="Cryptography"/>
+</archimate:Principle>

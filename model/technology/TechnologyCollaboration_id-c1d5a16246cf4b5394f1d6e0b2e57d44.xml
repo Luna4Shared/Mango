@@ -1,0 +1,8 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft SQL Server 2019"
+    id="id-c1d5a16246cf4b5394f1d6e0b2e57d44">
+  <properties
+      key="Description"
+      value="Microsoft SQL Server 2019"/>
+</archimate:TechnologyCollaboration>

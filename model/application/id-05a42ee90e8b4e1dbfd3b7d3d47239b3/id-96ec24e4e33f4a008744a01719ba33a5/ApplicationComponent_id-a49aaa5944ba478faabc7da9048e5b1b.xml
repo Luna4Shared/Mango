@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารความเสี่ยง(Main)"
+    id="id-a49aaa5944ba478faabc7da9048e5b1b">
+  <properties
+      key="Description"
+      value="ระบบบริหารความเสี่ยง"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

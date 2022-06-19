@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองการตลาดและลูกค้าสัมพันธ์"
+    id="id-ddaf0d4868264e54bb0e2a7ff18d9b07">
+  <properties
+      key="Position"
+      value="กองการตลาดและลูกค้าสัมพันธ์"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

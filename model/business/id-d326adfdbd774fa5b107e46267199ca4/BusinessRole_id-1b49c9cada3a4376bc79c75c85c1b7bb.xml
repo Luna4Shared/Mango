@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองกลยุทธ์และแผนงาน"
+    id="id-1b49c9cada3a4376bc79c75c85c1b7bb">
+  <properties
+      key="Position"
+      value="กองกลยุทธ์และแผนงาน"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessRole>

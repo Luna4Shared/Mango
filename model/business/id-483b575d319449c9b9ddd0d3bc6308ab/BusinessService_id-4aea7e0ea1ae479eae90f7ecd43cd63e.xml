@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="บริการรถไฟฟ้าสายฉลองรัช"
+    id="id-4aea7e0ea1ae479eae90f7ecd43cd63e">
+  <properties
+      key="Description"
+      value="สายฉลองรัช"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"/>
+</archimate:BusinessService>

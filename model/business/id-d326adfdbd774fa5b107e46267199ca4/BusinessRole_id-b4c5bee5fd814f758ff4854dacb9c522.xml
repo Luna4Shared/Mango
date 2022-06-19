@@ -1,0 +1,14 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กกอ."
+    id="id-b4c5bee5fd814f758ff4854dacb9c522"
+    documentation="กองกิจกรรมองค์กร">
+  <properties
+      key="Position"
+      value="กองกิจกรรมองค์กร"/>
+  <properties
+      key="Short Name"
+      value="กกอ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

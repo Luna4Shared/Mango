@@ -1,0 +1,10 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assessment"
+    id="id-4fc51b0ad860453ea998eb76a1136346">
+  <properties
+      key="Description"
+      value="การประเมินความเสี่ยง"/>
+  <properties
+      key="Description-Eng"/>
+</archimate:Assessment>

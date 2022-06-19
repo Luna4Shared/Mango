@@ -1,0 +1,14 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0e21a98e611348358054d2ce3cc0c8be">
+  <properties
+      key="Domain Name"
+      value="11"/>
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-4bc3ada0525544248ef6e28ba0630781.xml#id-4bc3ada0525544248ef6e28ba0630781"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-47d5f028c83b44ffb1fa431a8637f838.xml#id-47d5f028c83b44ffb1fa431a8637f838"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองบำรุงรักษาโครงสร้างงานโยธา"
+    id="id-4ed98981c4024c08b2d365c57bd9e643">
+  <properties
+      key="Position"
+      value="กองบำรุงรักษาโครงสร้างงานโยธา"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

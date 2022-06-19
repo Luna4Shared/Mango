@@ -1,0 +1,12 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="วิสัยทัศน์1"
+    id="id-61fa678bc21a442e8a4b91c0367b5123"
+    documentation="เป็นองค์กรที่มีความเป็นเลิศด้านรถไฟฟ้าขนส่งมวลชน ที่สามารถยกระดับคุณภาพชีวิต&#xD;&#xA;ประชาชนและส่งเสริมการพัฒนาเมืองอย่างยั่งยืน">
+  <properties
+      key="Group"
+      value="วิสัยทัศน์"/>
+  <properties
+      key="Description"
+      value="เป็นองค์กรที่มีความเป็นเลิศด้านรถไฟฟ้าขนส่งมวลชน ที่สามารถยกระดับคุณภาพชีวิต"/>
+</archimate:Goal>

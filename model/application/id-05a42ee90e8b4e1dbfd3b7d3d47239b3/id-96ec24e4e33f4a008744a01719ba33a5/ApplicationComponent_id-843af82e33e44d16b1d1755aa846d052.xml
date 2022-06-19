@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบทะเบียนฐานข้อมูลกลางและ Web Service(Main)"
+    id="id-843af82e33e44d16b1d1755aa846d052">
+  <properties
+      key="Description"
+      value="ระบบทะเบียนฐานข้อมูลกลางและ Web Service"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

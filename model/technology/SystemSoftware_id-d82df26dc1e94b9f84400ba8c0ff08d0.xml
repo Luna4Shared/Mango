@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows Server 2012"
+    id="id-d82df26dc1e94b9f84400ba8c0ff08d0">
+  <properties
+      key="Description"
+      value="Windows Server 2012"/>
+</archimate:SystemSoftware>

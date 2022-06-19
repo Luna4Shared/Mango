@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ห้องประชุม"
+    id="ID-006"
+    documentation="อ้างอิง ตารางที่ 4.2 แสดงความสัมพันธ์ของข้อมูลและแอปพลิเคชัน">
+  <properties
+      key="Description"
+      value="ห้องประชุม"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Group"
+      value="ข้อมูล"/>
+</archimate:DataObject>

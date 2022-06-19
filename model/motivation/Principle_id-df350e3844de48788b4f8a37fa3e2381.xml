@@ -1,0 +1,14 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="หมวดที่ 4"
+    id="id-df350e3844de48788b4f8a37fa3e2381">
+  <properties
+      key="Domain Name"
+      value="หมวดที่ 4"/>
+  <properties
+      key="Description"
+      value="การจัดหมวดหมู่และการควบคุมสินทรัพย์ขององค์กร"/>
+  <properties
+      key="Description-Eng"
+      value="Asset management"/>
+</archimate:Principle>

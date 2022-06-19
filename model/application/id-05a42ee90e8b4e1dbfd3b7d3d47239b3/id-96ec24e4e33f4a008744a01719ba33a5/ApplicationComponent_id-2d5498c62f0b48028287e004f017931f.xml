@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบเงินเดือน (PayRoll)(Main)"
+    id="id-2d5498c62f0b48028287e004f017931f">
+  <properties
+      key="Description"
+      value="ระบบเงินเดือน (PayRoll)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

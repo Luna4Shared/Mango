@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์ รฟม. (https://www.mrta.co.th)"
+    id="id-9955a8701e07449181f66a6aa4fbaa6a">
+  <properties
+      key="Description"
+      value="เว็บไซต์ รฟม. (https://www.mrta.co.th)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="เป็นช่องทางประชาสัมพันธ์ข้อมูลหน่วยงาน และ อำนวยความสะดวกแก่พนักงานในด้านการลาปฏิบัติงาน"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ Website หน่วยงานภายใน/ภายนอก (เว็บท่า)"/>
+  <properties
+      key="Seq"
+      value="41"/>
+</archimate:ApplicationComponent>

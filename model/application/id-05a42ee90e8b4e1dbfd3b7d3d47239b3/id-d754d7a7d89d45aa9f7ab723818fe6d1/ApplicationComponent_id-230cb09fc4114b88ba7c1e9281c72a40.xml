@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบรายงานจำนวนที่จอดรถว่าง"
+    id="id-230cb09fc4114b88ba7c1e9281c72a40">
+  <properties
+      key="Description"
+      value="ระบบรายงานจำนวนที่จอดรถว่าง"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="เป็นหน้า web แสดงผลที่จอดรถว่างของโครงการรถไฟฟ้า สายเฉลิมรัชมงคล (Realtime)"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="46"/>
+</archimate:ApplicationComponent>

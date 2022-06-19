@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กปส."
+    id="id-f965afac9337423e8dfac524a00aa014"
+    documentation="กองประชาสัมพันธ์">
+  <properties
+      key="Position"
+      value="กองประชาสัมพันธ์"/>
+  <properties
+      key="Short Name"
+      value="กปส."/>
+  <properties
+      key="Type"
+      value="Organization"/>
+</archimate:BusinessRole>

@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารทรัพยากรบุคคล (HR)(Main)"
+    id="id-7861f7c4f84844e2b5e5fcc6a176fb92">
+  <properties
+      key="Description"
+      value="ระบบบริหารทรัพยากรบุคคล (HR)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

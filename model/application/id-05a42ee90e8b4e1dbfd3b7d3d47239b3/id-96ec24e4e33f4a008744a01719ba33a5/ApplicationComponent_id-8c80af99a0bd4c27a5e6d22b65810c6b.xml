@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mantis(Main)"
+    id="id-8c80af99a0bd4c27a5e6d22b65810c6b">
+  <properties
+      key="Description"
+      value="Mantis"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

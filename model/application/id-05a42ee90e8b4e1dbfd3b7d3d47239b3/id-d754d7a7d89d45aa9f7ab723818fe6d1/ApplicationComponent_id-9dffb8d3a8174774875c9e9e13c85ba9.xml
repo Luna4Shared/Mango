@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Live Chat"
+    id="id-9dffb8d3a8174774875c9e9e13c85ba9">
+  <properties
+      key="Description"
+      value="Live Chat"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="เป็นช่องทางให้บริการสอบถามข้อมูลแก่ประชาชน"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="47"/>
+</archimate:ApplicationComponent>

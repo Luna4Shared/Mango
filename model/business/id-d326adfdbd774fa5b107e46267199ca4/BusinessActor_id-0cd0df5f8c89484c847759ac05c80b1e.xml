@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="สำนักนิติกรรม"
+    id="id-0cd0df5f8c89484c847759ac05c80b1e">
+  <properties
+      key="Position"
+      value="สำนักนิติกรรม"/>
+  <properties
+      key="Short Name"
+      value="สนก."/>
+  <properties
+      key="Type"
+      value="Oraganization"/>
+</archimate:BusinessActor>

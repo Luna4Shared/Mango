@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงานรักษาเขตทาง (Right of way: ROW) "
+    id="id-6a5597eedc6242d99df84f44f280d32f">
+  <properties
+      key="Description"
+      value="ระบบงานรักษาเขตทาง (Right of way: ROW)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลการเกิดเหตุการณ์บุกรุก/เข้าพื้นที่โดยไม่ได้รับอนุญาตตามแนวสายทางรถไฟฟ้ามหานคร รวมถึงข้อมูลข้อมูลผู้บุกรุก/ผู้ต้องสงสัย/ผู้เกี่ยวข้อง"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="65"/>
+</archimate:ApplicationComponent>

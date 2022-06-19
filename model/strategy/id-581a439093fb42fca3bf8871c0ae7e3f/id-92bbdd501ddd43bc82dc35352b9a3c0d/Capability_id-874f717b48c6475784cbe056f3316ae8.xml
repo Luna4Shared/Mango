@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP20"
+    id="id-874f717b48c6475784cbe056f3316ae8">
+  <properties
+      key="Description"
+      value="กระบวนการจัดซื้อจัดจ้าง"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP20"/>
+</archimate:Capability>

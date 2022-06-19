@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ผวก."
+    id="id-02f25abacb8c4069b18d955b654d7821"
+    documentation="ผู้ว่าการ">
+  <properties
+      key="Position"
+      value="ผู้ว่าการ"/>
+  <properties
+      key="Short Name"
+      value="ผวก."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

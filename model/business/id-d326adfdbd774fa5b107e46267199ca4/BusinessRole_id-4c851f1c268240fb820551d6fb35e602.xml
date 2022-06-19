@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองเงินกู้"
+    id="id-4c851f1c268240fb820551d6fb35e602">
+  <properties
+      key="Position"
+      value="กองเงินกู้"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

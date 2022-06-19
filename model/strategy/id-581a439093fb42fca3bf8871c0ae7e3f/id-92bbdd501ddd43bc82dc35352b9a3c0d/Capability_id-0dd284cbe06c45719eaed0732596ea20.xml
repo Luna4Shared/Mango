@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP12"
+    id="id-0dd284cbe06c45719eaed0732596ea20">
+  <properties
+      key="Description"
+      value="กระบวนการกำกับดูแลที่ดี"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP12"/>
+</archimate:Capability>

@@ -1,0 +1,14 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="หมวดที่ 10"
+    id="id-b74fa884b7374b948ec13e4bb686d9fb">
+  <properties
+      key="Domain Name"
+      value="หมวดที่ 10"/>
+  <properties
+      key="Description"
+      value="การจัดหา พัฒนา และการบำรุงรักษาระบบ"/>
+  <properties
+      key="Description-Eng"
+      value="Systems Acquisition, Development And Maintenance"/>
+</archimate:Principle>

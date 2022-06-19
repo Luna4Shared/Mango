@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองตรวจจ่าย"
+    id="id-60511be471714220b5d820aefe59f853">
+  <properties
+      key="Position"
+      value="กองตรวจจ่าย"/>
+  <properties
+      key="Short Name"
+      value="กตจ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

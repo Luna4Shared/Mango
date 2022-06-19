@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="สตส."
+    id="id-e8429ff9c067403984ffd22d910b23f4"
+    documentation="สำนักตรวจสอบ">
+  <properties
+      key="Position"
+      value="สำนักตรวจสอบ"/>
+  <properties
+      key="Short Name"
+      value="สตส."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessActor>

@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI-5"
+    id="id-af3cf9cd8bf44ae5b6544b4699688cd1"
+    documentation="5. ร้อยละผลตอบแทนต่อสินทรัพย์ (ROA) (ร้อยละ 1.02)">
+  <properties
+      key="Description"
+      value="5. ร้อยละผลตอบแทนต่อสินทรัพย์ (ROA) (ร้อยละ 1.02)"/>
+  <properties
+      key="Group"/>
+</archimate:Goal>

@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายทรัพยากรบุคคล"
+    id="id-dc9bdbab408d4547b5fc5b0f74831c44">
+  <properties
+      key="Position"
+      value="ฝ่ายทรัพยากรบุคคล"/>
+  <properties
+      key="Short Name"
+      value="ฝทบ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

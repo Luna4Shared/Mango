@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองวางแผนธุรกิจ"
+    id="id-10b5cea15727451681dc87c2bf514060">
+  <properties
+      key="Position"
+      value="กองวางแผนธุรกิจ"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

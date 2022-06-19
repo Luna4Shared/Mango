@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="แผนกบริหารจัดการความรู้"
+    id="id-a9da23cbfffc414597d61f058fa56a58">
+  <properties
+      key="Position"
+      value="แผนกบริหารจัดการความรู้"/>
+  <properties
+      key="Short Name"
+      value="บร."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

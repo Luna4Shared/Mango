@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายพัฒนาธุรกิจ"
+    id="id-a4710f055aae4bc4a520512824c95f38">
+  <properties
+      key="Position"
+      value="ฝ่ายพัฒนาธุรกิจ"/>
+  <properties
+      key="Short Name"
+      value="ฝพธ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

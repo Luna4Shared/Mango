@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ประชาชน"
+    id="id-c5301d76f27445cdb599fbaf9c0dd860">
+  <properties
+      key="Description"
+      value="ประชาชน"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Remark"/>
+</archimate:BusinessActor>

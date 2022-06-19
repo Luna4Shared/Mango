@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบัญชี MAC-5(Main)"
+    id="id-875acff9277d4486828f1db4abe417e4">
+  <properties
+      key="Description"
+      value="ระบบบัญชี MAC-5"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

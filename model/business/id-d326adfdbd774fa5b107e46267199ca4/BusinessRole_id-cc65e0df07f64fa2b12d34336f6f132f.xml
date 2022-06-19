@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองวิศวกรรมไฟฟ้าและเครื่องกล"
+    id="id-cc65e0df07f64fa2b12d34336f6f132f">
+  <properties
+      key="Position"
+      value="กองวิศวกรรมไฟฟ้าและเครื่องกล"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

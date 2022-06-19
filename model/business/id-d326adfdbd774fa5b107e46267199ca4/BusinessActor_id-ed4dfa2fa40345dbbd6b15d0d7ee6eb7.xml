@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายระบบรถไฟฟ้า"
+    id="id-ed4dfa2fa40345dbbd6b15d0d7ee6eb7">
+  <properties
+      key="Position"
+      value="ฝ่ายระบบรถไฟฟ้า"/>
+  <properties
+      key="Short Name"
+      value="ฝรฟ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

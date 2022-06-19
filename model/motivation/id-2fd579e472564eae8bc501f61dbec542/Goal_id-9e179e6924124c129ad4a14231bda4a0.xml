@@ -1,0 +1,13 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI_6Y_1.1"
+    id="id-9e179e6924124c129ad4a14231bda4a0">
+  <properties
+      key="Description"
+      value="1.1 ขีดความสามารถการเปิดให้บริการรถไฟฟ้าตามแผนฯ"/>
+  <properties
+      key="Group"
+      value="KPI 6 Years"/>
+  <properties
+      key="Short Code"/>
+</archimate:Goal>

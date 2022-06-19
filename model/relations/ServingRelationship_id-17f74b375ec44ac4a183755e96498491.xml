@@ -1,0 +1,14 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-17f74b375ec44ac4a183755e96498491">
+  <properties
+      key="Description"
+      value="ข้อมูลชำระเงิน ค่าเช่าแผงค้า"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9f5b773a908e458584732df96e48c2ec.xml#id-9f5b773a908e458584732df96e48c2ec"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d70737160ad14fedba4aca349ed6c5f7.xml#id-d70737160ad14fedba4aca349ed6c5f7"/>
+</archimate:ServingRelationship>

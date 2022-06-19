@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP8"
+    id="id-dd8096d148d94b31b64cf47d37cded5c">
+  <properties
+      key="Description"
+      value="กระบวนการรักษาความปลอดภัยและกู้ภัย"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="CP8"/>
+</archimate:Capability>

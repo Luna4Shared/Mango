@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองแผนงานจัดกรรมสิทธิ์"
+    id="id-da2dd28528344602bfb6b4fd8a16c966">
+  <properties
+      key="Position"
+      value="กองแผนงานจัดกรรมสิทธิ์"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

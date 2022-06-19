@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ผยก.(วิศวกรรมและก่อสร้าง1)"
+    id="id-54b8b05e0f3640b1b670174f2d298169">
+  <properties
+      key="Position"
+      value="ผู้ช่วยผู้ว่าการฯ"/>
+  <properties
+      key="Short Name"
+      value="ผยก."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

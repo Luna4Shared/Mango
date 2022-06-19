@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบอาคารสถานที่และยานพาหนะ(Main)"
+    id="id-3e3c3319791b4378860b27a82f68c85b">
+  <properties
+      key="Description"
+      value="ระบบอาคารสถานที่และยานพาหนะ"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

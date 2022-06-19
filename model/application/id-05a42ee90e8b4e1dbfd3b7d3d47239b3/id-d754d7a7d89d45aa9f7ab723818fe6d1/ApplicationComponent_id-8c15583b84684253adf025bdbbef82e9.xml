@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงานกำกับการเดินรถ"
+    id="id-8c15583b84684253adf025bdbbef82e9">
+  <properties
+      key="Description"
+      value="ระบบงานกำกับการเดินรถ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="ตรวจสอบ ประเมินผลการปฏิบัติงานของผู้รับสัมปทาน และใช้ในการควบคุมคุณภาพการให้บริการให้ได้ตามมาตรฐานที่กำหนด"/>
+  <properties
+      key="Status"
+      value="อยู่ระหว่างพัฒนา"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="74"/>
+</archimate:ApplicationComponent>

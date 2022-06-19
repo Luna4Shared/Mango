@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ETL"
+    id="id-29151040532c4d2ba8e4f52e204a3774">
+  <properties
+      key="Description"
+      value="ETL"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="จัดเตรียมข้อมูลนำไปใช้ในระบบ BI/ Dashboard"/>
+  <properties
+      key="Status"
+      value="ยังไม่ได้ใช้งาน"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="84"/>
+</archimate:ApplicationComponent>

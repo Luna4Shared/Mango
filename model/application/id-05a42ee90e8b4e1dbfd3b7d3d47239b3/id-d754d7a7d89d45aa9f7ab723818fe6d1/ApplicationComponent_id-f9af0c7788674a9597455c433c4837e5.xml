@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบพัฒนาพื้นที่และบริหารค่าจอดรถ"
+    id="id-f9af0c7788674a9597455c433c4837e5">
+  <properties
+      key="Description"
+      value="ระบบพัฒนาพื้นที่และบริหารค่าจอดรถ(BDS)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="29"/>
+</archimate:ApplicationComponent>

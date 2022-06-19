@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบจัดการกรรมสิทธิ์ที่ดิน (NUMAP) สายเฉลิมรัชมงคลสีน้ำเงินส่วนต่อขยาย"
+    id="id-bb46d251353c43689f78abbaf0a25012">
+  <properties
+      key="Description"
+      value="ระบบจัดการกรรมสิทธิ์ที่ดิน (NUMAP) สายเฉลิมรัชมงคลสีน้ำเงินส่วนต่อขยาย"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลเกี่ยวกับกรรมสิทธิ์และการเวนคืนที่ดิน/สิ่งปลูกสร้าง "/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ GIS"/>
+  <properties
+      key="Seq"
+      value="55"/>
+</archimate:ApplicationComponent>

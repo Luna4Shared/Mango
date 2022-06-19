@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายพัฒนาโครงการรถไฟฟ้า"
+    id="id-ad5dfd6ae5764a54b0fc27efcceb7e1a"
+    documentation="ฝ่ายพัฒนาโครงการรถไฟฟ้า">
+  <properties
+      key="Position"
+      value="ฝ่ายพัฒนาโครงการรถไฟฟ้า"/>
+  <properties
+      key="Short Name"
+      value="ฝพค."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessActor>

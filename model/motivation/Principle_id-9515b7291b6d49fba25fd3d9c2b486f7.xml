@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="หมวดที่ 1"
+    id="id-9515b7291b6d49fba25fd3d9c2b486f7"
+    documentation="1. นโยบายความมั่นคงปลอดภัยสารสนเทศ">
+  <properties
+      key="Domain Name"
+      value="หมวดที่ 1"/>
+  <properties
+      key="Description"
+      value="นโยบายความมั่นคงปลอดภัยสารสนเทศ"/>
+  <properties
+      key="Description-Eng"
+      value="Information Security Policy"/>
+</archimate:Principle>

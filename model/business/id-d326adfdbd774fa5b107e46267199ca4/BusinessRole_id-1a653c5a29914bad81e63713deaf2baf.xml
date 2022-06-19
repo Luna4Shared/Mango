@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กกค."
+    id="id-1a653c5a29914bad81e63713deaf2baf"
+    documentation="กองกิจกรรมคณะกรรมการ">
+  <properties
+      key="Position"
+      value="กองกิจกรรมคณะกรรมการ"/>
+  <properties
+      key="Short Name"
+      value="กกค."/>
+  <properties
+      key="Type"
+      value="Organization"/>
+</archimate:BusinessRole>

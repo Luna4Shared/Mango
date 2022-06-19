@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบสารบรรณอิเล็กทรอนิกส์"
+    id="id-74bd42009855464caaae7bba8b6be116">
+  <properties
+      key="Description"
+      value="ระบบสารบรรณอิเล็กทรอนิกส์"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="ระบบงานสารบรรณอิเล็กทรอนิกส์   เป็นระบบบันทึกหนังสือราชการเข้า – ออก และลงทะเบียนหนังสือด้วยอิเล็กทรอนิกส์"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="27"/>
+</archimate:ApplicationComponent>

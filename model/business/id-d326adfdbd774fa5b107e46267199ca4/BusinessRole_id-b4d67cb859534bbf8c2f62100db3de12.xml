@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองสิ่งแวดล้อม"
+    id="id-b4d67cb859534bbf8c2f62100db3de12">
+  <properties
+      key="Position"
+      value="กองสิ่งแวดล้อม"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

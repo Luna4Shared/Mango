@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="สำนักงานพัฒนาระบบงาน"
+    id="id-79f3b7832457494d9d44afc9ee4712d5">
+  <properties
+      key="Position"
+      value="สำนักงานพัฒนาระบบงาน"/>
+  <properties
+      key="Short Name"
+      value="สพร."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองวิเคราะห์และพัฒนา"
+    id="id-ffa875cfe2b941b29bcf772ee5083fe0">
+  <properties
+      key="Position"
+      value="กองวิเคราะห์และพัฒนา"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

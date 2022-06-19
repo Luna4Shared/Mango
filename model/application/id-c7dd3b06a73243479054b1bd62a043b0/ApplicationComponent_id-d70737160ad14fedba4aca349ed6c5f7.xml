@@ -1,0 +1,13 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ธ.ไทยพาณิชย์"
+    id="id-d70737160ad14fedba4aca349ed6c5f7">
+  <properties
+      key="Description"
+      value="ธ.ไทยพาณิชย์"/>
+  <properties
+      key="Group"
+      value="แอปพลิเคชันภายนอก"/>
+  <properties
+      key="Remark"/>
+</archimate:ApplicationComponent>

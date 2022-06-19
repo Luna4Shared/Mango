@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI-12.2"
+    id="id-d6afa96a17034f9e8f17b422346d0c09"
+    documentation="12.2 ร้อยละความสำเร็จของการพัฒนาระบบ ERM (100%)">
+  <properties
+      key="Description"
+      value="12.2 ร้อยละความสำเร็จของการพัฒนาระบบ ERM (100%)"/>
+  <properties
+      key="Group"/>
+</archimate:Goal>

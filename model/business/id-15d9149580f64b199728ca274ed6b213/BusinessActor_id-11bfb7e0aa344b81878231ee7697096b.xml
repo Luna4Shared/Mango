@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ผู้อำนวยการฝ่ายเทคโนโลยีสารสนเทศ"
+    id="id-11bfb7e0aa344b81878231ee7697096b">
+  <properties
+      key="Description"
+      value="ผู้อำนวยการฝ่ายเทคโนโลยีสารสนเทศ"/>
+  <properties
+      key="Group"/>
+</archimate:BusinessActor>

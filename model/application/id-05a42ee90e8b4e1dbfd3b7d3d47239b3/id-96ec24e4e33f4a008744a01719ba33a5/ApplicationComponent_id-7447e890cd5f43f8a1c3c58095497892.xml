@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบอินทราเน็ต(MITS)(Main)"
+    id="id-7447e890cd5f43f8a1c3c58095497892">
+  <properties
+      key="Description"
+      value="ระบบอินทราเน็ต(MITS)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

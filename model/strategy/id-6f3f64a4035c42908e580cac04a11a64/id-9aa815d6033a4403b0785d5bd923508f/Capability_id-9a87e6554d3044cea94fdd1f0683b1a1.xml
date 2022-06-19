@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP3"
+    id="id-9a87e6554d3044cea94fdd1f0683b1a1">
+  <properties
+      key="Description"
+      value="กระบวนการคัดเลือกที่ปรึกษา/ผู้รับเหมา/ผู้รับสัมปทาน"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="CP3"/>
+</archimate:Capability>

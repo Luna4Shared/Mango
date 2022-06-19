@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ตามสิทธิ์กรรมการ"
+    id="id-daa0aaf71f1a44c38ef3c8cc65f5251b">
+  <properties
+      key="Description"
+      value="ตามสิทธิ์กรรมการ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Remark"/>
+</archimate:BusinessActor>

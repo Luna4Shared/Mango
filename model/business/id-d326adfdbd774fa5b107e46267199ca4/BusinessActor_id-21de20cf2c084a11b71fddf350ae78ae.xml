@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="สำนักสื่อสารองค์กร"
+    id="id-21de20cf2c084a11b71fddf350ae78ae">
+  <properties
+      key="Position"
+      value="สำนักสื่อสารองค์กร"/>
+  <properties
+      key="Short Name"
+      value="สสอ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

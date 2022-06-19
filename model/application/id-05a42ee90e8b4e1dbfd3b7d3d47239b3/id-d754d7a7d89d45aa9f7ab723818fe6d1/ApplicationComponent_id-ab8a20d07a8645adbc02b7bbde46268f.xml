@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบพัสดุ (Asset Management System: ASM)"
+    id="id-ab8a20d07a8645adbc02b7bbde46268f">
+  <properties
+      key="Description"
+      value="ระบบพัสดุ (Asset Management System: ASM)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการวัสดุและครุภัณฑ์ รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="37"/>
+</archimate:ApplicationComponent>

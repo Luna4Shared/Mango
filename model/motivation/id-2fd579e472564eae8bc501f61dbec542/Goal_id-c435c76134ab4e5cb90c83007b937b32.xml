@@ -1,0 +1,12 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI_1Y_3.2"
+    id="id-c435c76134ab4e5cb90c83007b937b32">
+  <properties
+      key="Description"
+      value="3.2 ค่า SROI"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"/>
+</archimate:Goal>

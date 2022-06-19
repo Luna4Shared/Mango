@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบทะเบียนประวัติ / การลา / การปฏิบัติงาน"
+    id="id-d63dada6ee1543e4b93bb0fe385ef99b">
+  <properties
+      key="Description"
+      value="ระบบทะเบียนประวัติ / การลา / การปฏิบัติงาน"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการทะเบียนประวัติ / การลา / การปฏิบัติงาน"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="18"/>
+</archimate:ApplicationComponent>

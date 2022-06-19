@@ -1,0 +1,15 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BDS-BKK Rail"
+    id="id-4a4efab0677c407585236351665479cb">
+  <properties
+      key="Description"
+      value="ตรวจสอบที่จอดรถว่างแบบ Realtime"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f9af0c7788674a9597455c433c4837e5.xml#id-f9af0c7788674a9597455c433c4837e5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e63d3796df9c41f7867d45fe0a0a349a.xml#id-e63d3796df9c41f7867d45fe0a0a349a"/>
+</archimate:ServingRelationship>

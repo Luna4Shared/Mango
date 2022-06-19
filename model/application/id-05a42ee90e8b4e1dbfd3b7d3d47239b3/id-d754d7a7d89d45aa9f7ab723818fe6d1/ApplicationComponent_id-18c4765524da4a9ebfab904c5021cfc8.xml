@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบอาคารสถานที่และยานพาหนะ"
+    id="id-18c4765524da4a9ebfab904c5021cfc8">
+  <properties
+      key="Description"
+      value="ระบบอาคารสถานที่และยานพาหนะ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="ขอ Sticker ติดรถยนต์เพื่อเข้าออกพื้นที่ รฟม. และบริหารห้องประชุม"/>
+  <properties
+      key="Status"
+      value="ยังไม่ได้ใช้งาน"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="87"/>
+</archimate:ApplicationComponent>

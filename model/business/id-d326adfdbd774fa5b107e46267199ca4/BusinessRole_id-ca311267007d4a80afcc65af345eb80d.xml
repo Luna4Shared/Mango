@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองวางแผนโครงการรถไฟฟ้า"
+    id="id-ca311267007d4a80afcc65af345eb80d">
+  <properties
+      key="Position"
+      value="กองวางแผนโครงการรถไฟฟ้า"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

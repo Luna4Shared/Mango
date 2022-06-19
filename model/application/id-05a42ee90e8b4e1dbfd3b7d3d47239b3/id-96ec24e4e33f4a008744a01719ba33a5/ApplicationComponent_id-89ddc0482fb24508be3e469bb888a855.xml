@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบสารบรรณอิเล็กทรอนิกส์(Main)"
+    id="id-89ddc0482fb24508be3e469bb888a855">
+  <properties
+      key="Description"
+      value="ระบบสารบรรณอิเล็กทรอนิกส์"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

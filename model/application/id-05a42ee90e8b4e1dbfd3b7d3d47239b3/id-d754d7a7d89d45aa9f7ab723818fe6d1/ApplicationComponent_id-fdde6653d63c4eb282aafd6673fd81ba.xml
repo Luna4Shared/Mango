@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบจัดซื้อจัดจ้าง"
+    id="id-fdde6653d63c4eb282aafd6673fd81ba">
+  <properties
+      key="Description"
+      value="ระบบจัดซื้อจัดจ้าง"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="ขอซื้อขอจ้าง"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ ERP"/>
+  <properties
+      key="Seq"
+      value="14"/>
+</archimate:ApplicationComponent>

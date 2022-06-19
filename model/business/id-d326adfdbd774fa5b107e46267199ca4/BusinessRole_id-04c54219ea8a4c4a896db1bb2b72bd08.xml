@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองรักษาความปลอดภัย 1"
+    id="id-04c54219ea8a4c4a896db1bb2b72bd08">
+  <properties
+      key="Position"
+      value="กองรักษาความปลอดภัย 1"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

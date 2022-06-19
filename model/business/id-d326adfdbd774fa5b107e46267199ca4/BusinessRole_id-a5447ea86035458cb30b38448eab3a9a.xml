@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองบริหารความเสี่ยงและควบคุมภายใน"
+    id="id-a5447ea86035458cb30b38448eab3a9a">
+  <properties
+      key="Position"
+      value="กองบริหารความเสี่ยงและควบคุมภายใน"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

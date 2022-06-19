@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="คำสั่งแต่งตั้ง"
+    id="id-ea03de6e0b7f45a0b2cc3fad60438ef4">
+  <properties
+      key="Description"
+      value="คำสั่งแต่งตั้ง"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการคำสั่งแต่งตั้ง"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="15"/>
+</archimate:ApplicationComponent>

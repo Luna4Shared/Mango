@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="รองผู้ว่าการฯ (กลยุทธ์และแผน)"
+    id="id-7a59ffd4bdad4e5e9ba85a81708234ff"
+    documentation="รองผู้ว่าการฯ (กลยุทธ์และแผน)">
+  <properties
+      key="Position"
+      value="รองผู้ว่าการฯ (กลยุทธ์และแผน)"/>
+  <properties
+      key="Short Name"
+      value="รผก."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessActor>

@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์ศูนย์กลางองค์ความรู้ รฟม. (KM MRTA Website)(Main)"
+    id="id-979e9d7d2fc74bb3ae05382628d79049">
+  <properties
+      key="Description"
+      value="เว็บไซต์ศูนย์กลางองค์ความรู้ รฟม. (KM MRTA Website)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

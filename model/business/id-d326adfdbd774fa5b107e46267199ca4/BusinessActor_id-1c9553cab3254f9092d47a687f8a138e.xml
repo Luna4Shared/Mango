@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายกรรมสิทธิ์ที่ดิน"
+    id="id-1c9553cab3254f9092d47a687f8a138e">
+  <properties
+      key="Position"
+      value="ฝ่ายกรรมสิทธิ์ที่ดิน"/>
+  <properties
+      key="Short Name"
+      value="ฝกท."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

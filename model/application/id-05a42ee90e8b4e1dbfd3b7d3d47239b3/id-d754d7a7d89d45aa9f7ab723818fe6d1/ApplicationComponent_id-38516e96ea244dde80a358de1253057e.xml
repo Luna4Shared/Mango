@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์พัฒนาบุคลากร (HRD)"
+    id="id-38516e96ea244dde80a358de1253057e">
+  <properties
+      key="Description"
+      value="เว็บไซต์พัฒนาบุคลากร (HRD)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการการฝึกอบรม การแลกเปลี่ยน/ถ่ายทอดองค์ความรู้ และการศึกษาดูงาน"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="45"/>
+</archimate:ApplicationComponent>

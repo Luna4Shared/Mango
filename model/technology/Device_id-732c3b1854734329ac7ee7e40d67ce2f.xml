@@ -1,0 +1,17 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lenovo"
+    id="id-732c3b1854734329ac7ee7e40d67ce2f">
+  <properties
+      key="Group"/>
+  <properties
+      key="Type"
+      value="อุปกรณ์คอมพิวเตอร์"/>
+  <properties
+      key="Brand"
+      value="Lenovo"/>
+  <properties
+      key="Model"/>
+  <properties
+      key="Units"/>
+</archimate:Device>

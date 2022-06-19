@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบประเมินผลการปฏิบัติงานของพนักงาน (COACH)(Main)"
+    id="id-c824b311ab1941d1baee5c055033e53e">
+  <properties
+      key="Description"
+      value="ระบบประเมินผลการปฏิบัติงานของพนักงาน (COACH)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

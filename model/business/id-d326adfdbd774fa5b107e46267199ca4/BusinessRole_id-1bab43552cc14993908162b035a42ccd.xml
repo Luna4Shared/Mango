@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองวิศวกรรมโยธา"
+    id="id-1bab43552cc14993908162b035a42ccd">
+  <properties
+      key="Position"
+      value="กองวิศวกรรมโยธา"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

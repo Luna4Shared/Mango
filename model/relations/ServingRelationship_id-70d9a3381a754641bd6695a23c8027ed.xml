@@ -1,0 +1,14 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-70d9a3381a754641bd6695a23c8027ed">
+  <properties
+      key="Description"
+      value="ตรวจสอบที่จอดรถว่างแบบ Realtime"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f9af0c7788674a9597455c433c4837e5.xml#id-f9af0c7788674a9597455c433c4837e5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d973fcba308e44c3b23ae8708fbafe89.xml#id-d973fcba308e44c3b23ae8708fbafe89"/>
+</archimate:ServingRelationship>

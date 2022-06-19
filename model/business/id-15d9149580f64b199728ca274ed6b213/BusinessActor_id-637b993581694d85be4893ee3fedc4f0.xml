@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ผู้บังคับบัญชา"
+    id="id-637b993581694d85be4893ee3fedc4f0">
+  <properties
+      key="Description"
+      value="ผู้บังคับบัญชา"/>
+  <properties
+      key="Group"/>
+</archimate:BusinessActor>

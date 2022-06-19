@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์การตลาดและลูกค้าสัมพันธ์ (CRM Website)(Main)"
+    id="id-b311f67d8ea340658395a141407f76c7">
+  <properties
+      key="Description"
+      value="เว็บไซต์การตลาดและลูกค้าสัมพันธ์ (CRM Website)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

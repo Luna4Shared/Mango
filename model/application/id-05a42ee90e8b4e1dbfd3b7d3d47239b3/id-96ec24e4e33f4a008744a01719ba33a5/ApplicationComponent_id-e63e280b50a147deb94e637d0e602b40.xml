@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารงานพัฒนาธุรกิจ (Business Development Solution: BDS)(Main)"
+    id="id-e63e280b50a147deb94e637d0e602b40">
+  <properties
+      key="Description"
+      value="ระบบบริหารงานพัฒนาธุรกิจ (Business Development Solution: BDS)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

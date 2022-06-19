@@ -1,0 +1,14 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7ca18bb4baf34ac48429bb242044eee0">
+  <properties
+      key="Description"
+      value="รายงานบัญชี"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80bcbe3672d448e3bc6ced791cfd3157.xml#id-80bcbe3672d448e3bc6ced791cfd3157"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-98ae29c97d6b4a13aa94215678adf6a2.xml#id-98ae29c97d6b4a13aa94215678adf6a2"/>
+</archimate:ServingRelationship>

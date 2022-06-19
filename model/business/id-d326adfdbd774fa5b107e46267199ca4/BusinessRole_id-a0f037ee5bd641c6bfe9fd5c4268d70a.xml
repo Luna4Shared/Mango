@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กตบ."
+    id="id-a0f037ee5bd641c6bfe9fd5c4268d70a"
+    documentation="กองตรวจสอบบัญชีและการเงิน">
+  <properties
+      key="Position"
+      value="กองตรวจสอบบัญชีและการเงิน"/>
+  <properties
+      key="Short Name"
+      value="กตบ."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessRole>

@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP11"
+    id="id-7dfb1ac137084d41ab8f47fae605e2bd">
+  <properties
+      key="Description"
+      value="การะบวนการดำเนินงานด้านกฏหมาย"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP11"/>
+</archimate:Capability>

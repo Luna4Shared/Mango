@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองบำรุงรักษาระบบรถไฟฟ้า"
+    id="id-693eb7997c7c418e8fe1037b3c679759">
+  <properties
+      key="Position"
+      value="กองบำรุงรักษาระบบรถไฟฟ้า"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

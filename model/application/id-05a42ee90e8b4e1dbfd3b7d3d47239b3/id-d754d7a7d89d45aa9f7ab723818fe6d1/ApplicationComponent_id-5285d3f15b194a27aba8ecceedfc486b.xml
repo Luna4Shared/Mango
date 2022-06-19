@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์ศูนย์กลางองค์ความรู้ รฟม. (KM MRTA Website)"
+    id="id-5285d3f15b194a27aba8ecceedfc486b">
+  <properties
+      key="Description"
+      value="เว็บไซต์ศูนย์กลางองค์ความรู้ รฟม. (KM MRTA Website)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลองค์ความรู้ รฟม. ข่าวสารประชาสัมพันธ์/บทความ/กรณีศึกษา/คลิปวิดีโอ/ห้องสมุด/e-book "/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="43"/>
+</archimate:ApplicationComponent>

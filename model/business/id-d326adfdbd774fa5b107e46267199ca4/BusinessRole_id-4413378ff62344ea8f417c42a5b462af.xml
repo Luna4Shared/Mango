@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ศูนย์ราชการสะดวก"
+    id="id-4413378ff62344ea8f417c42a5b462af">
+  <properties
+      key="Position"
+      value="ศูนย์ราชการสะดวก"/>
+  <properties
+      key="Short Name"
+      value="ศูนย์ราชการสะดวก"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

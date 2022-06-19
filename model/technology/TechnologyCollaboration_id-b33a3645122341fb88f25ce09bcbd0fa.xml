@@ -1,0 +1,8 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft SQL Server 2014"
+    id="id-b33a3645122341fb88f25ce09bcbd0fa">
+  <properties
+      key="Description"
+      value="Microsoft SQL Server 2014"/>
+</archimate:TechnologyCollaboration>

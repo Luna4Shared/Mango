@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองบริหารทรัพยากรบุคคล"
+    id="id-a5ccf59d12014b809798657ae902fca3">
+  <properties
+      key="Position"
+      value="กองบริหารทรัพยากรบุคคล"/>
+  <properties
+      key="Short Name"
+      value="กทบ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

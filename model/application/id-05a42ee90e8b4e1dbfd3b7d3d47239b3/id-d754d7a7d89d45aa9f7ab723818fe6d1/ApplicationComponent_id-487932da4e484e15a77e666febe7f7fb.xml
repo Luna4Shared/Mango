@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบสัมปทานและพัฒนาธุรกิจ"
+    id="id-487932da4e484e15a77e666febe7f7fb">
+  <properties
+      key="Description"
+      value="ระบบสัมปทานและพัฒนาธุรกิจ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="30"/>
+</archimate:ApplicationComponent>

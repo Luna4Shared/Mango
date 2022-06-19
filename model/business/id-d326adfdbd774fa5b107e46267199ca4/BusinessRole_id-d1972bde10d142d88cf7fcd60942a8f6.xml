@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองกำกับการเดินรถ"
+    id="id-d1972bde10d142d88cf7fcd60942a8f6">
+  <properties
+      key="Position"
+      value="กองกำกับการเดินรถ"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

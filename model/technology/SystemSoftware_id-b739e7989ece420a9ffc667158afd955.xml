@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows Server 2019"
+    id="id-b739e7989ece420a9ffc667158afd955">
+  <properties
+      key="Description"
+      value="Windows Server 2019"/>
+</archimate:SystemSoftware>

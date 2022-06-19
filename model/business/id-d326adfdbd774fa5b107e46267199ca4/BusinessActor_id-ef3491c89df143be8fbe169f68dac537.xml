@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายเทคโนโลยีสารสนเทศ"
+    id="id-ef3491c89df143be8fbe169f68dac537"
+    documentation="ฝ่ายเทคโนโลยีสารสนเทศ">
+  <properties
+      key="Position"
+      value="ฝ่ายเทคโนโลยีสารสนเทศ"/>
+  <properties
+      key="Short Name"
+      value="ฝทท."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessActor>

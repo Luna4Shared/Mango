@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบตรวจสอบและร้องเรียนด้านอาชีวอนามัย(Main)"
+    id="id-53b2724b0dd146129816ee6cfde0c145">
+  <properties
+      key="Description"
+      value="ระบบตรวจสอบและร้องเรียนด้านอาชีวอนามัย"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

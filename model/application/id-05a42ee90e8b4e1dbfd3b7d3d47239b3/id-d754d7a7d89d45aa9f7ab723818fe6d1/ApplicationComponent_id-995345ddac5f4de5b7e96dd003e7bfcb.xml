@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารความเสี่ยง"
+    id="id-995345ddac5f4de5b7e96dd003e7bfcb">
+  <properties
+      key="Description"
+      value="ระบบบริหารความเสี่ยง"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลความเสี่ยงของ รฟม."/>
+  <properties
+      key="Status"
+      value="ไม่ใช้งาน"/>
+  <properties
+      key="Remark"
+      value="อยู่ระหว่างจัดทำ TOR การกำกับดูแลกิจการที่ดีบริหารจัดการความเสี่ยงและควบคุมภายใน "/>
+  <properties
+      key="Seq"
+      value="61"/>
+</archimate:ApplicationComponent>

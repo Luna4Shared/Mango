@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองบริหารสถานที่และยานพาหนะ"
+    id="id-a7d4fc466e0a48bd9e07bc56df24301c">
+  <properties
+      key="Position"
+      value="กองบริหารสถานที่และยานพาหนะ"/>
+  <properties
+      key="Short Name"
+      value="กสย."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

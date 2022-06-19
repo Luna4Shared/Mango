@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="พนักงาน Sub Contract/พนักงานช่าง ตามสัญญาจ้างบำรุงรักษา"
+    id="id-d5d1c62d66e24fc3adfb93ca50f53b28">
+  <properties
+      key="Description"
+      value="พนักงาน Sub Contract/พนักงานช่าง ตามสัญญาจ้างบำรุงรักษา"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Remark"/>
+</archimate:BusinessActor>

@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ฝ่ายรักษาความปลอดภัยและกู้ภัย"
+    id="id-26c3cf2e898744f28ad741703f0ea025">
+  <properties
+      key="Position"
+      value="ฝ่ายรักษาความปลอดภัยและกู้ภัย"/>
+  <properties
+      key="Short Name"
+      value="ฝรภ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

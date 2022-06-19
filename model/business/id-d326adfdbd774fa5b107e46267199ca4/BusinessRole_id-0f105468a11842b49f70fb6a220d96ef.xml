@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองประเมินผล"
+    id="id-0f105468a11842b49f70fb6a220d96ef">
+  <properties
+      key="Position"
+      value="กองประเมินผล"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

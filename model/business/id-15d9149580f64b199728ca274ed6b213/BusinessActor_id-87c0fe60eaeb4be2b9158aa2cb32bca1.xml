@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ผู้อำนวยการฝ่ายจัดซื้อและบริการ"
+    id="id-87c0fe60eaeb4be2b9158aa2cb32bca1">
+  <properties
+      key="Description"
+      value="ผู้อำนวยการฝ่ายจัดซื้อและบริการ"/>
+  <properties
+      key="Group"/>
+</archimate:BusinessActor>

@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์การตลาดและลูกค้าสัมพันธ์ (CRM Website)"
+    id="id-47c0586fa8394109bb1e12565c0b2e46">
+  <properties
+      key="Description"
+      value="เว็บไซต์การตลาดและลูกค้าสัมพันธ์ (CRM Website)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="เผยแพร่ข้อมูลเกี่ยวกับการให้บริการรถไฟฟ้า เพื่อใช้เป็นข้อมูลในการเดินทาง การใช้บริการรถไฟฟ้า MRT ข้อมูลแนะนำสถานที่สำคัญ บริเวณสถานีรถไฟฟ้าที่อยู่ในความรับผิดชอบของ รฟม."/>
+  <properties
+      key="Status"
+      value="ยังไม่ได้ใช้งาน"/>
+  <properties
+      key="Remark"
+      value="เปิดทดลองภายใน&#xA;วางแผนขึ้นใช้งาน เม.ษ. 65"/>
+  <properties
+      key="Seq"
+      value="79"/>
+</archimate:ApplicationComponent>

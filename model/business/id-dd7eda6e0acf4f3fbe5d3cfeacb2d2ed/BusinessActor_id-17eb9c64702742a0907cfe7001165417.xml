@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="สหกรณ์"
+    id="id-17eb9c64702742a0907cfe7001165417">
+  <properties
+      key="Position"
+      value="สหกรณ์"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบเลขานุการคณะกรรมการ รฟม. (EDOC)"
+    id="id-e14c7b7166d746e890d105b3ddd4bf63">
+  <properties
+      key="Description"
+      value="ระบบเลขานุการคณะกรรมการ รฟม. (EDOC)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="อำนวยความสะดวกในการดำเนินงานการประชุมคณะกรรมการ รฟม. และคณะอนุกรรมการ"/>
+  <properties
+      key="Status"
+      value="รอ migrate data ก่อนเริ่มใช้งาน"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="50"/>
+</archimate:ApplicationComponent>

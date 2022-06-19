@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows Server 2016"
+    id="id-79bd217f36934d6b959098494faec343">
+  <properties
+      key="Description"
+      value="Windows Server 2016"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,12 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI_1Y_2.3"
+    id="id-6d86d9ec90a547fbbf18243007d9c8d7">
+  <properties
+      key="Description"
+      value="2.3 ผลตอบแทนต่อสินทรัพย์ (ROA)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"/>
+</archimate:Goal>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารจัดการงานกรรมสิทธิ์ที่ดิน: LAS"
+    id="id-4b61501970a2442fb2a85f016dc0214c">
+  <properties
+      key="Description"
+      value="ระบบบริหารจัดการงานกรรมสิทธิ์ที่ดิน: LAS"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารข้อมูลการเวนคืนที่ดิน และสิ่งปลูกสร้าง"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="34"/>
+</archimate:ApplicationComponent>

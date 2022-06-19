@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารความสัมพันธ์ลูกค้า (Sage)"
+    id="id-645ededf99fd46c092aec1f124e7da6c">
+  <properties
+      key="Description"
+      value="ระบบบริหารความสัมพันธ์ลูกค้า (Sage)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="สนับสนุนการปฏิบัติงานด้านการตลาดและลูกค้าสัมพันธ์ และพัฒนาธุรกิจขององค์กร"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="75"/>
+</archimate:ApplicationComponent>

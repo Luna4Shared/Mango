@@ -1,0 +1,8 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft SQL Server 2000"
+    id="id-e6b2de4ee6e649cebdaaeba56ccb0e5b">
+  <properties
+      key="Description"
+      value="Microsoft SQL Server 2000"/>
+</archimate:TechnologyCollaboration>

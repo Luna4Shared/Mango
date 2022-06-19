@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ผู้อำนวยการฝ่ายทรัพยากรบุคคล"
+    id="id-c1b318f126cf4ff3bbf8010afcf59165">
+  <properties
+      key="Description"
+      value="ผู้อำนวยการฝ่ายทรัพยากรบุคคล"/>
+  <properties
+      key="Group"/>
+</archimate:BusinessActor>

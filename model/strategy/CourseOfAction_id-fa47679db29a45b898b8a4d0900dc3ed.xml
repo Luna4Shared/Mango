@@ -1,0 +1,15 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ยุทธศาสตร์2"
+    id="id-fa47679db29a45b898b8a4d0900dc3ed"
+    documentation="เป้าประสงค์เชิงยุทธศาสตร์&#xD;&#xA;• เพิ่มช่องทางการสร้างรายได้&#xD;&#xA;• เป็นองค์กรที่มีประสิทธิภาพในการบริหารจัดการการเงินเป็นเลิศ&#xD;&#xA;กลยุทธ์&#xD;&#xA;2.1 เพิ่มโอกาสสำหรับการดำเนินธุรกิจต่อเนื่อง อาทิเช่น ธุรกิจให้เช่าพื้นที่ ธุรกิจโฆษณา ธุรกิจ&#xD;&#xA;ให้บริการที่จอดรถ เป็นต้น*&#xD;&#xA;2.2 บริหารจัดการต้นทุนทางการเงิน และการลงทุนที่มีประสิทธิภาพ โดยจัดทำแผนกลยุทธ์ด้าน&#xD;&#xA;การเงิน">
+  <properties
+      key="Description"
+      value="บริหารการเงิน และสร้างรายได้จากธุรกิจต่อเนื่อง"/>
+  <properties
+      key="Group"
+      value="ยุทธศาสตร์"/>
+  <properties
+      key="Short Code"
+      value="ย.2"/>
+</archimate:CourseOfAction>

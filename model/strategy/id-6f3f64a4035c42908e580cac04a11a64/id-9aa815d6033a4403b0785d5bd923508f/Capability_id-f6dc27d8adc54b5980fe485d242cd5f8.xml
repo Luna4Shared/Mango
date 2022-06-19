@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP6"
+    id="id-f6dc27d8adc54b5980fe485d242cd5f8">
+  <properties
+      key="Description"
+      value="กระบวนการพัฒนาธุรกิจและบริหารสินทรัพย์"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="CP6"/>
+</archimate:Capability>

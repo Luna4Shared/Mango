@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์พัฒนาบุคลากร (HRD)(Main)"
+    id="id-2bf75c5945cb4a6b92d7d8553508c73b">
+  <properties
+      key="Description"
+      value="เว็บไซต์พัฒนาบุคลากร (HRD)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

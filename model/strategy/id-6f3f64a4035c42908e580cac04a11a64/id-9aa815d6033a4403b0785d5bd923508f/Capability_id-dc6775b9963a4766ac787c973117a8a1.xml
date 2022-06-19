@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CP7"
+    id="id-dc6775b9963a4766ac787c973117a8a1">
+  <properties
+      key="Description"
+      value="กระบวนการเดินรถและบำรุงรักษา"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="CP7"/>
+</archimate:Capability>

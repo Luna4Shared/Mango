@@ -1,0 +1,14 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="หมวดที่ 13"
+    id="id-b757ceeaa53d4bbf95dfedbf3d634b44">
+  <properties
+      key="Domain Name"
+      value="หมวดที่ 13"/>
+  <properties
+      key="Description"
+      value="ความมั่นคงปลอดภัยสารสนเทศของการบริหารจัดการ เพื่อสร้างความต่อเนื่องทางธุรกิจ"/>
+  <properties
+      key="Description-Eng"
+      value="Information Security Aspects of Business Continuity Management"/>
+</archimate:Principle>

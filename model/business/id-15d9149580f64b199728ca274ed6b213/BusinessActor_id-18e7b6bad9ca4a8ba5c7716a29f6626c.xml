@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ผู้บริหารสูงสุด"
+    id="id-18e7b6bad9ca4a8ba5c7716a29f6626c">
+  <properties
+      key="Description"
+      value="ผู้บริหารสูงสุด"/>
+  <properties
+      key="Group"/>
+</archimate:BusinessActor>

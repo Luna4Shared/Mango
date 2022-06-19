@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์สหภาพแรงงานรัฐวิสาหกิจ รฟม."
+    id="id-14b0b619213448ac8742d4377b8f820f">
+  <properties
+      key="Description"
+      value="เว็บไซต์สหภาพแรงงานรัฐวิสาหกิจ รฟม."/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการเผยแพร่ข่าวสารเกี่ยวกับสหภาพแรงงานรัฐวิสาหกิจการรถไฟฟ้าขนส่งแห่งประเทศไทย"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="59"/>
+</archimate:ApplicationComponent>

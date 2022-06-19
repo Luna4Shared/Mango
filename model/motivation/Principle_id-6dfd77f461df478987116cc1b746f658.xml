@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Control"
+    id="id-6dfd77f461df478987116cc1b746f658">
+  <properties
+      key="Description"
+      value="การเข้าถึงระบบสารสนเทศ"/>
+  <properties
+      key="Description-Eng"
+      value="Access Control"/>
+</archimate:Principle>

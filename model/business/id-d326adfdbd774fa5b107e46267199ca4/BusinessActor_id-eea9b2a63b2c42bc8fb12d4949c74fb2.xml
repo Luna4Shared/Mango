@@ -1,0 +1,13 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="สำนักกฎหมาย"
+    id="id-eea9b2a63b2c42bc8fb12d4949c74fb2">
+  <properties
+      key="Position"
+      value="สำนักกฎหมาย"/>
+  <properties
+      key="Short Name"
+      value="สกม."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessActor>

@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="แผนกประเมินผลบุคลากร"
+    id="id-44ad1f79ea9d402689d11bd0d399aed0">
+  <properties
+      key="Position"
+      value="แผนกประเมินผลบุคลากร"/>
+  <properties
+      key="Short Name"
+      value="ปบ."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ที่ดิน GIS"
+    id="ID-024"
+    documentation="อ้างอิง ตารางที่ 4.2 แสดงความสัมพันธ์ของข้อมูลและแอปพลิเคชัน">
+  <properties
+      key="Type"/>
+  <properties
+      key="Description"
+      value="ที่ดิน GIS"/>
+  <properties
+      key="Group"
+      value="ข้อมูล"/>
+</archimate:DataObject>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArcGIS Server"
+    id="id-7664fe8511624a248c97c45ce6460945">
+  <properties
+      key="Description"
+      value="ArcGIS Server"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลด้านสารสนเทศเชิงภูมิศาสตร์ของโครงการรถไฟฟ้า"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="36"/>
+</archimate:ApplicationComponent>

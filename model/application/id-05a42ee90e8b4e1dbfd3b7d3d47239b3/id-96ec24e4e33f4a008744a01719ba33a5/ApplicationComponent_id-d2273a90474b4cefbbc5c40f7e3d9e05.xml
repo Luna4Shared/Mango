@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบเผยแพร่เอกสารสำหรับผู้บริหารระดับสูง รฟม.(Main)"
+    id="id-d2273a90474b4cefbbc5c40f7e3d9e05">
+  <properties
+      key="Description"
+      value="ระบบเผยแพร่เอกสารสำหรับผู้บริหารระดับสูง รฟม."/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

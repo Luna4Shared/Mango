@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CEO"
+    id="id-f6e3e2221df2447ca4b00a2c66cec064">
+  <properties
+      key="Description"
+      value="ผู้ว่าการการรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทย"/>
+</archimate:BusinessActor>

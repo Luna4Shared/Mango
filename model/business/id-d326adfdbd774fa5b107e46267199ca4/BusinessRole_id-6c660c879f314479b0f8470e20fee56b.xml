@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กตส."
+    id="id-6c660c879f314479b0f8470e20fee56b"
+    documentation="กองตรวจสอบเทคโนโลยีสารสนเทศ">
+  <properties
+      key="Position"
+      value="กองตรวจสอบเทคโนโลยีสารสนเทศ"/>
+  <properties
+      key="Short Name"
+      value="กตส."/>
+  <properties
+      key="Type"
+      value="organization"/>
+</archimate:BusinessRole>

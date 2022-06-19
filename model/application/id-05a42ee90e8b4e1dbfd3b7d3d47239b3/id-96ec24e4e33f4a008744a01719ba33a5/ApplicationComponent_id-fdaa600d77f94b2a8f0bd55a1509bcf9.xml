@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="โครงการจัดทำ Application ให้ข้อมูลบริการรถไฟฟ้า MRT(Main)"
+    id="id-fdaa600d77f94b2a8f0bd55a1509bcf9">
+  <properties
+      key="Description"
+      value="โครงการจัดทำ Application ให้ข้อมูลบริการรถไฟฟ้า MRT"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

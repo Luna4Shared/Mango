@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="แผนกบริหารอาคารและสถานที่"
+    id="id-5fe57b880ab94b748ac011bd49dc0ba3">
+  <properties
+      key="Position"
+      value="แผนกบริหารอาคารและสถานที่"/>
+  <properties
+      key="Short Name"
+      value="อส."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

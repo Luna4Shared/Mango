@@ -1,0 +1,13 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP10"
+    id="id-b3bd6a67fc5f4b2f9275d9e54b739fb6">
+  <properties
+      key="Description"
+      value="กระบวนการเงินและบัญชี"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Short Code"
+      value="SP10"/>
+</archimate:Capability>

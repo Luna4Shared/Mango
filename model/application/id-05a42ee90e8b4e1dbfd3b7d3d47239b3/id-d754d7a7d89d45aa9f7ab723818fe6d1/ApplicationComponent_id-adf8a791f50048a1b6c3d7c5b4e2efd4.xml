@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์ ITKM"
+    id="id-adf8a791f50048a1b6c3d7c5b4e2efd4">
+  <properties
+      key="Description"
+      value="เว็บไซต์ ITKM"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลองค์ความรู้ ด้านเทคโนโลยีสารสนเทศ"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="72"/>
+</archimate:ApplicationComponent>

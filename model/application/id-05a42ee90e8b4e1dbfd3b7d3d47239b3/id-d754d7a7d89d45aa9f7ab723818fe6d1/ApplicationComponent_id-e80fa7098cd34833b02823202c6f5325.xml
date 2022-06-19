@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DOC &amp; EIS (BI / Dashboard)"
+    id="id-e80fa7098cd34833b02823202c6f5325">
+  <properties
+      key="Description"
+      value="DOC &amp; EIS (BI / Dashboard)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="รองรับการใช้งานเชิงปฏิบัติการ การตัดสินใจสำหรับผู้บริหาร และออกรายงาน แลกเปลี่ยนข้อมูล วิเคราะห์ข้อมูลต่าง ๆ ตอบสนองการดำเนินงานขององค์กร"/>
+  <properties
+      key="Status"
+      value="ยังไม่ได้ใช้งาน"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="83"/>
+</archimate:ApplicationComponent>

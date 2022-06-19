@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบแจ้งปัญหา IT (Dev Support)"
+    id="id-3d3a580fba1a4c9883fa2b70d35ab605">
+  <properties
+      key="Description"
+      value="ระบบแจ้งปัญหา IT (Dev Support)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลรับการแก้ไขปัญหาระบบจาก User ภายใน รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="71"/>
+</archimate:ApplicationComponent>

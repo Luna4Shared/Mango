@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กอก."
+    id="id-eec7ee6312a343738da32aaac211e92c"
+    documentation="กองอำนวยการ">
+  <properties
+      key="Position"
+      value="กองอำนวยการ"/>
+  <properties
+      key="Short Name"
+      value="กอก."/>
+  <properties
+      key="Type"
+      value="Organization"/>
+</archimate:BusinessRole>

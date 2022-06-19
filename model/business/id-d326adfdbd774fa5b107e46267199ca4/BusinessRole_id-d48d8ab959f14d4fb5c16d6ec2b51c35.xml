@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองบริหารงานก่อสร้าง3"
+    id="id-d48d8ab959f14d4fb5c16d6ec2b51c35">
+  <properties
+      key="Position"
+      value="กองบริหารงานก่อสร้าง3"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

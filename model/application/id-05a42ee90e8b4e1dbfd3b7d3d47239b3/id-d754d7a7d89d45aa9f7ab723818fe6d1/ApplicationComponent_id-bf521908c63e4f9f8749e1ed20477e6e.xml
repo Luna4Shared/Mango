@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบเผยแพร่เอกสารสำหรับผู้บริหารระดับสูง รฟม."
+    id="id-bf521908c63e4f9f8749e1ed20477e6e">
+  <properties
+      key="Description"
+      value="ระบบเผยแพร่เอกสารสำหรับผู้บริหารระดับสูง รฟม."/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการเอกสารสำหรับผู้บริหารระดับสูง รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบเลขานุการคณะกรรมการ รฟม. (EDOC)"/>
+  <properties
+      key="Seq"
+      value="53"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mailchimp"
+    id="id-1634c26915e049b98faf4ae003281c11">
+  <properties
+      key="Description"
+      value="Mailchimp"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="ระบบ Mail ช่วยในการจัด template และจัดการสถิติในกาส่ง mail"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="78"/>
+</archimate:ApplicationComponent>

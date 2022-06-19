@@ -1,0 +1,10 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="บริการรถไฟฟ้า"
+    id="id-f27fa4677f904460a7b598615077dc02">
+  <properties
+      key="Description"
+      value="บริการรถไฟฟ้า"/>
+  <properties
+      key="Group"/>
+</archimate:BusinessService>

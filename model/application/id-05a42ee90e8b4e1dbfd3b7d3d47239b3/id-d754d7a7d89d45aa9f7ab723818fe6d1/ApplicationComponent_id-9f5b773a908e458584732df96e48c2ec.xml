@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารงานรายได้"
+    id="id-9f5b773a908e458584732df96e48c2ec">
+  <properties
+      key="Description"
+      value="ระบบบริหารงานรายได้"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="การบริหารจัดการข้อมูลรายได้ในเชิงธุรกิจ ของ รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="28"/>
+</archimate:ApplicationComponent>

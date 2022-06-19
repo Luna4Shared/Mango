@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="อุปกรณ์ และยานพาหนะ (SAM)"
+    id="ID-039"
+    documentation="อ้างอิง ตารางที่ 4.2 แสดงความสัมพันธ์ของข้อมูลและแอปพลิเคชัน">
+  <properties
+      key="Description"
+      value="อุปกรณ์ และยานพาหนะ (SAM)"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Group"
+      value="ข้อมูล"/>
+</archimate:DataObject>

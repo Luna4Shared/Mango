@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบเลขานุการคณะกรรมการ รฟม. (EDOC)(Main)"
+    id="id-32e78d7934234f3384f32eb8889b549a">
+  <properties
+      key="Description"
+      value="ระบบเลขานุการคณะกรรมการ รฟม. (EDOC)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

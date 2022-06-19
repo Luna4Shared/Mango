@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบห้องสมุดกฎหมาย(Main)"
+    id="id-785dec3645824e02a34e3f52c05c9c75">
+  <properties
+      key="Description"
+      value="ระบบห้องสมุดกฎหมาย"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ผู้ใช้งาน"
+    id="id-340283c2342a4c92ac4ec8aa631247bd">
+  <properties
+      key="Description"
+      value="ผู้ใช้งาน"/>
+  <properties
+      key="Group"/>
+</archimate:BusinessActor>

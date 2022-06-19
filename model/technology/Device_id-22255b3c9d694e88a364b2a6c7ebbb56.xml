@@ -1,0 +1,15 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DELL"
+    id="id-22255b3c9d694e88a364b2a6c7ebbb56">
+  <properties
+      key="Brand"
+      value="DELL"/>
+  <properties
+      key="Model"/>
+  <properties
+      key="Type"
+      value="อุปกรณ์คอมพิวเตอร์"/>
+  <properties
+      key="Units"/>
+</archimate:Device>

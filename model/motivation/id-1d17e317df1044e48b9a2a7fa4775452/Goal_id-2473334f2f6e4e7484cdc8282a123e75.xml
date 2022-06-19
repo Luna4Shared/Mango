@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ภารกิจ1"
+    id="id-2473334f2f6e4e7484cdc8282a123e75">
+  <properties
+      key="Group"
+      value="ภารกิจ"/>
+  <properties
+      key="Description"
+      value="1. ดำเนินการขยายโครงข่ายการให้บริการรถไฟฟ้า และระบบเชื่อมต่อ"/>
+</archimate:Goal>

@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารทรัพยากรองค์กร (Enterprise resource planning: ERP)(Main)"
+    id="id-92f67c2f33c64a2e8f2663f548bbc2cf">
+  <properties
+      key="Description"
+      value="ระบบบริหารทรัพยากรองค์กร (Enterprise resource planning: ERP)"/>
+  <properties
+      key="Group"/>
+</archimate:ApplicationComponent>

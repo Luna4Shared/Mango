@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบตรวจนับพัสดุ รฟม. (MRTA Asset Tracking System)"
+    id="id-2a684d8a33974b219f44c30c61678df2">
+  <properties
+      key="Description"
+      value="ระบบตรวจนับพัสดุ รฟม. (MRTA Asset Tracking System)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="ตรวจครุภัณฑ์ประจำปี "/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="38"/>
+</archimate:ApplicationComponent>

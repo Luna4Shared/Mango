@@ -1,0 +1,8 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Policy"
+    id="id-40a1e2ab304e4e24919dddf03bd3f5b5">
+  <properties
+      key="Description"
+      value="นโยบายเพื่อควบคุมการรักษาความมั่นคงปลอดภัยของระบบสารสนเทศ"/>
+</archimate:Outcome>

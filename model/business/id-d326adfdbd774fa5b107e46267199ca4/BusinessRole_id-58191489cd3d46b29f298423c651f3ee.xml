@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ศูนย์ฝึกอบรมบุคลากรระบบราง"
+    id="id-58191489cd3d46b29f298423c651f3ee">
+  <properties
+      key="Position"
+      value="ศูนย์ฝึกอบรมบุคลากรระบบราง"/>
+  <properties
+      key="Short Name"/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

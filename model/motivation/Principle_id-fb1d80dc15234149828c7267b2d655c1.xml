@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application and Information Access Control"
+    id="id-fb1d80dc15234149828c7267b2d655c1">
+  <properties
+      key="Description"
+      value="การเข้าถึงโปรแกรมประยุกต์หรือแอปพลิเคชันและสารสนเทศ"/>
+  <properties
+      key="Description-Eng"
+      value="Application and Information Access Control"/>
+</archimate:Principle>

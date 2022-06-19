@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows Server 2003"
+    id="id-400e6e21b4fe45b5824b4028a9482718">
+  <properties
+      key="Description"
+      value="Windows Server 2003"/>
+</archimate:SystemSoftware>

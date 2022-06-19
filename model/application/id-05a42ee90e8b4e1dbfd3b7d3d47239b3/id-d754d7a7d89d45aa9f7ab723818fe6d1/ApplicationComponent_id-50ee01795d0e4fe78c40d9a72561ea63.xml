@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบโครงสร้างและอัตรากำลัง"
+    id="id-50ee01795d0e4fe78c40d9a72561ea63">
+  <properties
+      key="Description"
+      value="ระบบโครงสร้างและอัตรากำลัง"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการโครงสร้างและอัตรากำลัง"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="16"/>
+</archimate:ApplicationComponent>

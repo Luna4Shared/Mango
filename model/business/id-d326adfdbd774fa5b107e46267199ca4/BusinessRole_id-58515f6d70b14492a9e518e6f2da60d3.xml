@@ -1,0 +1,13 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กองงบประมาณ"
+    id="id-58515f6d70b14492a9e518e6f2da60d3">
+  <properties
+      key="Position"
+      value="กองงบประมาณ"/>
+  <properties
+      key="Short Name"
+      value="กงป."/>
+  <properties
+      key="Type"/>
+</archimate:BusinessRole>

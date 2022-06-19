@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ครุภัณฑ์ (Asset)"
+    id="ID-018"
+    documentation="อ้างอิง ตารางที่ 4.2 แสดงความสัมพันธ์ของข้อมูลและแอปพลิเคชัน">
+  <properties
+      key="Group"
+      value="ข้อมูล"/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Description"
+      value="ครุภัณฑ์ (Asset)"/>
+</archimate:DataObject>

@@ -1,0 +1,10 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ผู้ดูแลระบบ"
+    id="id-92b65f7e008a4e7099ca38fd3c41731d">
+  <properties
+      key="Description"
+      value="ผู้ดูแลระบบ"/>
+  <properties
+      key="Group"/>
+</archimate:BusinessActor>

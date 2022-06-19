@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริการและอนุญาตตาม พ.ร.บ. อำนวยความสะดวก"
+    id="id-1f23d61148554719acc15cc522218948">
+  <properties
+      key="Description"
+      value="ระบบบริการและอนุญาตตาม พ.ร.บ. อำนวยความสะดวก"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="การบริการและอนุญาตตาม พรบ. อำนวยความสะดวกของ รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="48"/>
+</archimate:ApplicationComponent>

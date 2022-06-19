@@ -1,0 +1,11 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Access Control"
+    id="id-4e55ef3c9b5446c6ab38045e8479296a">
+  <properties
+      key="Description"
+      value="การเข้าถึงระบบเครือข่าย"/>
+  <properties
+      key="Description-Eng"
+      value="Network Access Control"/>
+</archimate:Principle>

@@ -1,0 +1,14 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="หมวดที่ 12"
+    id="id-7a38688a64014b68b431cdea8a531096">
+  <properties
+      key="Domain Name"
+      value="หมวดที่ 12"/>
+  <properties
+      key="Description"
+      value="การบริหารจัดการเหตุการณ์ด้านความมั่นคงปลอดภัยสารสนเทศ"/>
+  <properties
+      key="Description-Eng"
+      value="Information Security Incident Management"/>
+</archimate:Principle>
