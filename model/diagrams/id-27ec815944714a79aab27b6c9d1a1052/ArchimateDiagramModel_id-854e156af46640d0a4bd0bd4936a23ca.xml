@@ -62,7 +62,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-de0bc64d816b49b3ba815e5583fad4ff"
-        targetConnections="id-73ba03d1ed5d45e8bae555ca2895fa4b">
+        targetConnections="id-73ba03d1ed5d45e8bae555ca2895fa4b id-b58acad5de214d69910153057c58f4f1 id-646d15309b37491f80c9abd05b7df60a id-e11b6c3b24d742ab975522a42cdcb958">
       <features
           name="labelExpression"
           value="CP1.1 ก.ศึกษาวิเคราะห์ความเหมาะสมของโครงการรถไฟฟ้าและโครงการอื่นๆ"/>
@@ -149,10 +149,25 @@
     <features
         name="labelExpression"
         value="${property:Description}"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b58acad5de214d69910153057c58f4f1"
+        lineWidth="2"
+        source="id-331d61877f6b470f91569ada1ffb4cf0"
+        target="id-de0bc64d816b49b3ba815e5583fad4ff">
+      <bendpoints
+          startX="-108"
+          startY="-3"
+          endX="-84"
+          endY="180"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-bf4e3578a26748ff9393f814012e5db7.xml#id-bf4e3578a26748ff9393f814012e5db7"/>
+    </sourceConnections>
     <bounds
         x="96"
         y="300"
-        width="120"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -164,10 +179,25 @@
     <features
         name="labelExpression"
         value="${property:Description}"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-646d15309b37491f80c9abd05b7df60a"
+        lineWidth="2"
+        source="id-ac2c2edb55494108801ae613e2179328"
+        target="id-de0bc64d816b49b3ba815e5583fad4ff">
+      <bendpoints
+          startX="-108"
+          startY="-3"
+          endX="-84"
+          endY="252"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-a115d22f57c74aaa878098be5b1dd9e5.xml#id-a115d22f57c74aaa878098be5b1dd9e5"/>
+    </sourceConnections>
     <bounds
         x="96"
-        y="372"
-        width="120"
+        y="369"
+        width="169"
         height="61"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -179,10 +209,25 @@
     <features
         name="labelExpression"
         value="${property:Description}"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e11b6c3b24d742ab975522a42cdcb958"
+        lineWidth="2"
+        source="id-07622f6113ea4d6b828c62d3fe474e66"
+        target="id-de0bc64d816b49b3ba815e5583fad4ff">
+      <bendpoints
+          startX="-108"
+          startY="6"
+          endX="-84"
+          endY="336"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-d0a8094a66c14717be79e6adbbdf00b6.xml#id-d0a8094a66c14717be79e6adbbdf00b6"/>
+    </sourceConnections>
     <bounds
         x="96"
         y="444"
-        width="120"
+        width="169"
         height="61"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -196,9 +241,9 @@
         value="${property:Description}"/>
     <bounds
         x="96"
-        y="516"
-        width="120"
-        height="61"/>
+        y="519"
+        width="169"
+        height="85"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-b1300086148c4b2190199d4398b1c9d1.xml#id-b1300086148c4b2190199d4398b1c9d1"/>
@@ -211,8 +256,8 @@
         value="${property:Description}"/>
     <bounds
         x="96"
-        y="588"
-        width="120"
+        y="624"
+        width="169"
         height="91"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -226,8 +271,8 @@
         value="${property:Description}"/>
     <bounds
         x="96"
-        y="696"
-        width="120"
+        y="732"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -241,8 +286,8 @@
         value="${property:Description}"/>
     <bounds
         x="96"
-        y="768"
-        width="120"
+        y="804"
+        width="169"
         height="73"/>
     <archimateElement
         xsi:type="archimate:DataObject"
