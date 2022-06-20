@@ -1,0 +1,8 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PostgreSQL"
+    id="id-099ada9fd43f4b3aa1cedee8a339bdb5">
+  <properties
+      key="Description"
+      value="PostgreSQL"/>
+</archimate:TechnologyCollaboration>
