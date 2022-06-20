@@ -86,7 +86,7 @@
         x="48"
         y="120"
         width="1849"
-        height="1069"/>
+        height="1237"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c0c67e42065f4950840160792b5618b1"
@@ -640,8 +640,8 @@
       <bounds
           x="24"
           y="408"
-          width="541"
-          height="337"/>
+          width="1801"
+          height="241"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-74434107dd984588a70dfd3200c343ff"
@@ -682,8 +682,8 @@
             name="labelExpression"
             value="CP4.9 ก.กำกับดูแลการติดตั้งงานระบบรถไฟฟ้า"/>
         <bounds
-            x="36"
-            y="240"
+            x="288"
+            y="156"
             width="217"
             height="73"/>
         <archimateElement
@@ -698,8 +698,8 @@
             name="labelExpression"
             value="CP4.10 ก.กำกับ ดูแล งานติดตั้งระบบไฟฟ้าเครื่องกลภายในอาคารสถานีและอาคารจอด"/>
         <bounds
-            x="288"
-            y="72"
+            x="540"
+            y="156"
             width="217"
             height="73"/>
         <archimateElement
@@ -714,7 +714,7 @@
             name="labelExpression"
             value="CP4.11 ก.การตรวจเยี่ยมด้านความปลอดภัย อาชีวอนามัยและสภาพแวดล้อมในการทำงาน โครงการก่อสร้าง"/>
         <bounds
-            x="288"
+            x="792"
             y="156"
             width="217"
             height="73"/>
@@ -852,7 +852,7 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="768"
+          y="936"
           width="1801"
           height="277"/>
       <children
@@ -1111,10 +1111,10 @@
             href="CompositionRelationship_id-dfe452bc6f62414e9a7df8b343bf2404.xml#id-dfe452bc6f62414e9a7df8b343bf2404"/>
       </sourceConnections>
       <bounds
-          x="588"
-          y="408"
-          width="565"
-          height="337"/>
+          x="24"
+          y="672"
+          width="577"
+          height="241"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-207fa68a7e83427b991c908fa444b06c"
@@ -1139,7 +1139,7 @@
             name="labelExpression"
             value="CP5.3 ก.บริหารจัดการระบบบัตรโดยสาร"/>
         <bounds
-            x="300"
+            x="312"
             y="72"
             width="217"
             height="73"/>
@@ -1171,7 +1171,7 @@
             name="labelExpression"
             value="CP5.4 ก.กำกับดูแลมาตราฐานระบบบัตรโดยสารและการเชื่อมต่อระบบ"/>
         <bounds
-            x="300"
+            x="312"
             y="156"
             width="217"
             height="73"/>
@@ -1218,10 +1218,10 @@
             href="CompositionRelationship_id-8a079061c2664280a298105e57d50ff2.xml#id-8a079061c2664280a298105e57d50ff2"/>
       </sourceConnections>
       <bounds
-          x="1176"
-          y="408"
-          width="313"
-          height="337"/>
+          x="624"
+          y="672"
+          width="601"
+          height="241"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-61bebca7ff114c71abe4a0a1e4492a6d"
@@ -1230,7 +1230,7 @@
             name="labelExpression"
             value="CP7.1 ก.กำกับดูแลการให้บริการเดินรถไฟฟ้าและบำรุงรักษา(สายเฉลิมรัชมงคล)"/>
         <bounds
-            x="48"
+            x="60"
             y="72"
             width="217"
             height="73"/>
@@ -1246,8 +1246,8 @@
             name="labelExpression"
             value="CP7.2 ก.กำกับดูแลการให้บริการเดินรถไฟฟ้าและบำรุงรักษา(สายฉลองรัชธรรม)"/>
         <bounds
-            x="48"
-            y="156"
+            x="324"
+            y="72"
             width="217"
             height="73"/>
         <archimateElement
@@ -1262,8 +1262,8 @@
             name="labelExpression"
             value="CP7.3 ก.กำกับงานซ่อมบำรุงอาคารและลานจอดรถ"/>
         <bounds
-            x="48"
-            y="240"
+            x="60"
+            y="156"
             width="217"
             height="73"/>
         <archimateElement
@@ -1300,10 +1300,10 @@
             href="CompositionRelationship_id-831e6496e221487198f232f566f15f4f.xml#id-831e6496e221487198f232f566f15f4f"/>
       </sourceConnections>
       <bounds
-          x="1512"
-          y="408"
-          width="313"
-          height="337"/>
+          x="1248"
+          y="672"
+          width="577"
+          height="241"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-9b568c0a37cd48189ea17007162e411c"
@@ -1328,8 +1328,8 @@
             name="labelExpression"
             value="CP8.2 ก.ดับเพลิง กู้ภัย กู้ชีพ ในเขตระบบรถไฟฟ้า"/>
         <bounds
-            x="48"
-            y="156"
+            x="312"
+            y="72"
             width="217"
             height="73"/>
         <archimateElement
@@ -1461,7 +1461,7 @@
     </sourceConnections>
     <bounds
         x="48"
-        y="1212"
+        y="1380"
         width="1849"
         height="1729"/>
     <children
