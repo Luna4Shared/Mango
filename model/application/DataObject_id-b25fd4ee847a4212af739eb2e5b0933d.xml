@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D6.1.2.6"
+    id="id-b25fd4ee847a4212af739eb2e5b0933d">
+  <properties
+      key="Description"
+      value="ข้อมูลลูกค้าจากระบบ CRM"/>
+  <properties
+      key="NAME"
+      value="D6.1.1.7"/>
+</archimate:DataObject>
