@@ -1771,36 +1771,18 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-26ec307d8ab542b9bd22e13a35987af2"
+          id="id-653c78ff5d9343a3a55509fb4a64b300"
           source="id-6a0bb55e70dc4930b2f509a23dd9a274"
-          target="id-9ad61048d74d4966a2c42f73c9434550">
+          target="id-6ac06af06e5244408c78e6de02eb25be">
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-a701aa6a95da40db8c45e1ec94fb0e3f.xml#id-a701aa6a95da40db8c45e1ec94fb0e3f"/>
+            href="RealizationRelationship_id-6a02356f1bce4b238adede0c4cd82b72.xml#id-6a02356f1bce4b238adede0c4cd82b72"/>
       </sourceConnections>
       <bounds
           x="1176"
           y="804"
           width="337"
           height="253"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-9ad61048d74d4966a2c42f73c9434550"
-          targetConnections="id-26ec307d8ab542b9bd22e13a35987af2"
-          textPosition="1"
-          type="1">
-        <features
-            name="labelExpression"
-            value="${property:Seq}.${property:Description}"/>
-        <bounds
-            x="24"
-            y="48"
-            width="289"
-            height="85"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-be6f47620a9d4545b4593dcc73a80455.xml#id-be6f47620a9d4545b4593dcc73a80455"/>
-      </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0ae9a80f305a4376b9e0ba51121605da"
@@ -1818,6 +1800,24 @@
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_id-9955a8701e07449181f66a6aa4fbaa6a.xml#id-9955a8701e07449181f66a6aa4fbaa6a"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-6ac06af06e5244408c78e6de02eb25be"
+          targetConnections="id-653c78ff5d9343a3a55509fb4a64b300"
+          textPosition="1"
+          type="1">
+        <features
+            name="labelExpression"
+            value="${property:Seq}.${property:Description}"/>
+        <bounds
+            x="24"
+            y="48"
+            width="289"
+            height="85"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_id-81e1fbce71af4b59aaf5dbdc7947e35c.xml#id-81e1fbce71af4b59aaf5dbdc7947e35c"/>
       </children>
       <archimateElement
           xsi:type="archimate:TechnologyCollaboration"
@@ -1839,24 +1839,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-6fdea0ffb8e54fccbf12b560db73da60"
-          source="id-4b274a381ac543758b415b58f368d37c"
-          target="id-e2f2e74f0a104069a927acb73913d8d1">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-84708e625ba04ce4acf8ac2510169f2b.xml#id-84708e625ba04ce4acf8ac2510169f2b"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-83271e2531344b9b96ad8feb64813a60"
-          source="id-4b274a381ac543758b415b58f368d37c"
-          target="id-91b801752e344da893e4c758f7637c02">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-74ef828f6f854b59b7054e69a8be705b.xml#id-74ef828f6f854b59b7054e69a8be705b"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8771bcb387e845d1854191414de5d774"
           source="id-4b274a381ac543758b415b58f368d37c"
           target="id-4083859fdeb8402d85ea9b8f9b3a7d29">
@@ -1871,24 +1853,6 @@
           height="253"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-91b801752e344da893e4c758f7637c02"
-          targetConnections="id-83271e2531344b9b96ad8feb64813a60"
-          textPosition="1"
-          type="1">
-        <features
-            name="labelExpression"
-            value="${property:Seq}.${property:Description}"/>
-        <bounds
-            x="24"
-            y="48"
-            width="253"
-            height="85"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-a70bfc1882964450a9f929973f6963ce.xml#id-a70bfc1882964450a9f929973f6963ce"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="id-763fafaa36b34220ad3c0841100786a6"
           targetConnections="id-73efbaf5567c464fa503b36405a5483a"
           textPosition="1"
@@ -1897,32 +1861,13 @@
             name="labelExpression"
             value="${property:Seq}.${property:Description}"/>
         <bounds
-            x="300"
+            x="24"
             y="48"
             width="253"
             height="85"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_id-12ccce0298344c5a92ff6870340190dc.xml#id-12ccce0298344c5a92ff6870340190dc"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-e2f2e74f0a104069a927acb73913d8d1"
-          targetConnections="id-6fdea0ffb8e54fccbf12b560db73da60"
-          fillColor="#ff8080"
-          textPosition="1"
-          type="1">
-        <features
-            name="labelExpression"
-            value="${property:Seq}.${property:Description}"/>
-        <bounds
-            x="24"
-            y="144"
-            width="253"
-            height="85"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-0a383a8755404283bab56907fd293226.xml#id-0a383a8755404283bab56907fd293226"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -1935,7 +1880,7 @@
             value="${property:Seq}.${property:Description}"/>
         <bounds
             x="300"
-            y="144"
+            y="48"
             width="253"
             height="85"/>
         <archimateElement
