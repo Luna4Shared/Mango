@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบัญชี MAC-5 (copy)"
+    id="id-81438071448a409994261eed30835698">
+  <properties
+      key="Description"
+      value="ระบบบัญชี MAC-5"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บันทึกข้อมูลบัญชี"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ ERP"/>
+  <properties
+      key="Seq"
+      value="39"/>
+</archimate:ApplicationComponent>

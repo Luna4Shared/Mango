@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบห้องพยาบาล (Firstaid) (copy)"
+    id="id-59b37950cad34e58900141c5029a3de7">
+  <properties
+      key="Description"
+      value="ระบบห้องพยาบาล (Firstaid)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลการเข้าใช้บริหารบริหารจัดการทรัพย์สินในห้องพยาบาล รวมถึงการให้บริการยืม-คืนอุปกรณ์ บริหารจัดการสต๊อกยา"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="67"/>
+</archimate:ApplicationComponent>
