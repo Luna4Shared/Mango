@@ -6,6 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9bb5eae7751644cf85dba0b1605ff92c"
+      font="1|Tahoma|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Tahoma"
       textAlignment="1">
     <features
         name="labelExpression"
@@ -83,10 +84,10 @@
           href="CompositionRelationship_id-2beae20216cb47b2bf6daa0192302ec6.xml#id-2beae20216cb47b2bf6daa0192302ec6"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="120"
+        x="24"
+        y="12"
         width="1849"
-        height="1237"/>
+        height="1333"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c0c67e42065f4950840160792b5618b1"
@@ -147,7 +148,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-4dfa59b9a64f467282d1e4187daf7e9e"
-          targetConnections="id-d33fe8631751488d8ee973ca03ab363a">
+          targetConnections="id-d33fe8631751488d8ee973ca03ab363a"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP1.1 ก.ศึกษาวิเคราะห์ความเหมาะสมของโครงการรถไฟฟ้าและโครงการอื่นๆ"/>
@@ -163,7 +165,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-a9fb603635434c8fa946f9f389f76f36"
-          targetConnections="id-96d4a007bf744ec1b2526e216a419d26">
+          targetConnections="id-96d4a007bf744ec1b2526e216a419d26"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP1.2 ก.เกี่ยวกับการวิเคราะห์ผลกระทบสิ่งแวดล้อมโครงการ"/>
@@ -179,7 +182,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-008bd94dff5448bcb6562e8dfb65bf04"
-          targetConnections="id-9abffa07fd154d9d96414b9ec9a9c0e5">
+          targetConnections="id-9abffa07fd154d9d96414b9ec9a9c0e5"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP1.3 ก.จัดทำรายงานการร่วมลงทุนโครงการ"/>
@@ -195,7 +199,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-478671ea6d3044cfbf185953127e1319"
-          targetConnections="id-60b4a0899f8a4a3cb43762323043bf02">
+          targetConnections="id-60b4a0899f8a4a3cb43762323043bf02"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP1.4 ก.กำกับ/ดูแลงานออกแบบด้านสถาปัตยกรรม"/>
@@ -211,7 +216,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-395eaffc4f3649f39692320fc241533e"
-          targetConnections="id-80230a01613744df9389b1fc92115e16">
+          targetConnections="id-80230a01613744df9389b1fc92115e16"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP1.5 ก.สนับสนุนการกำกับ ดูแล งานออกแบบ ด้านงานระบบวิศวกรรมไฟฟ้าเครื่องกล (E&amp;M)"/>
@@ -315,7 +321,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-a14912a913f04e97bcd25595c1eed4be"
-          targetConnections="id-fd99b3be05c64021953772984736ec04">
+          targetConnections="id-fd99b3be05c64021953772984736ec04"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP2.1 ก.การสำรวจและประเมินราคาอสังหาริมทรัพย์/การรังวัดที่ดิน"/>
@@ -331,7 +338,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-9906d33744b947a88ff8dd7d05980c2d"
-          targetConnections="id-3b9c39632eaa4d29883122aaacf886ed">
+          targetConnections="id-3b9c39632eaa4d29883122aaacf886ed"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP2.2 ก.การสอบสวนสิทธิ์"/>
@@ -347,7 +355,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-5e90b353c37143ab8016b89811b45fe4"
-          targetConnections="id-524823ef93664d6082bec8d76eb4df50">
+          targetConnections="id-524823ef93664d6082bec8d76eb4df50"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP2.3 ก.การทำสัญญา/วางเงิน"/>
@@ -363,7 +372,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e9ae0f03ddb645afb3a922bbc71ff130"
-          targetConnections="id-43511163c665425d858f4907767c9a23">
+          targetConnections="id-43511163c665425d858f4907767c9a23"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP2.4 ก.การจ่ายเงิน/วางเงินค่าทดแทน"/>
@@ -379,7 +389,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d3b4bf55f9c8458f96a3bfefd00ac627"
-          targetConnections="id-ff29e3e8ec67489ea86344e403a7aa6f">
+          targetConnections="id-ff29e3e8ec67489ea86344e403a7aa6f"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP2.7 ก.จดทะเบียนที่ดิน"/>
@@ -395,7 +406,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-98e76cc50ff24beab00f11b149dbc88e"
-          targetConnections="id-6049db3382b5466ebff710c55db4149a">
+          targetConnections="id-6049db3382b5466ebff710c55db4149a"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP2.5 ก.การรื้อถอนสิ่งปลูกสร้าง"/>
@@ -411,7 +423,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-caf98f37b3594209a99dab6764729df3"
-          targetConnections="id-1fc7c3070fa44f30a5627ae4444b4db3">
+          targetConnections="id-1fc7c3070fa44f30a5627ae4444b4db3"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP2.6 ก.การส่งมอบพื้นที่ก่อสร้าง"/>
@@ -427,7 +440,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6955bf56beb543129957e658cee2ac73"
-          targetConnections="id-583aa059afee4af484eaf9e0c1b9d9fd">
+          targetConnections="id-583aa059afee4af484eaf9e0c1b9d9fd"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP2.8 ก.การจ่ายเงิน/วางเงินค่าทดแทนเพิ่มฯ"/>
@@ -504,7 +518,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-64810ca2cd814522ac29c677a9569443"
-          targetConnections="id-6a897ec25f1b4a0eb31c85bbac8c3e76">
+          targetConnections="id-6a897ec25f1b4a0eb31c85bbac8c3e76"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP3.1 ก.การจัดทำแบบและเอกสารประกวดราคา"/>
@@ -520,7 +535,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-f74a176a983742449730bd17c9461eeb"
-          targetConnections="id-286af90da8db47cbadb5f5ae2f228937">
+          targetConnections="id-286af90da8db47cbadb5f5ae2f228937"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP3.4 ก.จัดหาผู้รับจ้างงานโยธาด้วยวิธีประกวดราคานานาชาติ"/>
@@ -536,7 +552,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-61b79da69112458fbce3562f47b88a1c"
-          targetConnections="id-ddde863212a34c5292c4ab48768ae08a">
+          targetConnections="id-ddde863212a34c5292c4ab48768ae08a"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP3.2 ก.จัดทำราคากลาง"/>
@@ -552,7 +569,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-33ea282fcbc441199b887e10cf8f38b1"
-          targetConnections="id-71db8dfdd8134d93b816dbaaa77aad9b">
+          targetConnections="id-71db8dfdd8134d93b816dbaaa77aad9b"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP3.3 ก.คัดเลือกที่ปรึกษา"/>
@@ -568,7 +586,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-3a5460f7cb824011925ccdab2f0b7377"
-          targetConnections="id-25938bc3f99e448bbd818cce9ce2ca9d">
+          targetConnections="id-25938bc3f99e448bbd818cce9ce2ca9d"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP3.5 ก.คัดเลือกผู้รับสัมปทานการร่วมลงทุนระหว่างรัฐและเอกชน"/>
@@ -612,15 +631,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-0aebad508c2540c6836023e9c11c3119"
-          source="id-c49e9e1d497d46d694ba93b08dd3c890"
-          target="id-74434107dd984588a70dfd3200c343ff">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-b3edc0092698449e9ea9fd4c63a5eec5.xml#id-b3edc0092698449e9ea9fd4c63a5eec5"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c34cb33a4b8c443b8fae531850c99d83"
           source="id-c49e9e1d497d46d694ba93b08dd3c890"
           target="id-9ede9e3402ab42e18ecc4d2c4ef0ac81">
@@ -637,37 +647,85 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-40f55d2fec1c4a1bb6374f7c895d650a.xml#id-40f55d2fec1c4a1bb6374f7c895d650a"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-c39decd147d14a16a59dd1277b92388e"
+          source="id-c49e9e1d497d46d694ba93b08dd3c890"
+          target="id-9eaea9560b464335958c885b8e3e00dc">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-a2cfa6730c3f41c4ac00efa9b7f09ab1.xml#id-a2cfa6730c3f41c4ac00efa9b7f09ab1"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-848bd7623c7743ab8f4648dc95665812"
+          source="id-c49e9e1d497d46d694ba93b08dd3c890"
+          target="id-18f31403403e4663898f8eb11f697fd9">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-1b8b5ca742544550a2ad3730fbc45dde.xml#id-1b8b5ca742544550a2ad3730fbc45dde"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-b5e9f06be1294dfca0966754a7c963a0"
+          source="id-c49e9e1d497d46d694ba93b08dd3c890"
+          target="id-0bf6973666f248a88f66f633d803cc3a">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-0027be1c8891453bb1eb3773dc331c8e.xml#id-0027be1c8891453bb1eb3773dc331c8e"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-f71bea389fda49a38a18a554a441ab7c"
+          source="id-c49e9e1d497d46d694ba93b08dd3c890"
+          target="id-630fda31e7c84e77b38c767ab427caf9">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-6506b3d971944eab960ab4f2bee26b6b.xml#id-6506b3d971944eab960ab4f2bee26b6b"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-79cd9cb4bb16458aab9057506eb135ea"
+          source="id-c49e9e1d497d46d694ba93b08dd3c890"
+          target="id-d4b38c51f0b74b8f9d99d303f2109259">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-095ad635c04746e08f74f12c499ee61c.xml#id-095ad635c04746e08f74f12c499ee61c"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-05cb6d09d36343e7b3a71717dd7ccdc2"
+          source="id-c49e9e1d497d46d694ba93b08dd3c890"
+          target="id-eb7fcbc93365403ca059f54f6b4728d1">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-3d9377ee812b4ccc9c0c27daf760e593.xml#id-3d9377ee812b4ccc9c0c27daf760e593"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-c2a5a1e20248424bbb116d5db0dd5752"
+          source="id-c49e9e1d497d46d694ba93b08dd3c890"
+          target="id-c4c1a07d657f4598a9b20901a2f10db2">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-e4274c6cf57b49cfb3b0bac16281e3f3.xml#id-e4274c6cf57b49cfb3b0bac16281e3f3"/>
+      </sourceConnections>
       <bounds
           x="24"
           y="408"
           width="1801"
-          height="241"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-74434107dd984588a70dfd3200c343ff"
-          targetConnections="id-0aebad508c2540c6836023e9c11c3119">
-        <features
-            name="labelExpression"
-            value="CP4.1-4.7 ก.งานกำกับ ดูแลและตรวจสอบก่อสร้างงานโยธา"/>
-        <bounds
-            x="36"
-            y="72"
-            width="217"
-            height="73"/>
-        <archimateElement
-            xsi:type="archimate:Capability"
-            href="Capability_id-813ff0e00c5c4d93885cde94b018e135.xml#id-813ff0e00c5c4d93885cde94b018e135"/>
-      </children>
+          height="337"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-1107ef86ca2e4631b7d32b8da52285fd"
-          targetConnections="id-b4aa633a77fa4dd1bc3c746c7e6bb153">
+          targetConnections="id-b4aa633a77fa4dd1bc3c746c7e6bb153"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP4.8 ก.กำกับ/ดูแลงานก่อสร้างด้านสถาปัตยกรรมของโครงการ"/>
         <bounds
             x="36"
-            y="156"
+            y="240"
             width="217"
             height="73"/>
         <archimateElement
@@ -677,13 +735,14 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c3360fdefc3a48268b1e1ded7cf601a3"
-          targetConnections="id-e922497e6b604612917f2a0d8daef900">
+          targetConnections="id-e922497e6b604612917f2a0d8daef900"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP4.9 ก.กำกับดูแลการติดตั้งงานระบบรถไฟฟ้า"/>
         <bounds
             x="288"
-            y="156"
+            y="240"
             width="217"
             height="73"/>
         <archimateElement
@@ -693,13 +752,14 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-da4e29935d7742fc81a42e8db3f004b6"
-          targetConnections="id-b7d0155bf1944e08bbee98b98a1b594d">
+          targetConnections="id-b7d0155bf1944e08bbee98b98a1b594d"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP4.10 ก.กำกับ ดูแล งานติดตั้งระบบไฟฟ้าเครื่องกลภายในอาคารสถานีและอาคารจอด"/>
         <bounds
             x="540"
-            y="156"
+            y="240"
             width="217"
             height="73"/>
         <archimateElement
@@ -709,18 +769,138 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-9ede9e3402ab42e18ecc4d2c4ef0ac81"
-          targetConnections="id-c34cb33a4b8c443b8fae531850c99d83">
+          targetConnections="id-c34cb33a4b8c443b8fae531850c99d83"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP4.11 ก.การตรวจเยี่ยมด้านความปลอดภัย อาชีวอนามัยและสภาพแวดล้อมในการทำงาน โครงการก่อสร้าง"/>
         <bounds
             x="792"
-            y="156"
+            y="240"
             width="217"
             height="73"/>
         <archimateElement
             xsi:type="archimate:Capability"
             href="Capability_id-146d14e6bc7143afb1e9ac703afd066b.xml#id-146d14e6bc7143afb1e9ac703afd066b"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-9eaea9560b464335958c885b8e3e00dc"
+          targetConnections="id-c39decd147d14a16a59dd1277b92388e"
+          textPosition="1">
+        <features
+            name="labelExpression"
+            value="CP4.1 ก.งานกำกับ ดูแลและตรวจสอบงานก่อสร้างงานโยธาโครงการรถไฟฟ้าสายสีเขียว ช่วงหมอชิต - สะพานใหม่ - คูคต"/>
+        <bounds
+            x="36"
+            y="63"
+            width="217"
+            height="154"/>
+        <archimateElement
+            xsi:type="archimate:Capability"
+            href="Capability_id-1dc827d9ac7c4992988962af83b1ced8.xml#id-1dc827d9ac7c4992988962af83b1ced8"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-18f31403403e4663898f8eb11f697fd9"
+          targetConnections="id-848bd7623c7743ab8f4648dc95665812"
+          textPosition="1">
+        <features
+            name="labelExpression"
+            value="CP4.2 ก.งานกำกับ ดูแลและตรวจสอบงานก่อสร้างงานโยธา โครงการรถไฟฟ้าสายสีส้ม ช่วงศูนย์วัฒนธรรมแห่งประเทศไทย - มีนบุรี (สุวินทวงศ์) สัญญาที่ 1"/>
+        <bounds
+            x="288"
+            y="63"
+            width="217"
+            height="154"/>
+        <archimateElement
+            xsi:type="archimate:Capability"
+            href="Capability_id-2d5e2ba6f22440de9143b2459b0eb218.xml#id-2d5e2ba6f22440de9143b2459b0eb218"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-0bf6973666f248a88f66f633d803cc3a"
+          targetConnections="id-b5e9f06be1294dfca0966754a7c963a0"
+          textPosition="1">
+        <features
+            name="labelExpression"
+            value="CP4.3 ก.งานกำกับ ดูแล และตรวจสอบการก่อสร้างโยธา สัญญาก่อสร้างรูปแบบการออกแบบและก่อสร้าง (Design Build) โครงการรถไฟฟ้าสายสีส้มส้ม ช่วงศูนย์วัฒนธรรมแห่งประเทศไทย - มีนบุรี (สุวินทวงศ์) (สัญญาที่ 2 สัญญาที่ 3 และสัญญาที่ 6)"/>
+        <bounds
+            x="540"
+            y="63"
+            width="217"
+            height="154"/>
+        <archimateElement
+            xsi:type="archimate:Capability"
+            href="Capability_id-8c68076ff7a546d2804b7fcb8e812406.xml#id-8c68076ff7a546d2804b7fcb8e812406"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-630fda31e7c84e77b38c767ab427caf9"
+          targetConnections="id-f71bea389fda49a38a18a554a441ab7c"
+          textPosition="1">
+        <features
+            name="labelExpression"
+            value="CP4.4 ก.กำกับ ดูแล การดำเนินงานก่อสร้างงานโยธา โครงการรถไฟฟ้าสายสีส้ม ช่วงศูนย์วัฒนธรรมแห่งประเทศไทย - มีนบุรี &#xD;&#xA;(สุวินทวงศ์) สัญญาที่ 4"/>
+        <bounds
+            x="792"
+            y="63"
+            width="217"
+            height="154"/>
+        <archimateElement
+            xsi:type="archimate:Capability"
+            href="Capability_id-836076676d2e4c2ea9ddcfbd134460dc.xml#id-836076676d2e4c2ea9ddcfbd134460dc"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-d4b38c51f0b74b8f9d99d303f2109259"
+          targetConnections="id-79cd9cb4bb16458aab9057506eb135ea"
+          textPosition="1">
+        <features
+            name="labelExpression"
+            value="CP4.7 ก.งานกำกับดูแล และตรวจสอบงานก่อสร้างงานโยธา โครงการรถไฟฟ้าสายสีเหลืองช่วงลาดพร้าว - สำโรง"/>
+        <bounds
+            x="1548"
+            y="63"
+            width="217"
+            height="154"/>
+        <archimateElement
+            xsi:type="archimate:Capability"
+            href="Capability_id-bb8d85ebbab7435094612bdebe7974c8.xml#id-bb8d85ebbab7435094612bdebe7974c8"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-eb7fcbc93365403ca059f54f6b4728d1"
+          targetConnections="id-05cb6d09d36343e7b3a71717dd7ccdc2"
+          textPosition="1">
+        <features
+            name="labelExpression"
+            value="CP4.6 ก.การกำกับ ดูแล และตรวจสอบงาน ก่อสร้างงานโยธา โครงการรถไฟฟ้าสายสีชมพู ช่วงแคราย-มีนบุรี"/>
+        <bounds
+            x="1296"
+            y="63"
+            width="217"
+            height="154"/>
+        <archimateElement
+            xsi:type="archimate:Capability"
+            href="Capability_id-5561fad0e49f4103ac523bbbedc2d15d.xml#id-5561fad0e49f4103ac523bbbedc2d15d"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-c4c1a07d657f4598a9b20901a2f10db2"
+          targetConnections="id-c2a5a1e20248424bbb116d5db0dd5752"
+          textPosition="1">
+        <features
+            name="labelExpression"
+            value="CP4.5 ก.กำกับ ดูแล การดำเนินงานก่อสร้างงานโยธา โครงการรถไฟฟ้าสายสีส้ม ช่วงศูนย์วัฒนธรรมแห่งประเทศไทย - มีนบุรี (สุวินทวงศ์) สัญญาที่ 5"/>
+        <bounds
+            x="1044"
+            y="63"
+            width="217"
+            height="154"/>
+        <archimateElement
+            xsi:type="archimate:Capability"
+            href="Capability_id-d20773582ff94f9eb6f448b4995165ac.xml#id-d20773582ff94f9eb6f448b4995165ac"/>
       </children>
       <archimateElement
           xsi:type="archimate:Capability"
@@ -852,13 +1032,14 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="936"
+          y="1032"
           width="1801"
           height="277"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b8ced3c68e3e484598755c5baac3a694"
-          targetConnections="id-cfaf7011fdfb4785802deb01dd3eac05">
+          targetConnections="id-cfaf7011fdfb4785802deb01dd3eac05"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.1 ก.จัดทำแผนและการดำเนินงานด้านการตลาด"/>
@@ -874,7 +1055,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0ff719319dcf4ff5aec5837a2f67af0c"
-          targetConnections="id-23ad7c2116184d1abdc4cfd77bf2b17a">
+          targetConnections="id-23ad7c2116184d1abdc4cfd77bf2b17a"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.3 ก.อนุญาตให้เชื่อมต่อสถานีรถไฟฟ้าฯ"/>
@@ -890,7 +1072,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-04a15fd5f9a34506bee19143cbfde21a"
-          targetConnections="id-e070ca0f04714d25abb2f2bcca54e9ed">
+          targetConnections="id-e070ca0f04714d25abb2f2bcca54e9ed"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.5 ก.การบริหารสัญญาการอนุญาตให้ใช้ประโยชน์ในอสังหาริมทรัพย์และทรัพย์สินอื่นของ รฟม."/>
@@ -906,7 +1089,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-595cc161b52642daa4633001ab43a79d"
-          targetConnections="id-162a036089574784a9140214c87fa234">
+          targetConnections="id-162a036089574784a9140214c87fa234"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.7 ก.บริหารอาคารและลานจอดรถ"/>
@@ -922,7 +1106,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-220e87b5fc0c4e5a907738237caee984"
-          targetConnections="id-d83b467a742e4c51907c047ef6bd1625">
+          targetConnections="id-d83b467a742e4c51907c047ef6bd1625"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.9 ก.การออกผลิตภัณฑ์บัตรโดยสาร"/>
@@ -938,7 +1123,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7237ca0f758848c5922de0e1f89e57a0"
-          targetConnections="id-af9c8de5b7e947b297ad9fff652ad4fb">
+          targetConnections="id-af9c8de5b7e947b297ad9fff652ad4fb"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.11 ก.รับฟังเสียงลูกค้า"/>
@@ -954,7 +1140,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0d3d89e248ba41bd95a322bd1fb8178d"
-          targetConnections="id-74d3c7c858fe4f4f947b8336cbddb348">
+          targetConnections="id-74d3c7c858fe4f4f947b8336cbddb348"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.13 ก.กำกับดูแลสัมปทานด้านการพัฒนาเชิงพาณิชย์"/>
@@ -970,7 +1157,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c2fbe6fc654f451393209bb1e12f6f13"
-          targetConnections="id-df814e353e1f4dbfafcd52d8277756d4">
+          targetConnections="id-df814e353e1f4dbfafcd52d8277756d4"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.2 ก.พัฒนาพื้นที่รอบสถานีขนส่งมวลชน"/>
@@ -986,7 +1174,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-471ce5cff7244b51b3e3994e9bdcf980"
-          targetConnections="id-10f51290699a4945ab6786d387d7a895">
+          targetConnections="id-10f51290699a4945ab6786d387d7a895"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.4 ก.อนุญาตให้ใช้อสังหาริมทรัพย์ของ รฟม."/>
@@ -1002,7 +1191,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-9c337d79bcb5426380e6782be0b27bec"
-          targetConnections="id-d15ef74718104db5a514726eabe4bef1">
+          targetConnections="id-d15ef74718104db5a514726eabe4bef1"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.6 ก.ต่อสัญญาการอนุญาตให้ใช้ประโยชน์ในอสังการิมทรัพย์ของ รฟม."/>
@@ -1018,7 +1208,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e5f69ede23a7426c806a8c6cc7e85126"
-          targetConnections="id-3a013224e09b4123917bc1fa9632891e">
+          targetConnections="id-3a013224e09b4123917bc1fa9632891e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.8 ก.พัฒนาอาคารและลานจอดรถของ รฟม."/>
@@ -1034,7 +1225,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-fb229b2257ea4230ae8a5e97dd8a19ad"
-          targetConnections="id-3ea218632b064917b2be48c2adfcdd18">
+          targetConnections="id-3ea218632b064917b2be48c2adfcdd18"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.10 ก.บริหารจัดการทรัพย์สินหาย"/>
@@ -1050,7 +1242,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-aab0007b8fcf46f6a440c5c31a0fff72"
-          targetConnections="id-8c20c67d39ff4e56930e8cb7601f2f0f">
+          targetConnections="id-8c20c67d39ff4e56930e8cb7601f2f0f"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP6.12 ก.การจัดการความสัมพันธ์กับลูกค้า"/>
@@ -1112,13 +1305,14 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="672"
+          y="768"
           width="577"
           height="241"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-207fa68a7e83427b991c908fa444b06c"
-          targetConnections="id-6c310378848f49cbb7c34759e5fc384a">
+          targetConnections="id-6c310378848f49cbb7c34759e5fc384a"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP5.1 ก.จัดสิ่งอำนวยความสะดวก(ITF)"/>
@@ -1134,7 +1328,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b0a2cb0fdf084085b3a76f0a7a14f9e1"
-          targetConnections="id-d56c8625103d4c50994a20e9d456c9d2">
+          targetConnections="id-d56c8625103d4c50994a20e9d456c9d2"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP5.3 ก.บริหารจัดการระบบบัตรโดยสาร"/>
@@ -1150,7 +1345,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2ade9add285e41e3bb0e1dc18c6f5226"
-          targetConnections="id-a8a4b0e9f18541a6bd70e60691beff8e">
+          targetConnections="id-a8a4b0e9f18541a6bd70e60691beff8e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP5.2 ก.เกี่ยวกับงานด้านระบบขนส่งเสริม(Feeder System)"/>
@@ -1166,7 +1362,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7da1d1e603604b258dc89a2721fb56b2"
-          targetConnections="id-684e0cb6630d4b0385e74648cea98a62">
+          targetConnections="id-684e0cb6630d4b0385e74648cea98a62"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP5.4 ก.กำกับดูแลมาตราฐานระบบบัตรโดยสารและการเชื่อมต่อระบบ"/>
@@ -1219,13 +1416,14 @@
       </sourceConnections>
       <bounds
           x="624"
-          y="672"
+          y="768"
           width="601"
           height="241"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-61bebca7ff114c71abe4a0a1e4492a6d"
-          targetConnections="id-e11362d4152b464fac07b0cc0815ebf1">
+          targetConnections="id-e11362d4152b464fac07b0cc0815ebf1"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP7.1 ก.กำกับดูแลการให้บริการเดินรถไฟฟ้าและบำรุงรักษา(สายเฉลิมรัชมงคล)"/>
@@ -1241,7 +1439,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-3a82d55e85a14331a9e645714642050b"
-          targetConnections="id-1746da18553948a98eb0a08977ce7472">
+          targetConnections="id-1746da18553948a98eb0a08977ce7472"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP7.2 ก.กำกับดูแลการให้บริการเดินรถไฟฟ้าและบำรุงรักษา(สายฉลองรัชธรรม)"/>
@@ -1257,7 +1456,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-1b441b41c0fe46409bf3596cd7ce78a7"
-          targetConnections="id-a754055baedc453b9e1775b83261357e">
+          targetConnections="id-a754055baedc453b9e1775b83261357e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP7.3 ก.กำกับงานซ่อมบำรุงอาคารและลานจอดรถ"/>
@@ -1301,13 +1501,14 @@
       </sourceConnections>
       <bounds
           x="1248"
-          y="672"
+          y="768"
           width="577"
           height="241"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-9b568c0a37cd48189ea17007162e411c"
-          targetConnections="id-2908a90ccb644718aa3b66aa91afd05f">
+          targetConnections="id-2908a90ccb644718aa3b66aa91afd05f"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP8.1 ก.รักษาความปลอดภัย"/>
@@ -1323,7 +1524,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-fb90a43bc9064798a460a5317b4aa8bc"
-          targetConnections="id-e6f10b86b2a84ab2b12e6e75f9960de0">
+          targetConnections="id-e6f10b86b2a84ab2b12e6e75f9960de0"
+          textPosition="1">
         <features
             name="labelExpression"
             value="CP8.2 ก.ดับเพลิง กู้ภัย กู้ชีพ ในเขตระบบรถไฟฟ้า"/>
@@ -1347,6 +1549,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3aba49f1cdf14d01b3979ed63c67a955"
+      font="1|Tahoma|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Tahoma"
       textAlignment="1">
     <features
         name="labelExpression"
@@ -1460,8 +1663,8 @@
           href="CompositionRelationship_id-7cbbae8eb12f48cbb214af69ee98d40c.xml#id-7cbbae8eb12f48cbb214af69ee98d40c"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="1380"
+        x="24"
+        y="1368"
         width="1849"
         height="1729"/>
     <children
@@ -1524,7 +1727,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-83412ba73aae4df8a35ffdeb3b901ee3"
-          targetConnections="id-cb2c85353fc842d2a760b3d10cd30806">
+          targetConnections="id-cb2c85353fc842d2a760b3d10cd30806"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP9.1 ก.จัดทำและบริหารแผนวิสาหกิจและแผนปฎิบัติการ"/>
@@ -1540,7 +1744,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-997c5e7744924dc5a8985e049c5865e1"
-          targetConnections="id-5439a509519c45e5a400e98250dc504e">
+          targetConnections="id-5439a509519c45e5a400e98250dc504e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP9.2 ก.พัฒนาระบบงานโดยรวมขององค์กร"/>
@@ -1556,7 +1761,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-f0ac5d4c45054a30a659d30f33ac2470"
-          targetConnections="id-f64c0cf95d224c848cf6e37565b961a5">
+          targetConnections="id-f64c0cf95d224c848cf6e37565b961a5"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP9.3 ก.ติดตาม/ประเมิน/รายงานผลการดำเนินงานตามแผนปฎิบัติการ และตัวชี้วัดที่สำคัญขององค์กร"/>
@@ -1572,7 +1778,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-3cadbf32e3314735b0d15ce0b626c592"
-          targetConnections="id-95e4dc6b40d7468eb9c5b6e46ca583e6">
+          targetConnections="id-95e4dc6b40d7468eb9c5b6e46ca583e6"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP9.4 ก.ประเมินผลการดำเนินงานรัฐวิสาหกิจ"/>
@@ -1588,7 +1795,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6b04338489bf4bf091247e19c0813ea2"
-          targetConnections="id-e4bcfcaea7e14285ad3464a5957e0310">
+          targetConnections="id-e4bcfcaea7e14285ad3464a5957e0310"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP9.5 ก.จัดทำรายงานผลการดำเนินงานที่ไม่ใช่ทางการเงินส่งให้แก่หน่วยงานภายนอก"/>
@@ -1710,7 +1918,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b04ff6c2fb174478a24710ab56a398a9"
-          targetConnections="id-4a443659907041ae99b4e107e654992e">
+          targetConnections="id-4a443659907041ae99b4e107e654992e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP10.1 ก.การเงินและภาษี"/>
@@ -1726,7 +1935,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-39ca3c3ae9aa4dd98a7d2c50d002df08"
-          targetConnections="id-5d60555dd26f4a799b3dc6647be12672">
+          targetConnections="id-5d60555dd26f4a799b3dc6647be12672"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP10.2 ก.บัญชี"/>
@@ -1742,7 +1952,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-841c34274f0d488da477980ae9065759"
-          targetConnections="id-dda712e49fa943ae9fdba763314686a9">
+          targetConnections="id-dda712e49fa943ae9fdba763314686a9"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP10.3 ก.งบประมาณ"/>
@@ -1758,7 +1969,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-36dcf89007e04e76b0dbd48de4cbb517"
-          targetConnections="id-656ab643927540a6a8f5a821a2eebf9e">
+          targetConnections="id-656ab643927540a6a8f5a821a2eebf9e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP10.4 ก.เงินกู้"/>
@@ -1774,7 +1986,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b80260294e6241d9b55a4e328ef91113"
-          targetConnections="id-6daf1988330d477f899da8c15c260989">
+          targetConnections="id-6daf1988330d477f899da8c15c260989"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP10.5 ก.งานตรวจจ่าย"/>
@@ -1790,7 +2003,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-832782a1aa7e4fd79ba41dcd0fb0f640"
-          targetConnections="id-7584fa2cbee547578787c9e989a3caa5">
+          targetConnections="id-7584fa2cbee547578787c9e989a3caa5"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP10.6 ก.การตรวจสอบเงินตอบแทนจากค่าโดยสารรถไฟฟ้ามหานคร สายเฉลิมรัชมงคล"/>
@@ -1806,7 +2020,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-dac76877df7f4f0995f76e20b9331d87"
-          targetConnections="id-a303b05918f64c278ae702290f3b4a8c">
+          targetConnections="id-a303b05918f64c278ae702290f3b4a8c"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP10.7 ก.ตรวจสอบรายได้ค่าโดยสารรถไฟฟ้ามหานคร สายฉลองรัชธรรม"/>
@@ -1822,7 +2037,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-5561a2588da7408f9073b45fe53e7734"
-          targetConnections="id-e7b790fbed2b481ebb1c2d02600e8e26">
+          targetConnections="id-e7b790fbed2b481ebb1c2d02600e8e26"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP10.8 ก.งานจัดแบ่งรายได้ค่าโดยสาร"/>
@@ -1838,7 +2054,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-fc8c7155dd8647de93f23488f84d6e03"
-          targetConnections="id-2676b8630747405c9ed6b5af073271da">
+          targetConnections="id-2676b8630747405c9ed6b5af073271da"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP10.9 ก.งานจัดแบ่งรายได้ค่าโดยสารจากการใช้บัตรสวัสดิการแห่งรัฐ"/>
@@ -1854,7 +2071,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6527891d1ee6430991cfdccdddb11318"
-          targetConnections="id-e385c43cdc364f559f17bb8121fe07ba">
+          targetConnections="id-e385c43cdc364f559f17bb8121fe07ba"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP10.10 ก.การบริหารจัดการบัตรโดยสาร"/>
@@ -1967,7 +2185,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-df5461a83cdc4f5e8a09eae8e648dc8d"
-          targetConnections="id-187af9168f664a9fa8ae55d23f935bfe">
+          targetConnections="id-187af9168f664a9fa8ae55d23f935bfe"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP11.1 ก.การจัดทำร่างระเบียบ ข้อบังคับ คำสั่ง"/>
@@ -1983,7 +2202,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-de87e7eb5a124dcc8c911c123b00972b"
-          targetConnections="id-63b240b89c914a298d02ebdf1a092b1f">
+          targetConnections="id-63b240b89c914a298d02ebdf1a092b1f"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP11.2 ก.การจัดทำสัญญาภายใน"/>
@@ -1999,7 +2219,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-014ab2d93fdd4d0ea53c04eb6609dc96"
-          targetConnections="id-f22b1ca211c449329def7d341bc55d69">
+          targetConnections="id-f22b1ca211c449329def7d341bc55d69"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP11.6 ก.การดำเนินการทางวินัยแก่พนักงานและลูกจ้าง"/>
@@ -2015,7 +2236,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-76526b7b525a445bb7974af48876b6f0"
-          targetConnections="id-ed80eedb9b08437592603042da64d5b3">
+          targetConnections="id-ed80eedb9b08437592603042da64d5b3"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP11.7 ก.การบริหารงานกรณีมีการร้องเรียนหรืออุทธรณ์ตามพระราชบัญญัติข้อมูลข่าวสารของราชการ พ.ศ. 2540"/>
@@ -2031,7 +2253,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8e40fc6a2dd8427eb444601e44d73045"
-          targetConnections="id-f231e8b49164473a8ffe0159fd88378c">
+          targetConnections="id-f231e8b49164473a8ffe0159fd88378c"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP11.3 ก.การจัดทำร่างสัญญาสำหรับโครงการรถไฟฟ้าส่วนต่อขยายและสายใหม่ของ รฟม."/>
@@ -2047,7 +2270,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2d6b17e7d33a41b6933519a6b09aa733"
-          targetConnections="id-05fd0280652a4fb2b6cf9f4b7c2b8bb8">
+          targetConnections="id-05fd0280652a4fb2b6cf9f4b7c2b8bb8"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP11.4 ก.การพิจารณาให้ความเห็นทางกฎหมาย"/>
@@ -2063,7 +2287,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-eaf4eb85fd72466280ebbd2372e18ad4"
-          targetConnections="id-1e2fa69253ed4eadb09a63a9db935a9e">
+          targetConnections="id-1e2fa69253ed4eadb09a63a9db935a9e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP11.5 ก.การดำเนินคดี"/>
@@ -2079,7 +2304,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6f35a79e527a400fb36ce14473308127"
-          targetConnections="id-e5fd870644e14ca4b4ee3fce462ecbcc">
+          targetConnections="id-e5fd870644e14ca4b4ee3fce462ecbcc"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP11.8 ก.การบริหารสัญญา"/>
@@ -2095,7 +2321,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-95811d0167d040e8afcbb6cf404ca74c"
-          targetConnections="id-801d4b8f8e064a5a83613101ba4ba526">
+          targetConnections="id-801d4b8f8e064a5a83613101ba4ba526"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP11.9 ก.การขึ้นทะเบียนประกอบธุรกิจการให้บริการเงินอิเล็กทรอนิกส์"/>
@@ -2253,7 +2480,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6ff48a45ca144b13bc725dea492f782e"
-          targetConnections="id-f341d060b7ca493798626e157cc9adf6">
+          targetConnections="id-f341d060b7ca493798626e157cc9adf6"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.5 ก.การวาง แผนในราย ละเอียดและการปฏิบัติงานตรวจสอบ"/>
@@ -2269,7 +2497,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7a6b9d55b17f41a0a8dc8a5e03ea4bd4"
-          targetConnections="id-ac3d3fc787bf403e80e7daafcb1b480f">
+          targetConnections="id-ac3d3fc787bf403e80e7daafcb1b480f"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.3 ก.ความมั่นใจในคุณภาพ"/>
@@ -2285,7 +2514,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-18585053cd094978987a784494e3b8bf"
-          targetConnections="id-6e76a64da210434ba6949e37ba188c49">
+          targetConnections="id-6e76a64da210434ba6949e37ba188c49"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.1 ก.กำกับดูแลกิจการที่ดีและการป้องกันและปราบปรามการทุจริต"/>
@@ -2301,7 +2531,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-eae3b6e026d9492ea412af54163f20a4"
-          targetConnections="id-6bacc11dd11143d79d99f2f3f36b6f0d">
+          targetConnections="id-6bacc11dd11143d79d99f2f3f36b6f0d"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.7 ก.จัดทำระเบียบวาระการประชุมคณะกรรมการ รฟม."/>
@@ -2317,7 +2548,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-07fb5862a7fc46a5bcf0fbae2ed2a363"
-          targetConnections="id-e6bbe580459a4cd6baf9aed7475c1ae0">
+          targetConnections="id-e6bbe580459a4cd6baf9aed7475c1ae0"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.9 ก.ติดตามการดำเนินการตามมติที่ประชุมคณะกรรมการ รฟม."/>
@@ -2333,7 +2565,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b6c58c07ffdb42eb84b010bc5ee117b2"
-          targetConnections="id-aec29b6414634ea8807644108068978b">
+          targetConnections="id-aec29b6414634ea8807644108068978b"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.11 ก.จัดทำสรุปการประชุมคณะกรรมการจัดการ"/>
@@ -2349,7 +2582,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-23cb1faf55a14b2eb6fe9c419d2359c0"
-          targetConnections="id-dcda566103cc4b0b9264b194e8dac998">
+          targetConnections="id-dcda566103cc4b0b9264b194e8dac998"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.13 ก.ประเมินผลงานผู้บริหารสูงสุด"/>
@@ -2365,7 +2599,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-1c7fdfbee9db430da4a3957fdfbb0eb7"
-          targetConnections="id-f9b27f36d10c4997a7b8aa51ab2c67ea">
+          targetConnections="id-f9b27f36d10c4997a7b8aa51ab2c67ea"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.2 ก.ปฏิบัติงานตามกฎหมาย ระเบียบ ข้อบังคับ และนโยบายที่เกี่ยวข้องกับงานที่รับผิดชอบ (Compliance)"/>
@@ -2381,7 +2616,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d6a0e281aaf640a7a8eaf2c451442928"
-          targetConnections="id-69eec0154f894b619d07ff12c366c774">
+          targetConnections="id-69eec0154f894b619d07ff12c366c774"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.4 ก.การวางแผนการตรวจสอบเชิงกลยุทธ์/แผนตรวจสอบประจำปี"/>
@@ -2397,7 +2633,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-f1d1d43bb90c4ccfbc2cecf4c3604eeb"
-          targetConnections="id-78c3336addb7440b85a7fb0d96fea575">
+          targetConnections="id-78c3336addb7440b85a7fb0d96fea575"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.6 ก.การรายงานและการติดตามผลการตรวจสอบ"/>
@@ -2413,7 +2650,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-fb3cadb17d60403a8a60583c13473dde"
-          targetConnections="id-1acca18482ea45d08ef734fe40eb06a4">
+          targetConnections="id-1acca18482ea45d08ef734fe40eb06a4"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.8 ก.จัดทำรายงานการประชุมคณะกรรมการ รฟม."/>
@@ -2429,7 +2667,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-aa5a5c55c22d4b20a09fb1dd27837e76"
-          targetConnections="id-1dde61b60a2641d7b7dc14cf17a7f674">
+          targetConnections="id-1dde61b60a2641d7b7dc14cf17a7f674"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.10 ก.จัดทำรายงานการประชุมคณะอนุกรรมการบริหาร"/>
@@ -2445,7 +2684,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-01af0c569e8047b5a8fa930f0fe40239"
-          targetConnections="id-d223b2d379f34065a3f8b8a42af533f1">
+          targetConnections="id-d223b2d379f34065a3f8b8a42af533f1"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.12 ก.จัดทำระเบียบวาระการประชุมคณะกรรมการตรวจสอบ"/>
@@ -2461,7 +2701,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-4072b431dff545db9c178f50fe251fef"
-          targetConnections="id-daa7565938564ba28e8e5a4b47069e83">
+          targetConnections="id-daa7565938564ba28e8e5a4b47069e83"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP12.14 ก.กำกับดูแลที่ดี (งานจัดการความสัมพันธของผู้มีส่วนได้ส่วนเสียและลูกค้า"/>
@@ -2520,7 +2761,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-20dfc9ea8dc04ccc86bfdde832b8e1e5"
-          targetConnections="id-5bb592a7470245a2a569d12078808981">
+          targetConnections="id-5bb592a7470245a2a569d12078808981"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP13.1 ก.บริหารความเสี่บงระดับองค์กร"/>
@@ -2536,7 +2778,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8cfee4ef5fc34fedbff96bf2096dad2e"
-          targetConnections="id-6285d0347bb646da98ca9fa0b1c90c01">
+          targetConnections="id-6285d0347bb646da98ca9fa0b1c90c01"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP13.3 ก.ควบคุมภายในขององค์กร"/>
@@ -2552,7 +2795,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-46004618166a48cd9b62354d3832be7f"
-          targetConnections="id-7de96a1dd03a49538d9a69c4945b134d">
+          targetConnections="id-7de96a1dd03a49538d9a69c4945b134d"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP13.2 ก.บริหารความต่อเนื่องทางธุรกิจ"/>
@@ -2593,7 +2837,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-82ce0360c63b4daea91f85cd4ea28a19"
-          targetConnections="id-311bf123579946eeab1637e1bc8f4088">
+          targetConnections="id-311bf123579946eeab1637e1bc8f4088"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP14.1 ก.ระบบบริหารคุณภาพ"/>
@@ -2697,7 +2942,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-898264605ab04c93bd4a15240191f650"
-          targetConnections="id-8e4c334cf81341dcad4bbc0b7879f877">
+          targetConnections="id-8e4c334cf81341dcad4bbc0b7879f877"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP15.1 ก.งานสื่อสารองค์กร"/>
@@ -2713,7 +2959,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-20c415e7eeb547cdada0bab7e64e401f"
-          targetConnections="id-bfc8fe39fe434b6e8a2cdcf2f48851c5">
+          targetConnections="id-bfc8fe39fe434b6e8a2cdcf2f48851c5"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP15.3 ก.งานผลิตสื่อประชาสัมพันธ์"/>
@@ -2729,7 +2976,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-48d1e0f82d4e4d83b4801804e3496ef3"
-          targetConnections="id-61aa9fe8e0594b8c9356492c24befea0">
+          targetConnections="id-61aa9fe8e0594b8c9356492c24befea0"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP15.5 ก.การจัดกิจกรรมเพื่อสังคม"/>
@@ -2745,7 +2993,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-67a2596cd19c468aa9e98738cfc945ca"
-          targetConnections="id-f915da024bf94cdfb15a31e53776d461">
+          targetConnections="id-f915da024bf94cdfb15a31e53776d461"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP15.7 ก.รับเรื่องราวร้องทุกข์"/>
@@ -2761,7 +3010,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-79b250b9755d42c2b7529de0aafaa797"
-          targetConnections="id-66802613051c41c7840fae3531f7262a">
+          targetConnections="id-66802613051c41c7840fae3531f7262a"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP15.2 ก.งานสื่อสารภายในองค์กร"/>
@@ -2777,7 +3027,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-129d9b7567224e37b8d25f1f5be3eeb7"
-          targetConnections="id-da4f81faadeb4e96a555e7c21f2dbca6">
+          targetConnections="id-da4f81faadeb4e96a555e7c21f2dbca6"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP15.4 ก.การจัดกิจกรรมองค์กร"/>
@@ -2793,7 +3044,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-80731abc1a1e43c18b2abd8f43847399"
-          targetConnections="id-43c30ea92680403da67084e13cc92cc4">
+          targetConnections="id-43c30ea92680403da67084e13cc92cc4"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP15.6 ก.มวลชนสัมพันธ์"/>
@@ -2809,7 +3061,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-24d9b11a90d643738822d553df64b736"
-          targetConnections="id-006a809392fc423a87beed7d0743937a">
+          targetConnections="id-006a809392fc423a87beed7d0743937a"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP15.8 ก.งานข้อมูลข่าวสารขององค์กร"/>
@@ -2967,7 +3220,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8602c8b01ecf4138b48999e9bbe8e00e"
-          targetConnections="id-25b1e47a15164c4fa282d53d601acf4b">
+          targetConnections="id-25b1e47a15164c4fa282d53d601acf4b"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.7 ก.กำหนดนโยบาย ด้านความปลอดภัยอาชีวอนามัย และสภาพ แวดล้อมในการทำงาน"/>
@@ -2983,7 +3237,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7918e5409fee4be89ffb3ce8b18b3e96"
-          targetConnections="id-0a5cc79062454fef87d038d5f8564b3f">
+          targetConnections="id-0a5cc79062454fef87d038d5f8564b3f"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.9 ก.จัดทำคู่มือ/มาตรการ ระเบียบ ด้านความปลอดภัย อาชีวอนามัย และสภาพแวดล้อมในการทำงาน"/>
@@ -2999,7 +3254,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-11ea9c30f07241fab29601ec7bd131a8"
-          targetConnections="id-e36c6ca4e67a4132b4a8d4a685dce1cc">
+          targetConnections="id-e36c6ca4e67a4132b4a8d4a685dce1cc"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.5 ก.จัดทำสรุปการประชุมผู้บริหารระดับสูงของ รฟม."/>
@@ -3015,7 +3271,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-f895e8f864ec4f7cb7f1b5f79079b099"
-          targetConnections="id-7e308c52ad9a462798cd9e386382095e">
+          targetConnections="id-7e308c52ad9a462798cd9e386382095e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.3 ก.บริหารจัดการเอกสารภายในแผนก"/>
@@ -3031,7 +3288,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-76210b71923846ee8a9d66cd3dd08c56"
-          targetConnections="id-541c080c8d8848b1b280ed8a49adfc3f">
+          targetConnections="id-541c080c8d8848b1b280ed8a49adfc3f"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.11 ก.การกำหนดแผนปฏิบัติการ ความปลอดภัย อาชีวอนามัย และสภาพแวดล้อมในการทำงาน"/>
@@ -3047,7 +3305,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-3a46c1bb3ea24464ab13017fdfa7875b"
-          targetConnections="id-b3db7ddb8c2b4b108356a282d6d8e775">
+          targetConnections="id-b3db7ddb8c2b4b108356a282d6d8e775"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.1 ก.บริหารเอกสาร"/>
@@ -3063,7 +3322,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-abbd3c4a94af4c83b09e18852ea988ee"
-          targetConnections="id-a832833e748f4e4989e9e28866ed542a">
+          targetConnections="id-a832833e748f4e4989e9e28866ed542a"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.2 ก.ส่งข้อมูลเอกสารระเบียบวาระเข้าในระบบเผยแพร่ E-document"/>
@@ -3079,7 +3339,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-f7471f2108954d78bb85bdae0f3ea730"
-          targetConnections="id-535a8b14fc4c453d8383bddadd35ce7d">
+          targetConnections="id-535a8b14fc4c453d8383bddadd35ce7d"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.4 ก.บริหารจัดการเอกสารของผู้ช่วยผู้ว่าการ"/>
@@ -3095,7 +3356,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-71a034de4f6c4ba88111d86a0b5e8c3a"
-          targetConnections="id-5acc31c5bced454f9183ebcb61c06b44">
+          targetConnections="id-5acc31c5bced454f9183ebcb61c06b44"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.6 ก.บริหารอาคารและสถานที่"/>
@@ -3111,7 +3373,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-5e1ab69b516e4de7a33352edbd145bce"
-          targetConnections="id-8522c4c6aced4d80bd88ac05250d54c1">
+          targetConnections="id-8522c4c6aced4d80bd88ac05250d54c1"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.8 ก.กำหนดแผนดำเนินงาน/กิจกรรมด้านความปลอดภัย อาชีวอนามัย และสภาพแวดล้อมในการทำงาน"/>
@@ -3127,7 +3390,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-dc20145b958a4eb8a1326dd3d6959466"
-          targetConnections="id-8e7db1dd4c67422e98f9e6823e7fd27d">
+          targetConnections="id-8e7db1dd4c67422e98f9e6823e7fd27d"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.10 ก.จัดทำคู่มือ/มาตรการ ระเบียบ ด้านการใช้สินทรัพย์ของ สปอ."/>
@@ -3143,7 +3407,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-36e3e01e0eaa4bfe9962b1a4e772d8b5"
-          targetConnections="id-80bd27a188bd41cfb87c5705d38f5a26">
+          targetConnections="id-80bd27a188bd41cfb87c5705d38f5a26"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.12 ก.การประชุมคณะกรรมการด้านความปลอดภัย อาชีวอนามัย และสภาพแวดล้อมในการทำงาน (คปอ.)"/>
@@ -3159,7 +3424,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-81b8bfdb09434ce7974bbfb6330418a9"
-          targetConnections="id-f9833bb5937d4662ad5d4cc6aa85d37c">
+          targetConnections="id-f9833bb5937d4662ad5d4cc6aa85d37c"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.13 ก.บริหารยานพาหนะ"/>
@@ -3175,7 +3441,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-37a852175f854fd1a05612df741b9dfd"
-          targetConnections="id-1cf23b86bcf74d30bf0b9bd281b1c137">
+          targetConnections="id-1cf23b86bcf74d30bf0b9bd281b1c137"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP16.14 ก.จัดเตรียมงานพิธีการ"/>
@@ -3234,7 +3501,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b0af8ff80326483facd7040d39664c84"
-          targetConnections="id-0c958df001d04f5680b829e8841beae7">
+          targetConnections="id-0c958df001d04f5680b829e8841beae7"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP17.1 ก.บริหารทรัพยากรบุคคล"/>
@@ -3250,7 +3518,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-aa2951b750064d21926b2368f9b5cb7e"
-          targetConnections="id-72b8e08173c846baa60e9eb7f1b24255">
+          targetConnections="id-72b8e08173c846baa60e9eb7f1b24255"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP17.2 ก.จัดการสวัสดิการและบริหารผลตอบแทน"/>
@@ -3266,7 +3535,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-006b18afad5d44269d82b3161deea4b2"
-          targetConnections="id-bb1033fbd34b45869b61be182ea9f74e">
+          targetConnections="id-bb1033fbd34b45869b61be182ea9f74e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP17.3 ก.พัฒนาทรัพยากรบุคคล"/>
@@ -3325,7 +3595,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-deb8ec43600d493f9d18dfd7963d4205"
-          targetConnections="id-f56960054a4a49d8a9cf7b11a2c3c26e">
+          targetConnections="id-f56960054a4a49d8a9cf7b11a2c3c26e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP18.1 ก.บริหารจัดการและติดตามการดำเนินงานสารสนเทศ"/>
@@ -3341,7 +3612,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-57794790bd8d4c5f9b5c13f9433f6d9c"
-          targetConnections="id-4e3bd1e3f1e84193932defc928620d1e">
+          targetConnections="id-4e3bd1e3f1e84193932defc928620d1e"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP18.2 ก.พัฒนาระบบสารสนเทศ"/>
@@ -3357,7 +3629,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-eb12ab4b6de64976a1e9891d44198a34"
-          targetConnections="id-81f48c74d1054d4ba608282557a3b502">
+          targetConnections="id-81f48c74d1054d4ba608282557a3b502"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP18.3 ก.ดูแลและบำรุงรักษาระบบคอมพิวเตอร์และระบบเครือข่ายสื่อสารข้อมูล"/>
@@ -3443,7 +3716,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c88b6b970c064b2db4af428eeecc23c5"
-          targetConnections="id-1802c0f3347649e680fd2bb5373fb727">
+          targetConnections="id-1802c0f3347649e680fd2bb5373fb727"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP19.1 ก.จัดทำงานวิจัยและพัฒนาด้านรถไฟฟ้า"/>
@@ -3459,7 +3733,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d100ac76aa0542d185fe4bd101e942cf"
-          targetConnections="id-66bf4915fc9f417b8a3779dee9d50ced">
+          targetConnections="id-66bf4915fc9f417b8a3779dee9d50ced"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP19.3 ก.ฝึกอบรมบุคลากรระบบรางของศูนย์ฝึกอบรมบุคลากรระบบราง ฝ่ายปฏิบัติการ"/>
@@ -3475,7 +3750,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-89325e8d7f9b4e8c80a84bf5c70494cd"
-          targetConnections="id-a6cf55f18bf84a6788cba57e64eea292">
+          targetConnections="id-a6cf55f18bf84a6788cba57e64eea292"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP19.5 ก.จัดทำ/ทบทวนแผนแม่บทการจัดการนวัตกรรม ฉบับปรับปรุงปีงบประมาณ 2566"/>
@@ -3491,7 +3767,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-37b707d6c83d4b1fad631864f1ab1de5"
-          targetConnections="id-16f12dd0ed964476904efa807be41c91">
+          targetConnections="id-16f12dd0ed964476904efa807be41c91"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP19.2 ก.จัดการความรู้"/>
@@ -3507,7 +3784,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-57caad8793bd461383152806f5b7d2ff"
-          targetConnections="id-e3c4a9b08cb944b2a4932c55ccb91308">
+          targetConnections="id-e3c4a9b08cb944b2a4932c55ccb91308"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP19.4 ก.ให้บริการห้องสมุด"/>
@@ -3523,7 +3801,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-137dbd8a9acf441095c191dba19994e7"
-          targetConnections="id-c1e9d3b35c1247a3b3e32a0fdcde9767">
+          targetConnections="id-c1e9d3b35c1247a3b3e32a0fdcde9767"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP19.6 ก.ด้านการจัดการนวัตกรรม "/>
@@ -3582,7 +3861,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ace405e0a2de42258f62f10c82ca5b6f"
-          targetConnections="id-43d51fe5cff340948a721cb1d99d6ae5">
+          targetConnections="id-43d51fe5cff340948a721cb1d99d6ae5"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP20.1 ก.ซื้อหรือจ้างโดยวิธีประกาศเชิญชวนทั่วไป"/>
@@ -3598,7 +3878,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-fd8c50fe28a4492da827c08e3e235212"
-          targetConnections="id-5ff6e650db234d9ca37823d43e4d527c">
+          targetConnections="id-5ff6e650db234d9ca37823d43e4d527c"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP20.2 ก.ขั้นตอนจัดซื้อจัดจ้าง โดยวิธีคัดเลือก"/>
@@ -3614,7 +3895,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-dfa2637fdf8f4608a4cf45741e27cff2"
-          targetConnections="id-045c42335da5459d83c3d9e6f4448378">
+          targetConnections="id-045c42335da5459d83c3d9e6f4448378"
+          textPosition="1">
         <features
             name="labelExpression"
             value="SP20.3 ก.ขั้นตอนการจัดซื้อจัดจ้าง วิธีเฉพาะเจาะจง"/>
