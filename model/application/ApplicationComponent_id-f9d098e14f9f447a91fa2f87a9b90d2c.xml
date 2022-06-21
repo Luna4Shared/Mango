@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบตรวจสอบและร้องเรียนด้านอาชีวอนามัย (copy)"
+    id="id-f9d098e14f9f447a91fa2f87a9b90d2c">
+  <properties
+      key="Description"
+      value="ระบบตรวจสอบและร้องเรียนด้านอาชีวอนามัย"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อเสนอแนะและข้อร้องเรียนด้านความปลอดภัยในการทำงานของพนักงาน รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+  <properties
+      key="Seq"
+      value="66"/>
+</archimate:ApplicationComponent>
