@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D11.9.1"
+    id="id-8831ba75dc004fe7b3c1f9e632c73d3b">
+  <properties
+      key="Description"
+      value="ข้อมูลเงินรับล่วงหน้า (Float) จากบัตรโดยสารของ รฟม."/>
+</archimate:DataObject>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D10.2.2.7"
+    id="id-1762aef1086644e0ac55314c5ca2918b">
+  <properties
+      key="Description"
+      value="หมวดสินทรัพย์ จัดทำ reconcile bank ดอกเบี้ยเงินฝากธนาคาร ทุกสิ้นเดือน บันทึกข้อมูลสินทรัพย์ของ รฟม. ค่าเสื่อมราคาโครงการรถไฟฟ้าต่างๆ ของ รฟม. ค่าเสื่อมทั่วไป วัสดุคงเหลือ"/>
+</archimate:DataObject>

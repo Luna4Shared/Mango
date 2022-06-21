@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="17.1.1"
+    id="id-f31d9676e5524e2abe15e7513c67f5d5">
+  <properties
+      key="Description"
+      value="ก.จัดการฐานข้อมูลทรัพยากรบุคคล"/>
+  <properties
+      key="NAME"
+      value="17.1.1"/>
+</archimate:DataObject>

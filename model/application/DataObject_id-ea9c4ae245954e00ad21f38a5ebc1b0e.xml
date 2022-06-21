@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.1.2.1"
+    id="id-ea9c4ae245954e00ad21f38a5ebc1b0e">
+  <properties
+      key="Description"
+      value="ก.เบิกจ่ายจากเงินรายได้ ของ รฟม."/>
+  <properties
+      key="NAME"
+      value="10.1.2.1"/>
+</archimate:DataObject>

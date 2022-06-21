@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D10.2.1.8"
+    id="id-ad3945bb76284ad8b97c745e4cb8c18d">
+  <properties
+      key="Description"
+      value="กองบัญชีตรวจสอบบันทึกที่ฝ่ายต้นเรื่องจัดส่งมากับรายละเอียดจากทะเบียนคุมเงินประกันสัญญา และออกบันทึกให้กองตรวจจ่ายเพื่อยืนยันว่าได้รับเงินประกันสัญญาไว้และยังไม่ได้จ่ายคืน"/>
+</archimate:DataObject>

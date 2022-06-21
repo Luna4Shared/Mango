@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D10.5.1"
+    id="id-10fd888ad2854d0696132400d15067c7">
+  <properties
+      key="Description"
+      value="รายละเอียดของข้อมูล และเอกสารที่ใช้ประกอบการเบิกจ่าย เช่น ใบแจ้งหนี้ ใบเสร็จรับเงิน เป็นต้น"/>
+</archimate:DataObject>

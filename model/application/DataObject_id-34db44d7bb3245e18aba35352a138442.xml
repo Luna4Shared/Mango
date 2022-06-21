@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.1.2.3"
+    id="id-34db44d7bb3245e18aba35352a138442">
+  <properties
+      key="Description"
+      value="ก.เบิกจ่ายจากเงินกู้"/>
+  <properties
+      key="NAME"
+      value="10.1.2.3"/>
+</archimate:DataObject>
