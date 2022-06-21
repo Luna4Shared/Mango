@@ -4748,105 +4748,291 @@
         value="CP4&#xD;&#xA;กระบวนการก่อสร้างงานโยธาและงานระบบไฟฟ้า"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-03ebb72508ca4edc9aa28880c550c0ba"
+        id="id-1b358140764648b1a45780f0a7809a98"
         source="id-02b8c4a3d698416aa384b30bb17239b8"
-        target="id-6d546baeb557449fb9b0866d2e060ad2">
+        target="id-2857ab6d7be143038e0ae5420153d195">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-a2cfa6730c3f41c4ac00efa9b7f09ab1.xml#id-a2cfa6730c3f41c4ac00efa9b7f09ab1"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-574b8e914a1b4a9084333c6e3162b110"
+        source="id-02b8c4a3d698416aa384b30bb17239b8"
+        target="id-6e9bf90d7b0a4515836f6ecd4860e95a">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-1b8b5ca742544550a2ad3730fbc45dde.xml#id-1b8b5ca742544550a2ad3730fbc45dde"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-55503f3f2d174fbc822dce4db656efb4"
+        source="id-02b8c4a3d698416aa384b30bb17239b8"
+        target="id-6cbb076a829a41249145b448233ef0ca">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-0027be1c8891453bb1eb3773dc331c8e.xml#id-0027be1c8891453bb1eb3773dc331c8e"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-16ea0287112a42ffaaaeaa05d22b33d1"
+        source="id-02b8c4a3d698416aa384b30bb17239b8"
+        target="id-0b6a5024057643c09afc2c1f14d337df">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-6506b3d971944eab960ab4f2bee26b6b.xml#id-6506b3d971944eab960ab4f2bee26b6b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-86ab71853a974fcfaf04b3d5206b1e7c"
+        source="id-02b8c4a3d698416aa384b30bb17239b8"
+        target="id-e734c8d1830c4650a40df0a0eb39819a">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-095ad635c04746e08f74f12c499ee61c.xml#id-095ad635c04746e08f74f12c499ee61c"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7bca75df144d4285b1afc8bf876b37ee"
+        source="id-02b8c4a3d698416aa384b30bb17239b8"
+        target="id-6d816469018f4a05919ef80c876aaee8">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-3d9377ee812b4ccc9c0c27daf760e593.xml#id-3d9377ee812b4ccc9c0c27daf760e593"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8fe6700b9147440dad3be493362d42a7"
+        source="id-02b8c4a3d698416aa384b30bb17239b8"
+        target="id-df3822d495854f3bb79b7e2f1e95dc65">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-e4274c6cf57b49cfb3b0bac16281e3f3.xml#id-e4274c6cf57b49cfb3b0bac16281e3f3"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5371f5819cc34eb18d5e1c559be74bbc"
+        source="id-02b8c4a3d698416aa384b30bb17239b8"
+        target="id-ba648f68e7ed4479acfff14589fd2f5c">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-66d305cdec4e41ad8737bf82221b1c5f.xml#id-66d305cdec4e41ad8737bf82221b1c5f"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0f75fd097d0247c08eb7d2bba69d3ec7"
+        id="id-1f75d27e56634813938750a022e582c4"
         source="id-02b8c4a3d698416aa384b30bb17239b8"
-        target="id-807ff24cc59b4c788406f48677b96a03">
+        target="id-ced6e6faae174a25afa162e4dc480296">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-7362c892b1964eaf8f8faa88d81398b0.xml#id-7362c892b1964eaf8f8faa88d81398b0"/>
+          href="CompositionRelationship_id-40f55d2fec1c4a1bb6374f7c895d650a.xml#id-40f55d2fec1c4a1bb6374f7c895d650a"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-5392a6e203b347dcb46b8111151633ec"
+        id="id-905b874b86c14c16a5227f65dc925030"
         source="id-02b8c4a3d698416aa384b30bb17239b8"
-        target="id-2677380c957a4a47b7f6bf1bc8f17508">
+        target="id-8445b28e3cc04db9b9c3657fb9d90be1">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-51d211082c8240089ad29432576e4bc0.xml#id-51d211082c8240089ad29432576e4bc0"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e28769f2e99647d4905598c5f8b79cd5"
+        id="id-eae11301e1544b19b8a4df06cbc168ef"
         source="id-02b8c4a3d698416aa384b30bb17239b8"
-        target="id-3480340e6a8640c3880b711a0191832c">
+        target="id-af476d42165743eb958dc1fc89be9cb7">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-40f55d2fec1c4a1bb6374f7c895d650a.xml#id-40f55d2fec1c4a1bb6374f7c895d650a"/>
+          href="CompositionRelationship_id-7362c892b1964eaf8f8faa88d81398b0.xml#id-7362c892b1964eaf8f8faa88d81398b0"/>
     </sourceConnections>
     <bounds
         x="37"
-        y="3960"
-        width="1297"
-        height="169"/>
+        y="3780"
+        width="2796"
+        height="325"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6d546baeb557449fb9b0866d2e060ad2"
-        targetConnections="id-03ebb72508ca4edc9aa28880c550c0ba">
+        id="id-2857ab6d7be143038e0ae5420153d195"
+        targetConnections="id-1b358140764648b1a45780f0a7809a98"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="CP4.1 ก.งานกำกับ ดูแลและตรวจสอบงานก่อสร้างงานโยธาโครงการรถไฟฟ้าสายสีเขียว ช่วงหมอชิต - สะพานใหม่ - คูคต"/>
+      <bounds
+          x="24"
+          y="99"
+          width="217"
+          height="154"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-1dc827d9ac7c4992988962af83b1ced8.xml#id-1dc827d9ac7c4992988962af83b1ced8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6e9bf90d7b0a4515836f6ecd4860e95a"
+        targetConnections="id-574b8e914a1b4a9084333c6e3162b110"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="CP4.2 ก.งานกำกับ ดูแลและตรวจสอบงานก่อสร้างงานโยธา โครงการรถไฟฟ้าสายสีส้ม ช่วงศูนย์วัฒนธรรมแห่งประเทศไทย - มีนบุรี (สุวินทวงศ์) สัญญาที่ 1"/>
+      <bounds
+          x="276"
+          y="99"
+          width="217"
+          height="154"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-2d5e2ba6f22440de9143b2459b0eb218.xml#id-2d5e2ba6f22440de9143b2459b0eb218"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6cbb076a829a41249145b448233ef0ca"
+        targetConnections="id-55503f3f2d174fbc822dce4db656efb4"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="CP4.3 ก.งานกำกับ ดูแล และตรวจสอบการก่อสร้างโยธา สัญญาก่อสร้างรูปแบบการออกแบบและก่อสร้าง (Design Build) โครงการรถไฟฟ้าสายสีส้มส้ม ช่วงศูนย์วัฒนธรรมแห่งประเทศไทย - มีนบุรี (สุวินทวงศ์) (สัญญาที่ 2 สัญญาที่ 3 และสัญญาที่ 6)"/>
+      <bounds
+          x="528"
+          y="99"
+          width="217"
+          height="154"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-8c68076ff7a546d2804b7fcb8e812406.xml#id-8c68076ff7a546d2804b7fcb8e812406"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-0b6a5024057643c09afc2c1f14d337df"
+        targetConnections="id-16ea0287112a42ffaaaeaa05d22b33d1"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="CP4.4 ก.กำกับ ดูแล การดำเนินงานก่อสร้างงานโยธา โครงการรถไฟฟ้าสายสีส้ม ช่วงศูนย์วัฒนธรรมแห่งประเทศไทย - มีนบุรี &#xD;&#xA;(สุวินทวงศ์) สัญญาที่ 4"/>
+      <bounds
+          x="780"
+          y="99"
+          width="217"
+          height="154"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-836076676d2e4c2ea9ddcfbd134460dc.xml#id-836076676d2e4c2ea9ddcfbd134460dc"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e734c8d1830c4650a40df0a0eb39819a"
+        targetConnections="id-86ab71853a974fcfaf04b3d5206b1e7c"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="CP4.7 ก.งานกำกับดูแล และตรวจสอบงานก่อสร้างงานโยธา โครงการรถไฟฟ้าสายสีเหลืองช่วงลาดพร้าว - สำโรง"/>
+      <bounds
+          x="1536"
+          y="99"
+          width="217"
+          height="154"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-bb8d85ebbab7435094612bdebe7974c8.xml#id-bb8d85ebbab7435094612bdebe7974c8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6d816469018f4a05919ef80c876aaee8"
+        targetConnections="id-7bca75df144d4285b1afc8bf876b37ee"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="CP4.6 ก.การกำกับ ดูแล และตรวจสอบงาน ก่อสร้างงานโยธา โครงการรถไฟฟ้าสายสีชมพู ช่วงแคราย-มีนบุรี"/>
+      <bounds
+          x="1284"
+          y="99"
+          width="217"
+          height="154"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-5561fad0e49f4103ac523bbbedc2d15d.xml#id-5561fad0e49f4103ac523bbbedc2d15d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-df3822d495854f3bb79b7e2f1e95dc65"
+        targetConnections="id-8fe6700b9147440dad3be493362d42a7"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="CP4.5 ก.กำกับ ดูแล การดำเนินงานก่อสร้างงานโยธา โครงการรถไฟฟ้าสายสีส้ม ช่วงศูนย์วัฒนธรรมแห่งประเทศไทย - มีนบุรี (สุวินทวงศ์) สัญญาที่ 5"/>
+      <bounds
+          x="1032"
+          y="99"
+          width="217"
+          height="154"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-d20773582ff94f9eb6f448b4995165ac.xml#id-d20773582ff94f9eb6f448b4995165ac"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ba648f68e7ed4479acfff14589fd2f5c"
+        targetConnections="id-5371f5819cc34eb18d5e1c559be74bbc"
+        textPosition="1">
       <features
           name="labelExpression"
           value="CP4.8 ก.กำกับ/ดูแลงานก่อสร้างด้านสถาปัตยกรรมของโครงการ"/>
       <bounds
-          x="276"
-          y="72"
+          x="1788"
+          y="99"
           width="217"
-          height="73"/>
+          height="154"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-43a7ca59f7f04277a7d4c4fdb1e67305.xml#id-43a7ca59f7f04277a7d4c4fdb1e67305"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-3480340e6a8640c3880b711a0191832c"
-        targetConnections="id-e28769f2e99647d4905598c5f8b79cd5">
+        id="id-ced6e6faae174a25afa162e4dc480296"
+        targetConnections="id-1f75d27e56634813938750a022e582c4"
+        textPosition="1">
       <features
           name="labelExpression"
           value="CP4.9 ก.กำกับดูแลการติดตั้งงานระบบรถไฟฟ้า"/>
       <bounds
-          x="528"
-          y="72"
+          x="2040"
+          y="99"
           width="217"
-          height="73"/>
+          height="154"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-af2e034ada5a49b29d56f96b4d0853c5.xml#id-af2e034ada5a49b29d56f96b4d0853c5"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-2677380c957a4a47b7f6bf1bc8f17508"
-        targetConnections="id-5392a6e203b347dcb46b8111151633ec">
+        id="id-8445b28e3cc04db9b9c3657fb9d90be1"
+        targetConnections="id-905b874b86c14c16a5227f65dc925030"
+        textPosition="1">
       <features
           name="labelExpression"
           value="CP4.10 ก.กำกับ ดูแล งานติดตั้งระบบไฟฟ้าเครื่องกลภายในอาคารสถานีและอาคารจอด"/>
       <bounds
-          x="792"
-          y="72"
+          x="2292"
+          y="99"
           width="217"
-          height="73"/>
+          height="154"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-8e88a044ab8e46e08a570dcc6c9f07fe.xml#id-8e88a044ab8e46e08a570dcc6c9f07fe"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-807ff24cc59b4c788406f48677b96a03"
-        targetConnections="id-0f75fd097d0247c08eb7d2bba69d3ec7">
+        id="id-af476d42165743eb958dc1fc89be9cb7"
+        targetConnections="id-eae11301e1544b19b8a4df06cbc168ef"
+        textPosition="1">
       <features
           name="labelExpression"
           value="CP4.11 ก.การตรวจเยี่ยมด้านความปลอดภัย อาชีวอนามัยและสภาพแวดล้อมในการทำงาน โครงการก่อสร้าง"/>
       <bounds
-          x="1056"
-          y="72"
+          x="2544"
+          y="99"
           width="217"
-          height="73"/>
+          height="154"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-146d14e6bc7143afb1e9ac703afd066b.xml#id-146d14e6bc7143afb1e9ac703afd066b"/>
