@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบตรวจสอบเงินค่าสวัสดิการ"
+    id="id-50660c10a5614f1da76bca8d49e5b22f">
+  <properties
+      key="Description"
+      value="ระบบตรวจสอบเงินค่าสวัสดิการ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการเผยแพร่ข่าวสารการเบิกจ่ายค่าสวัสดิการ"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+</archimate:ApplicationComponent>

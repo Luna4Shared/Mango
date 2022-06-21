@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงานสารบรรณ (เก่า)"
+    id="id-27dac98ab24144f28dbc3532a9be81d7">
+  <properties
+      key="Description"
+      value="ระบบงานสารบรรณ (เก่า)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลเอกสารภายใน รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="ไม่มีการปรับปรุงข้อมูล ใช้เพียงแค่เรียกดูข้อมูลเดิม&#xA;ยังไม่มีแผนย้ายข้อมูลไประบบระบบสารบรรณใหม่"/>
+</archimate:ApplicationComponent>

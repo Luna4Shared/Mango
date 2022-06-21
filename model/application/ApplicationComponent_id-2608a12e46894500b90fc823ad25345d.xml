@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบ File Server"
+    id="id-2608a12e46894500b90fc823ad25345d">
+  <properties
+      key="Description"
+      value="ระบบ File Server"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+</archimate:ApplicationComponent>

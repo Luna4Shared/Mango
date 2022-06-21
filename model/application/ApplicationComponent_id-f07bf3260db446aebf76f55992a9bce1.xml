@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารทรัพยากรบุคคล (HR)"
+    id="id-f07bf3260db446aebf76f55992a9bce1">
+  <properties
+      key="Description"
+      value="ระบบบริหารทรัพยากรบุคคล (HR)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="สนับสนุนการปฏิบัติงานด้านบริหารทรัพยากรบุคคล ด้านสวัสดิการและบริหารผลตอบแทน ด้านพัฒนาบุคลากรและระบบงาน รวมทั้งงานด้านอื่น ๆ ที่เกี่ยวข้อง"/>
+  <properties
+      key="Status"
+      value="ยังไม่ได้ใช้งาน"/>
+  <properties
+      key="Remark"
+      value="อยุ่ระหว่างขั้นตอน UAT"/>
+</archimate:ApplicationComponent>

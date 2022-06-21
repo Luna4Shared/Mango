@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="เว็บไซต์สมาคมพนักงาน รฟม."
+    id="id-753256179af948f69e8832ff61acfb68">
+  <properties
+      key="Description"
+      value="เว็บไซต์สมาคมพนักงาน รฟม."/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการเผยแพร่ข่าวสารเกี่ยวกับสมาคมพนักงาน รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+</archimate:ApplicationComponent>

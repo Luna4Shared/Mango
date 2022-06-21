@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบ Active Directory"
+    id="id-e447a9481e4c4181961df099cea93aa8">
+  <properties
+      key="Description"
+      value="ระบบ Active Directory"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารงานรักษาความปลอดภัยและกู้ภัย (MITS)"
+    id="id-c20fec5ed4a341e38e85ec07f12035f8">
+  <properties
+      key="Description"
+      value="ระบบบริหารงานรักษาความปลอดภัยและกู้ภัย (MITS)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลพนักงานกะ ฝรภ. เช่น ข้อมูลพื้นฐาน ช่วงเวลาปฏิบัติงาน ชุดปฏิบัติงาน ตารางกะ"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+</archimate:ApplicationComponent>

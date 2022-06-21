@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงานห้องสมุด"
+    id="id-291f094743ef46789e0b3c63d2d08140">
+  <properties
+      key="Description"
+      value="ระบบงานห้องสมุด"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลหนังสือ"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ KM MRTA Website"/>
+</archimate:ApplicationComponent>

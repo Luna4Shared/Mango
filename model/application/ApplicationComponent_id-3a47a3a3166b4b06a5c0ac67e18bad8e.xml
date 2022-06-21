@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารจัดการเครื่องมือ อุปกรณ์ และยานพาหนะ กองกู้ภัย (ROA)"
+    id="id-3a47a3a3166b4b06a5c0ac67e18bad8e">
+  <properties
+      key="Description"
+      value="ระบบบริหารจัดการเครื่องมือ อุปกรณ์ และยานพาหนะ กองกู้ภัย (ROA)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการเครื่องมือ อุปกรณ์ และยานพาหนะ กองกู้ภัย"/>
+  <properties
+      key="Status"
+      value="กำลังจะยกเลิก"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ SAM"/>
+</archimate:ApplicationComponent>

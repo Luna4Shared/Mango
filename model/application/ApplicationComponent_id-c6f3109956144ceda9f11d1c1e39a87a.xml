@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบ Email"
+    id="id-c6f3109956144ceda9f11d1c1e39a87a">
+  <properties
+      key="Description"
+      value="ระบบ Email"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+</archimate:ApplicationComponent>
