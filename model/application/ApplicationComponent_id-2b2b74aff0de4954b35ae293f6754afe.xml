@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบบริหารงานบำรุงรักษา (Computerize Maintenance Management System: CMMS)"
+    id="id-2b2b74aff0de4954b35ae293f6754afe">
+  <properties
+      key="Description"
+      value="ระบบบริหารงานบำรุงรักษา (Computerize Maintenance Management System: CMMS)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="การบริหารจัดการงานการบำรุงรักษาอาคาร ลานจอดรถ ตามแนวสายทางรถไฟฟ้า"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+</archimate:ApplicationComponent>

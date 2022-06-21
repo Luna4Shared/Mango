@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบฐานข้อมูลรายงานเหตุอาชญากรรม (Crime)"
+    id="id-129f50d24f394c469476f5fc95dbb427">
+  <properties
+      key="Description"
+      value="ระบบฐานข้อมูลรายงานเหตุอาชญากรรม (Crime)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลการเกิดเหตุอาชญากรรมตามแนวสายทางรถไฟฟ้ามหานคร รวมถึงข้อมูลผู้ก่อเหตุอาชกรรมและผู้ต้องสงสัย"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"/>
+</archimate:ApplicationComponent>

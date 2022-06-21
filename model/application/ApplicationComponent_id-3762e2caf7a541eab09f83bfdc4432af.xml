@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบรับเรื่องร้องเรียน (Phase 1)"
+    id="id-3762e2caf7a541eab09f83bfdc4432af">
+  <properties
+      key="Description"
+      value="ระบบรับเรื่องร้องเรียน (Phase 1)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="การบริหารจัดการข้อมูลเรื่องร้องเรียน"/>
+  <properties
+      key="Status"
+      value="ไม่ได้ใช้งาน"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ รับเรื่องร้องเรียน (Phase 2)"/>
+</archimate:ApplicationComponent>
