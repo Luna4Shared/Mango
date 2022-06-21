@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบเผยแพร่เอกสารสำหรับคณะกรรมการจัดการ (copy)"
+    id="id-7240663aac1043589d1ba2bff2e6d86c">
+  <properties
+      key="Description"
+      value="ระบบเผยแพร่เอกสารสำหรับคณะกรรมการจัดการ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการเอกสารสำหรับคณะกรรมการจัดการ"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบเลขานุการคณะกรรมการ รฟม. (EDOC)"/>
+  <properties
+      key="Seq"
+      value="52"/>
+</archimate:ApplicationComponent>
