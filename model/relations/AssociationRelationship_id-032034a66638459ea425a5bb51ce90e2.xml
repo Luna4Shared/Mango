@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-032034a66638459ea425a5bb51ce90e2">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a33fcf1127744e2e8a371c8c4e49c926.xml#id-a33fcf1127744e2e8a371c8c4e49c926"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-b434f23eee9544c18d548865fd02994a.xml#id-b434f23eee9544c18d548865fd02994a"/>
+</archimate:AssociationRelationship>
