@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบสติกเกอร์ (copy)"
+    id="id-29fab3a001d349669ef70318b035d32e">
+  <properties
+      key="Description"
+      value="ระบบสติกเกอร์"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="จัดการการขอสติกเกอร์ผ่านเข้า-ออก รฟม."/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบอาคารสถานที่และยานพาหนะ"/>
+  <properties
+      key="Seq"
+      value="9"/>
+</archimate:ApplicationComponent>

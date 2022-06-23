@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงานตู้เอกสารอิเล็กทรอนิกส์ (copy)"
+    id="id-4a7f3cc4db9e4c3bad54f8bf0c2ab49d">
+  <properties
+      key="Description"
+      value="ระบบงานตู้เอกสารอิเล็กทรอนิกส์"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลเอกสาร"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="2"/>
+</archimate:ApplicationComponent>

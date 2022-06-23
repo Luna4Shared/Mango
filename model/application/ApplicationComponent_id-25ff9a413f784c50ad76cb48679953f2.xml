@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบกิจกรรมพิเศษ (copy)"
+    id="id-25ff9a413f784c50ad76cb48679953f2">
+  <properties
+      key="Description"
+      value="ระบบกิจกรรมพิเศษ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลข่าว ประชาสัมพันธ์ รายงาน และสื่อต่าง ๆ"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ Website หน่วยงานภายใน/ภายนอก (เว็บท่า)"/>
+  <properties
+      key="Seq"
+      value="1"/>
+</archimate:ApplicationComponent>

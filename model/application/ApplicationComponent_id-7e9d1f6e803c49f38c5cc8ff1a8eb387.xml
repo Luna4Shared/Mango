@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบจองห้องประชุม (copy)"
+    id="id-7e9d1f6e803c49f38c5cc8ff1a8eb387">
+  <properties
+      key="Description"
+      value="ระบบจองห้องประชุม"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="จัดการการจองห้องประชุม"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบอาคารสถานที่และยานพาหนะ"/>
+  <properties
+      key="Seq"
+      value="8"/>
+</archimate:ApplicationComponent>

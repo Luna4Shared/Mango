@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงานผู้ดูแลระบบ (copy)"
+    id="id-93a7b76a25af4d3b9ce4e4acb33161c6">
+  <properties
+      key="Description"
+      value="ระบบงานผู้ดูแลระบบ"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลผู้ใช้งานและสิทธิการใช้งานระบบ MITS"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="4"/>
+</archimate:ApplicationComponent>

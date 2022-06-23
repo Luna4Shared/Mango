@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงบประมาณ การเงิน และบัญชี (copy)"
+    id="id-8ea6f6631aaa47a08a2fdaba3054f3e2">
+  <properties
+      key="Description"
+      value="ระบบงบประมาณ การเงิน และบัญชี"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="จองงบประมาณ"/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ ERP"/>
+  <properties
+      key="Seq"
+      value="13"/>
+</archimate:ApplicationComponent>

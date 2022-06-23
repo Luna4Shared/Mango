@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ระบบงานสารสนเทศสำหรับผู้บริหาร : EIS (MITS) (copy)"
+    id="id-7920d4d52049448e870fc691ae9ad9bb">
+  <properties
+      key="Description"
+      value="ระบบงานสารสนเทศสำหรับผู้บริหาร : EIS (MITS)"/>
+  <properties
+      key="Group"/>
+  <properties
+      key="Role"
+      value="บริหารจัดการข้อมูลสารสนเทศเบื้องต้นสำหรับผู้บริหาร "/>
+  <properties
+      key="Status"
+      value="ใช้งานปกติ"/>
+  <properties
+      key="Remark"
+      value="มีแผนที่จะทดแทนด้วยระบบ HR"/>
+  <properties
+      key="Seq"
+      value="5"/>
+</archimate:ApplicationComponent>
